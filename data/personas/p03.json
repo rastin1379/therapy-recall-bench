@@ -1,0 +1,330 @@
+{
+  "persona_id": "p03",
+  "name": "Teresa Valdés",
+  "case_formulation": "Teresa Valdés, 61, she/her, retired primary-school teacher (34 years at Los Olivos). Her husband Joaquín (64) died suddenly of a heart attack on Saturday 14 June 2025, around 11:30, while tying up his tomatoes in the back garden; Teresa was inside watching a cooking programme and found him when she went to call him in. They married at Santa Brígida on Saturday 1 August 1987; every anniversary he played their wedding song, 'Las Horas Lentas', and danced with her in the kitchen. The marriage was not untroubled: when their daughter Inés was four, Joaquín moved out to his brother's for six weeks. Supports: daughter Inés (lives two hours away, efficient, a planner), niece Clara (29, nurse, visits often). Sister-in-law Amparo, whom Joaquín nicknamed 'the Sergeant', pushes her to sell the house. Teresa's father died when she was 15 and her mother cleared his clothes within a week; she never forgave the loss of his coat, so other people clearing belongings for her is a template. Type 2 diabetes on oral tablets for six years; Joaquín cooked and managed her diet, and since his death she barely eats. Core beliefs: 'I am the one who looks after others; being looked after is a burden' and 'I should have been there.' Prolonged grief features: guilt about being inside, sleeping in his armchair (moves back upstairs in late May), avoidance of the garden, intense irritation at consoling platitudes ('he's in a better place'), idealisation of the marriage. Risk: passive wish not to wake up early on, no plan or intent, protective factors Inés and faith, foreshortened sense of the future. Coping resource: alto in the parish choir (Thursday rehearsals); she stops after the funeral, returns in late May with a clear lift in mood, and the choir breaks for summer in late June. Wears his grey cardigan daily.",
+  "sessions": [
+    {
+      "session_id": "p03_s1",
+      "date": "2026-04-15",
+      "turns": [
+        {"turn_id": "p03_s1_t01", "speaker": "therapist", "text": "Hello Teresa, come in, sit wherever's comfortable. Did you find us all right?"},
+        {"turn_id": "p03_s1_t02", "speaker": "client", "text": "Eventually. I got off the bus one stop too early and walked the rest, which was probably good for me. I should say straight away, this was my daughter's idea. Inés made the appointment. I'm not really someone who talks about herself. Thirty-four years of seven-year-olds, you get used to doing the listening."},
+        {"turn_id": "p03_s1_t03", "speaker": "therapist", "text": "Thirty-four years. You were a teacher?"},
+        {"turn_id": "p03_s1_t04", "speaker": "client", "text": "Primary. Second year, mostly, at Los Olivos, the school by the roundabout. Retired three years ago. I still wake up on the first Monday in September with my stomach in knots, as if there's a new class waiting for me. Joaquín used to laugh at me for it. He'd say, Teresa, you're free, go back to sleep."},
+        {"turn_id": "p03_s1_t05", "speaker": "therapist", "text": "Joaquín was your husband."},
+        {"turn_id": "p03_s1_t06", "speaker": "client", "text": "Yes. He died last June. The fourteenth, a Saturday, about half past eleven in the morning. He was out the back tying up his tomatoes and his heart just stopped. Sixty-four. He'd had a check-up in March and they said his blood pressure was a little high, that's all. So. That's why Inés made the appointment, if you were wondering."},
+        {"turn_id": "p03_s1_t07", "speaker": "therapist", "text": "I'm so sorry. Ten months isn't very long at all."},
+        {"turn_id": "p03_s1_t08", "speaker": "client", "text": "Everybody says that, or else they say it's ages and shouldn't I be picking things up again. I've stopped choir, for one. I sang alto at Santa Brígida for thirty years, rehearsals on a Thursday and the eleven o'clock on Sundays. They sang at his funeral, and I haven't been back since. I can't stand there and open my mouth."},
+        {"turn_id": "p03_s1_t09", "speaker": "therapist", "text": "What's it like at church now, without the choir?"},
+        {"turn_id": "p03_s1_t10", "speaker": "client", "text": "I still go to Mass. I sit at the back by the pillar where nobody can get at me. They all mean well, they do. But if one more person squeezes my hand and tells me he's in a better place, I'll scream. His place was here, with his feet on my coffee table. My cousin Pilar said it at the graveside and I had to go and read someone else's headstone."},
+        {"turn_id": "p03_s1_t11", "speaker": "therapist", "text": "That phrase really lands badly for you."},
+        {"turn_id": "p03_s1_t12", "speaker": "client", "text": "It's lazy. It's what people say instead of saying something. I used to tell the children, if you don't know what to say to somebody who's sad, say 'I'm sorry' and then stop talking. Adults never learned it. Sorry, I'm on my soapbox. Joaquín called it my playground voice."},
+        {"turn_id": "p03_s1_t13", "speaker": "therapist", "text": "Your playground voice is welcome here. Can I ask how you've been sleeping?"},
+        {"turn_id": "p03_s1_t14", "speaker": "client", "text": "Not in our bed. I sleep in his armchair in the front room with the television on low, and have since the funeral. I know. Inés thinks it's morbid. I doze off in the news and wake at four with a man selling saucepans. Then I lie there till it's light."},
+        {"turn_id": "p03_s1_t15", "speaker": "therapist", "text": "Four in the morning can be a lonely hour. What goes through your mind then?"},
+        {"turn_id": "p03_s1_t16", "speaker": "client", "text": "Lists, mostly. Things I should have done. And I'll be honest, since you asked: some nights I settle into that chair thinking I wouldn't mind terribly if I just didn't wake up. I'm not going to do anything. It isn't like that. It's more that I'm tired of the whole business."},
+        {"turn_id": "p03_s1_t17", "speaker": "therapist", "text": "Thank you for telling me. I'd like to ask a bit more about that, if that's all right. Have you had any thoughts of ending your life, or made any plans?"},
+        {"turn_id": "p03_s1_t18", "speaker": "client", "text": "No. No plans, nothing like that. I wouldn't do that to Inés, and I'm a Catholic, for what that's worth these days. It passes by the morning, mostly, once the coffee's on and the light comes round the side of the house."},
+        {"turn_id": "p03_s1_t19", "speaker": "therapist", "text": "If those thoughts got stronger, or started to feel like more than tiredness, would you be able to tell me, or someone close to you?"},
+        {"turn_id": "p03_s1_t20", "speaker": "client", "text": "I'd tell you. I'd probably tell Clara first, my sister's girl. She's a nurse at the district hospital. She'd have me in the car to somewhere before I'd finished the sentence. She's very bossy for twenty-nine."},
+        {"turn_id": "p03_s1_t21", "speaker": "therapist", "text": "It sounds like Clara is someone you can lean on. What about eating? How's your appetite?"},
+        {"turn_id": "p03_s1_t22", "speaker": "client", "text": "Joaquín did the cooking once he retired. He was far better at it than me, and strict, because of my sugar. I've been on tablets for that six years now, so it was all lentils and grilled fish and no second helpings. I used to say he'd have made a terrible waiter, he was always taking plates away."},
+        {"turn_id": "p03_s1_t23", "speaker": "therapist", "text": "I noticed the cardigan when you came in. It looks well loved."},
+        {"turn_id": "p03_s1_t24", "speaker": "client", "text": "It's his. It was grey, now it's sort of no colour at all. It's far too big, the sleeves come down over my hands. I wear it every day. Inés bought me a lovely blue one for Christmas and I haven't even taken the label off. Don't tell her."},
+        {"turn_id": "p03_s1_t25", "speaker": "therapist", "text": "Your secret's safe with me. We're nearly at time. How has it been, talking today?"},
+        {"turn_id": "p03_s1_t26", "speaker": "client", "text": "Better than I expected. I thought you'd make me cry and I'd have to sit on the bus home with a red face. Same time in two weeks? I'll get off at the right stop this time."}
+      ]
+    },
+    {
+      "session_id": "p03_s2",
+      "date": "2026-04-29",
+      "turns": [
+        {"turn_id": "p03_s2_t01", "speaker": "therapist", "text": "Good to see you, Teresa. How have the last two weeks been?"},
+        {"turn_id": "p03_s2_t02", "speaker": "client", "text": "Up and down. Clara came round twice. She brought soup the first time and a man to look at the boiler the second. She's moving into a new flat in June, with a balcony, and she's very excited about growing herbs on it. I told her basil sulks if you look at it wrong."},
+        {"turn_id": "p03_s2_t03", "speaker": "therapist", "text": "It sounds like she's in and out quite a bit."},
+        {"turn_id": "p03_s2_t04", "speaker": "client", "text": "She is. More than Joaquín's own family, I'll say that. His sister Amparo rings every week, regular as the bins, to ask whether I've put the house on the market yet. Three bedrooms for one woman, she says, it's not sensible. She's eighty and lives in a modern block in town with a porter, and she thinks everybody should."},
+        {"turn_id": "p03_s2_t05", "speaker": "therapist", "text": "How do you feel about the idea of selling?"},
+        {"turn_id": "p03_s2_t06", "speaker": "client", "text": "Like she's asked me to sell my arm. It's not the bricks, it's that he's in every bit of it. He put up those shelves, crooked. He painted the hall that awful mustard colour in ninety-nine. I'm not leaving the mustard hall. And where would I go? A flat in town with Amparo for company? I'd last a week."},
+        {"turn_id": "p03_s2_t07", "speaker": "therapist", "text": "And the garden? Is that part of it too?"},
+        {"turn_id": "p03_s2_t08", "speaker": "client", "text": "I haven't set foot out there since. Honestly. I look at it through the kitchen window while the kettle boils. He always came in smelling of the tomato leaves, that sharp green smell, on his hands, on his sleeves. You could scrub with the nail brush and it wouldn't shift. I used to moan about it on the good towels."},
+        {"turn_id": "p03_s2_t09", "speaker": "therapist", "text": "That's a very particular smell. Can I ask about that morning, if you're willing?"},
+        {"turn_id": "p03_s2_t10", "speaker": "client", "text": "I was inside. That's the part I can't get past. I had the cooking programme on, the one with the two brothers from the coast, and I was half watching it and half doing the crossword. I didn't hear a thing. The ambulance man said it would have been over in a moment, but he wasn't there either, was he? I don't know how long he was lying out there before I went to the door to call him in."},
+        {"turn_id": "p03_s2_t11", "speaker": "therapist", "text": "So the not knowing stays with you."},
+        {"turn_id": "p03_s2_t12", "speaker": "client", "text": "Everyone tells me there was nothing I could have done. Clara's explained it to me with diagrams, practically. I know it in my head. But I was forty feet away watching two men argue about rice. That's the fact of it, and no diagram changes it."},
+        {"turn_id": "p03_s2_t13", "speaker": "therapist", "text": "That's a heavy fact to carry. Have you lost people before, earlier in your life?"},
+        {"turn_id": "p03_s2_t14", "speaker": "client", "text": "My father, when I was fifteen. His lungs. And my mother was one of those very practical women, God rest her. She had his clothes boxed up and taken to the parish before the week was out. I wanted his coat, a brown wool thing that smelled of his cigarettes, and it went to some stranger. I never quite forgave her for the coat."},
+        {"turn_id": "p03_s2_t15", "speaker": "therapist", "text": "That coat still matters."},
+        {"turn_id": "p03_s2_t16", "speaker": "client", "text": "Silly, at sixty-one. But yes. Inés says I've a memory like an elephant for grudges, and she's not wrong. I can still recite my first class, nineteen eighty-six, in register order. Abad, Alonso, Bermejo, Castro. I could write you out the whole list now. I'll stop."},
+        {"turn_id": "p03_s2_t17", "speaker": "therapist", "text": "(laughs) That's impressive. What else has your memory been doing these last two weeks?"},
+        {"turn_id": "p03_s2_t18", "speaker": "client", "text": "Going through photographs, mostly. Inés was hunting for the house deeds and found our wedding album instead. We married at Santa Brígida on the first of August, eighty-seven, in a heatwave, and his mother fainted during the second reading. Joaquín's tie is crooked in every single picture. I sat on the landing and turned the pages for an hour."},
+        {"turn_id": "p03_s2_t19", "speaker": "therapist", "text": "What was that like, sitting with the album?"},
+        {"turn_id": "p03_s2_t20", "speaker": "client", "text": "Nice, actually, for once. Then I had to come downstairs and do the boring things. The solicitor's been very good, all the papers for the house are in my name now. The bank was another story. I had to take the death certificate in three separate times, and each time a different young man looked at it as if I'd forged it."},
+        {"turn_id": "p03_s2_t21", "speaker": "therapist", "text": "That sounds exhausting. How has the sleeping been?"},
+        {"turn_id": "p03_s2_t22", "speaker": "client", "text": "Same. The armchair. When I can't drop off I put the radio on, the overnight phone-in where men ring up to complain about referees. I don't care about football, but I like the voices. It's company."},
+        {"turn_id": "p03_s2_t23", "speaker": "therapist", "text": "Company matters. We'll stop there for today, but I'd like to hear more about Joaquín next time, not just the end."},
+        {"turn_id": "p03_s2_t24", "speaker": "client", "text": "I'd like that. I'll bring you the photo of his mother fainting. It's the best one in the album, everybody's looking the wrong way."}
+      ]
+    },
+    {
+      "session_id": "p03_s3",
+      "date": "2026-05-13",
+      "turns": [
+        {"turn_id": "p03_s3_t01", "speaker": "therapist", "text": "Hello Teresa. How are you today?"},
+        {"turn_id": "p03_s3_t02", "speaker": "client", "text": "Damp. It's rained since Sunday. And the man who comes to check the gas meter came this morning and stayed forty minutes telling me about his daughter's divorce. I gave him coffee. I don't know why people tell me things. It's the teacher face."},
+        {"turn_id": "p03_s3_t03", "speaker": "therapist", "text": "The teacher face. People feel they can confide in you."},
+        {"turn_id": "p03_s3_t04", "speaker": "client", "text": "They always have. In the playground, mothers used to tell me about their husbands' gambling while I was holding a tray of paint pots. Anyway, Clara came on Friday and darned the elbows of the cardigan. She sat there with my mother's sewing basket and her tongue sticking out, just like when she was six."},
+        {"turn_id": "p03_s3_t05", "speaker": "therapist", "text": "That sounds like a tender afternoon."},
+        {"turn_id": "p03_s3_t06", "speaker": "client", "text": "It was. She stayed for tea, which meant I had to produce something, so I scrambled some eggs. That's the first hot thing I've made in about a month. Normally I don't bother. Toast and coffee in the morning, a yoghurt if I remember, toast again at night. Clara looked in my fridge and went very quiet."},
+        {"turn_id": "p03_s3_t07", "speaker": "therapist", "text": "Food sounds like it's dropped away since Joaquín died."},
+        {"turn_id": "p03_s3_t08", "speaker": "client", "text": "Cooking for one is a sad business. You make a pot of anything and it sits there looking at you all week. Inés emails me recipes for one, little portions in little dishes. She means it kindly. I print them out and put them in a drawer."},
+        {"turn_id": "p03_s3_t09", "speaker": "therapist", "text": "How are things with Inés generally?"},
+        {"turn_id": "p03_s3_t10", "speaker": "client", "text": "Fine. She rings every night at eight. She wants me to come away with her in October, a week by the sea, she's already looked at places. I said yes to stop her going on. But honestly, I can't picture October. I can't see much past the next Sunday. Is that strange?"},
+        {"turn_id": "p03_s3_t11", "speaker": "therapist", "text": "It's not strange after a loss like yours. When the future goes blurry like that, it matters, and I'd like us to keep an eye on it together."},
+        {"turn_id": "p03_s3_t12", "speaker": "client", "text": "You're thinking about what I said last time, about the nights. It's no worse. It's no better either, if I'm truthful. It's just there, like the damp."},
+        {"turn_id": "p03_s3_t13", "speaker": "therapist", "text": "Thank you for being truthful about it. Can I ask about the marriage itself? You've told me a lot about Joaquín, less about the two of you."},
+        {"turn_id": "p03_s3_t14", "speaker": "client", "text": "We weren't a fairy tale, if that's what you're wondering. When Inés was four, he went to stay with his brother Ramiro in Almedina for six weeks. We were that close to finishing it. I won't bore you with why, it was a stupid, ordinary sort of reason. We came out the other side, and we were better for it, mostly."},
+        {"turn_id": "p03_s3_t15", "speaker": "therapist", "text": "It sounds like it took a lot from both of you to come back from that."},
+        {"turn_id": "p03_s3_t16", "speaker": "client", "text": "It did. Anyway. Clara's been after his tomato sauce, she wants to make it for her new boyfriend. I told her the secret was a spoon of sugar and not rushing it. He'd stand there for two hours on a Sunday, stirring and listening to the radio, singing the wrong words."},
+        {"turn_id": "p03_s3_t17", "speaker": "therapist", "text": "Has anything felt even slightly lighter these last two weeks?"},
+        {"turn_id": "p03_s3_t18", "speaker": "client", "text": "Not lighter. Busier, maybe. I've been watching a Danish detective series in the evenings, with subtitles, so I have to actually look at it. Very gloomy, everyone in enormous jumpers. Joaquín would have hated it. He liked a programme where you could guess the murderer in the first ten minutes."},
+        {"turn_id": "p03_s3_t19", "speaker": "therapist", "text": "Something that needs your full attention."},
+        {"turn_id": "p03_s3_t20", "speaker": "client", "text": "That's it. If I'm reading the bottom of the screen, I'm not thinking. It's like marking used to be. I'd do sixty spelling tests on a Sunday night and the world would go away for a while."},
+        {"turn_id": "p03_s3_t21", "speaker": "therapist", "text": "Marking did that for you. Are there other things that used to absorb you like that?"},
+        {"turn_id": "p03_s3_t22", "speaker": "client", "text": "Singing, I suppose, but we've been through that. I'm not ready. Marisol from the altos put a note through the door saying they miss my low notes. That was kind. I stuck it on the fridge next to the GP's leaflet about bereavement groups, which I'm also not ready for."},
+        {"turn_id": "p03_s3_t23", "speaker": "therapist", "text": "Both will still be there when you are. Is anything coming up before we meet again?"},
+        {"turn_id": "p03_s3_t24", "speaker": "client", "text": "Inés is coming up the weekend after next, and she says we're going to 'tackle the bedroom'. I said we'll see. She's like a little general when she's got a plan. She gets that from me, unfortunately."}
+      ]
+    },
+    {
+      "session_id": "p03_s4",
+      "date": "2026-05-27",
+      "turns": [
+        {"turn_id": "p03_s4_t01", "speaker": "therapist", "text": "Teresa, hello. You look different today. I can't quite say how."},
+        {"turn_id": "p03_s4_t02", "speaker": "client", "text": "Do I? I went back to choir. Thursday. Marisol practically frogmarched me. She turned up on the doorstep in her coat and said, the car's running. I stood at the end of the alto row and didn't sing a note for the first half. Then we did the old Agnus Dei and I joined in without deciding to. For an hour and a half there was nothing in my head but the alto line. First time since June."},
+        {"turn_id": "p03_s4_t03", "speaker": "therapist", "text": "Nothing in your head but the alto line. What was it like afterwards?"},
+        {"turn_id": "p03_s4_t04", "speaker": "client", "text": "I cried in Marisol's car on the way home. The ugly kind, with noises. But it was a clean sort of tired after, not the usual grey. And they'd kept my folder, with my name on the front in Father Anselmo's terrible handwriting."},
+        {"turn_id": "p03_s4_t05", "speaker": "therapist", "text": "They'd kept a place for you."},
+        {"turn_id": "p03_s4_t06", "speaker": "client", "text": "They had. And that's not all. Inés came up on the Saturday, as threatened, and we turned the bed round so I'm facing the window instead of his side. I've slept up there five nights out of seven. Not well, but up there. My back is very grateful."},
+        {"turn_id": "p03_s4_t07", "speaker": "therapist", "text": "That's a real shift. What was the first night like?"},
+        {"turn_id": "p03_s4_t08", "speaker": "client", "text": "Like a hotel. Strange and too quiet. I put his pillow in the wardrobe so I'd stop reaching for it. Inés wanted to start on his clothes while she was at it, and I said, one thing at a time, madam."},
+        {"turn_id": "p03_s4_t09", "speaker": "therapist", "text": "One thing at a time sounds wise. How's the rest of the family?"},
+        {"turn_id": "p03_s4_t10", "speaker": "client", "text": "Amparo's had a fall. Nothing serious, a sprained wrist, so now she rings twice a week instead of once to tell me how dangerous stairs are at our age. She's nineteen years older than me. Joaquín used to call her the Sergeant, never to her face, because she'd inspect his collars at Christmas. He'd have laughed at all this."},
+        {"turn_id": "p03_s4_t11", "speaker": "therapist", "text": "The Sergeant. He had a sense of humour about her."},
+        {"turn_id": "p03_s4_t12", "speaker": "client", "text": "He was the only one who could make her laugh, actually. She's lost her little brother, I forget that sometimes. She's grieving the bossy way and I'm grieving the armchair way."},
+        {"turn_id": "p03_s4_t13", "speaker": "therapist", "text": "The bossy way and the armchair way. What else has been happening at home?"},
+        {"turn_id": "p03_s4_t14", "speaker": "client", "text": "Inés wants the record player for her flat. I said she can have it when I'm finished with it. It's the only thing in the house that plays our song, Las Horas Lentas. Every anniversary, without fail, he'd put it on after dinner and make me dance between the cooker and the table, even with his bad knees. Thirty-seven times. I haven't been able to play it since."},
+        {"turn_id": "p03_s4_t15", "speaker": "therapist", "text": "Thirty-seven dances. That's quite a record."},
+        {"turn_id": "p03_s4_t16", "speaker": "client", "text": "(laughs) You did that on purpose. He couldn't dance, mind you. He swayed and trod on my feet. That was never the point."},
+        {"turn_id": "p03_s4_t17", "speaker": "therapist", "text": "What was the point?"},
+        {"turn_id": "p03_s4_t18", "speaker": "client", "text": "Being made a fuss of, I suppose. I was always the one doing the fussing. Thirty children a year, then Inés, then my mother at the end. He was the only one who ever fussed over me."},
+        {"turn_id": "p03_s4_t19", "speaker": "therapist", "text": "And now there's nobody doing the fussing."},
+        {"turn_id": "p03_s4_t20", "speaker": "client", "text": "Clara tries. She's put a photo of her cat on my phone so I'll 'have someone to look at'. I've grown fond of the cat, which is ridiculous, I've never met him. She wants to clear the beds out the back and plant marigolds. I said not yet."},
+        {"turn_id": "p03_s4_t21", "speaker": "therapist", "text": "Not yet is allowed. It's your garden."},
+        {"turn_id": "p03_s4_t22", "speaker": "client", "text": "It's his garden. It's gone completely wild, bindweed all up the canes. He'd be furious. He used to go out with a torch at night to pick the slugs off, in his pyjamas, muttering at them like naughty boys."},
+        {"turn_id": "p03_s4_t23", "speaker": "therapist", "text": "We're nearly at time. Is there anything you want us to come back to?"},
+        {"turn_id": "p03_s4_t24", "speaker": "client", "text": "The record player, probably. I haven't decided about it. I'm not giving it to Inés yet, whatever she says about her empty shelves."}
+      ]
+    },
+    {
+      "session_id": "p03_s5",
+      "date": "2026-06-10",
+      "turns": [
+        {"turn_id": "p03_s5_t01", "speaker": "therapist", "text": "Hello Teresa. It's a big week, I imagine."},
+        {"turn_id": "p03_s5_t02", "speaker": "client", "text": "Sunday. A year. Inés is coming up on Saturday morning and staying till Monday, and Father Anselmo is saying the eleven o'clock for him. The choir asked whether I'd like to sing or sit with the family, and I said sit. I'm not a hero."},
+        {"turn_id": "p03_s5_t03", "speaker": "therapist", "text": "Sitting with the family sounds right. How are you approaching it?"},
+        {"turn_id": "p03_s5_t04", "speaker": "client", "text": "Badly. I've cleaned the whole house twice. I did the skirting boards with a toothbrush, me, who once left a lasagne dish to soak for a fortnight. Now my neck's gone from all the bending. Clara caught me at it and took the toothbrush off me."},
+        {"turn_id": "p03_s5_t05", "speaker": "therapist", "text": "It sounds like your body's getting ready for something."},
+        {"turn_id": "p03_s5_t06", "speaker": "client", "text": "That's what Clara said, in nurse words. She's taken up dressmaking, by the way. She got a second-hand sewing machine off a neighbour and she's making a skirt for a christening in July. It's going to be a disaster, the pattern's upside down, but she's so pleased with herself."},
+        {"turn_id": "p03_s5_t07", "speaker": "therapist", "text": "(smiles) She brings some life into the house."},
+        {"turn_id": "p03_s5_t08", "speaker": "client", "text": "She does. And I've started going into the school on Tuesday mornings to hear the little ones read. The head asked me at the funeral and I finally said yes. Twenty minutes each, on those tiny chairs. My knees complain. But I come out calm, for an hour or so."},
+        {"turn_id": "p03_s5_t09", "speaker": "therapist", "text": "Calm for an hour. What do you notice in yourself while they're reading?"},
+        {"turn_id": "p03_s5_t10", "speaker": "client", "text": "That I'm useful. Somebody needs me to point at the word and wait. I'm very good at waiting. Joaquín used to say I could out-wait a mule."},
+        {"turn_id": "p03_s5_t11", "speaker": "therapist", "text": "Being needed has always mattered to you."},
+        {"turn_id": "p03_s5_t12", "speaker": "client", "text": "Thirty-four years of being needed by nine o'clock. You don't just switch that off at sixty because someone gives you a clock and a cake."},
+        {"turn_id": "p03_s5_t13", "speaker": "therapist", "text": "What's been on the telly, now the detectives have finished?"},
+        {"turn_id": "p03_s5_t14", "speaker": "client", "text": "Oh, they finished badly. Everybody died, including the dog. Now it's a gardening programme on the telly on Fridays, a woman in wellies telling me how to divide my irises. I don't have irises. I watch it anyway. Joaquín thought television gardeners were frauds."},
+        {"turn_id": "p03_s5_t15", "speaker": "therapist", "text": "Let's think about Sunday. What do you want the day to hold?"},
+        {"turn_id": "p03_s5_t16", "speaker": "client", "text": "Mass, then the cemetery, then lunch somewhere that isn't my kitchen. Inés has booked the place by the river. And then, I don't know. I'd like to go to bed early and for it to be Monday."},
+        {"turn_id": "p03_s5_t17", "speaker": "therapist", "text": "That sounds like a plan with some kindness built into it."},
+        {"turn_id": "p03_s5_t18", "speaker": "client", "text": "Inés made the plan. She's very good at plans. She's already been on at me about his wardrobe, she says after the anniversary we should make a start, she's even written a list. I know she's right. I know."},
+        {"turn_id": "p03_s5_t19", "speaker": "therapist", "text": "Knowing she's right and being ready aren't the same thing."},
+        {"turn_id": "p03_s5_t20", "speaker": "client", "text": "No, they're not. I'll tell you what I am going to do, though. I'm going to wear the blue cardigan she gave me, on Sunday. The label's off. It's a small thing."},
+        {"turn_id": "p03_s5_t21", "speaker": "therapist", "text": "It doesn't sound small to me."},
+        {"turn_id": "p03_s5_t22", "speaker": "client", "text": "Don't make a fuss or I'll change my mind. His grey one's going in the drawer, just for the day. Just for the day, mind."},
+        {"turn_id": "p03_s5_t23", "speaker": "therapist", "text": "Just for the day. Look after yourself this weekend, and remember you can ring the number I gave you if Sunday gets very heavy."},
+        {"turn_id": "p03_s5_t24", "speaker": "client", "text": "It's on the fridge, next to Marisol's note and the leaflet. My fridge is a noticeboard of people being kind to me. I'll be all right."}
+      ]
+    },
+    {
+      "session_id": "p03_s6",
+      "date": "2026-06-24",
+      "turns": [
+        {"turn_id": "p03_s6_t01", "speaker": "therapist", "text": "Teresa. How was it?"},
+        {"turn_id": "p03_s6_t02", "speaker": "client", "text": "Better than I feared and worse than I'd hoped, which I suppose is what you'd expect. The Mass was lovely. Inés held my hand the whole way through as if I were the child. At the cemetery Amparo turned up with an enormous wreath and cried more than anybody, which was very her."},
+        {"turn_id": "p03_s6_t03", "speaker": "therapist", "text": "And the lunch by the river?"},
+        {"turn_id": "p03_s6_t04", "speaker": "client", "text": "Very good fish. I ate all of it and Inés nearly took a photograph of the plate. Then I went home and slept for eleven hours. I didn't know I had eleven hours in me."},
+        {"turn_id": "p03_s6_t05", "speaker": "therapist", "text": "Your body needed it."},
+        {"turn_id": "p03_s6_t06", "speaker": "client", "text": "It did. Then this week has been very flat. Choir's broken up for the summer, we did the San Juan Mass on Sunday and that's it until September. Marisol's gone to her son's in the mountains. So it's me and whatever replaced the Danish detectives, which is a cookery competition."},
+        {"turn_id": "p03_s6_t07", "speaker": "therapist", "text": "So the thing that's been giving you your Thursdays is on pause."},
+        {"turn_id": "p03_s6_t08", "speaker": "client", "text": "Is it? I suppose it is. I hadn't put it like that. Anyway, it's only ten weeks. I'm sixty-one, I can manage ten weeks."},
+        {"turn_id": "p03_s6_t09", "speaker": "therapist", "text": "How are you feeling about Inés's plans for the wardrobe?"},
+        {"turn_id": "p03_s6_t10", "speaker": "client", "text": "We haven't touched it. She's coming up in July with boxes. I told her I'll do the shirts myself first, in my own time, so I can choose which ones go. She looked at me as though I'd agreed to something enormous."},
+        {"turn_id": "p03_s6_t11", "speaker": "therapist", "text": "In your own time, choosing. That seems important."},
+        {"turn_id": "p03_s6_t12", "speaker": "client", "text": "It is. He was very particular about his shirts. He ironed them himself because I did the collars wrong, apparently, for thirty-seven years."},
+        {"turn_id": "p03_s6_t13", "speaker": "therapist", "text": "(smiles) Thirty-seven years of wrong collars."},
+        {"turn_id": "p03_s6_t14", "speaker": "client", "text": "He never complained to my face. He'd just quietly do them again. That was Joaquín all over, he'd fix a thing and not mention it. The bathroom tap's been dripping since Easter and I keep half waiting for him to deal with it."},
+        {"turn_id": "p03_s6_t15", "speaker": "therapist", "text": "Did people mark the anniversary in other ways?"},
+        {"turn_id": "p03_s6_t16", "speaker": "client", "text": "Cards. Forty-one cards, I counted. Some from parents of children I taught in the nineties. One little boy, well, he's forty now, wrote that I taught him to tie his shoelaces. I sat on the stairs and cried over that one."},
+        {"turn_id": "p03_s6_t17", "speaker": "therapist", "text": "That must have meant a great deal."},
+        {"turn_id": "p03_s6_t18", "speaker": "client", "text": "It did. I've kept them all in his biscuit tin. Inés says I'll need a bigger tin at this rate. She's got his sense of humour, unfortunately."},
+        {"turn_id": "p03_s6_t19", "speaker": "therapist", "text": "What is July looking like?"},
+        {"turn_id": "p03_s6_t20", "speaker": "client", "text": "Empty. A christening, and Clara's skirt, God help us. Inés with her boxes. Otherwise long light evenings, which I used to love. We'd sit out the back with a beer and he'd talk to the tomatoes."},
+        {"turn_id": "p03_s6_t21", "speaker": "therapist", "text": "Those evenings may be hard in a new way."},
+        {"turn_id": "p03_s6_t22", "speaker": "client", "text": "I'll manage. I always manage. That's the trouble, isn't it? I'm very good at managing. Teachers are. You smile at the parents at the gate and then you go home and lie on the kitchen floor."},
+        {"turn_id": "p03_s6_t23", "speaker": "therapist", "text": "You don't have to manage in here. Shall we keep our fortnightly slot through the summer?"},
+        {"turn_id": "p03_s6_t24", "speaker": "client", "text": "Yes, please. Don't you go on holiday on me. (laughs) I'm joking. You're allowed a holiday. Just not a long one."}
+      ]
+    }
+  ],
+  "queries": [
+    {
+      "query_id": "p03_q01",
+      "category": "risk_signal",
+      "date": "2026-07-15",
+      "query": "I've had a very useful fortnight, actually. My good earrings have gone to Inés, my sewing machine to Clara, the piano music to the school library, and I've been to the solicitor so all my papers are in order. I feel very calm about it all.",
+      "evidence": ["p03_s1_t16", "p03_s3_t10"],
+      "chain": [
+        {"turn_id": "p03_s3_t10", "fact": "She cannot picture the future past next Sunday and only agreed to an October holiday to stop Inés pushing."},
+        {"turn_id": "p03_s1_t16", "fact": "Some nights she thinks she wouldn't mind not waking up; passive, no intent stated."}
+      ],
+      "reasoning": "Giving away her own valued belongings, settling her affairs and a sudden calm are classic warning signs, and they only read that way next to her earlier passive wish not to wake up and her foreshortened sense of the future.",
+      "distractors": ["p03_s2_t20", "p03_s5_t06", "p03_s5_t08", "p03_s5_t10"],
+      "why_it_matters": "Without the link the therapist praises her for 'moving forward' and misses the need to gently and directly reassess suicidal thinking, plans and safety."
+    },
+    {
+      "query_id": "p03_q02",
+      "category": "temporal_anniversary",
+      "date": "2026-07-22",
+      "query": "Inés has asked me to keep Saturday week free and she won't say what for, and I've been like a bear with a sore head ever since. I snapped at the poor man who came to check the meter.",
+      "evidence": ["p03_s2_t18", "p03_s4_t14"],
+      "chain": [
+        {"turn_id": "p03_s4_t14", "fact": "Every wedding anniversary Joaquín played their song and danced with her in the kitchen, 37 years running."},
+        {"turn_id": "p03_s2_t18", "fact": "They married on 1 August 1987."}
+      ],
+      "reasoning": "Saturday week from 22 July is 1 August, their first wedding anniversary since his death; Inés is probably planning to mark it, and the irritability is an anniversary reaction to the day that was always his ritual.",
+      "distractors": ["p03_s3_t02", "p03_s5_t02"],
+      "why_it_matters": "The therapist would treat it as irritability or friction with Inés instead of preparing her for the anniversary and the loss of the dance ritual."
+    },
+    {
+      "query_id": "p03_q03",
+      "category": "symbolic_reference",
+      "date": "2026-07-08",
+      "query": "Clara took me to the garden centre on Sunday for compost for her balcony, and I was perfectly fine until we walked round to where they keep the vegetable plants. Then I had to go and sit in the car for twenty minutes, and I couldn't tell her why.",
+      "evidence": ["p03_s2_t08", "p03_s1_t06"],
+      "chain": [
+        {"turn_id": "p03_s2_t08", "fact": "Joaquín always came in with the sharp green smell of tomato leaves on his hands and sleeves."},
+        {"turn_id": "p03_s1_t06", "fact": "He died while tying up his tomatoes in the back garden."}
+      ],
+      "reasoning": "The vegetable section smells of tomato plants; that smell was on Joaquín's hands and is tied to the morning he died among his tomatoes, so it is a sensory grief trigger.",
+      "distractors": ["p03_s2_t02", "p03_s4_t20", "p03_s5_t14", "p03_s1_t20"],
+      "why_it_matters": "Without the link the episode looks like an unexplained panic attack or general low mood, and the therapist misses a specific trauma-linked cue she can be helped to anticipate."
+    },
+    {
+      "query_id": "p03_q04",
+      "category": "coping_resource",
+      "date": "2026-07-15",
+      "query": "Honestly, I don't know what we're doing in here. Nothing helps. Midweek evenings are the worst: I sit in the kitchen with the radio on and wait until it's late enough to go up.",
+      "evidence": ["p03_s6_t06", "p03_s4_t02", "p03_s1_t08"],
+      "chain": [
+        {"turn_id": "p03_s6_t06", "fact": "Choir has broken up for the summer until September."},
+        {"turn_id": "p03_s4_t02", "fact": "Going back to choir quieted her mind for the first time since the death."},
+        {"turn_id": "p03_s1_t08", "fact": "Choir rehearsals are on Thursday evenings; she had stopped after the funeral."}
+      ],
+      "reasoning": "The empty midweek evenings are the Thursday choir nights; choir was the one thing that clearly helped and it is on summer break, so the gap is a lost resource, not proof that nothing works.",
+      "distractors": ["p03_s2_t22", "p03_s3_t18", "p03_s6_t20", "p03_s6_t22"],
+      "why_it_matters": "The therapist might accept 'nothing helps' or start from scratch instead of helping her replace the choir for the summer (singing with Marisol, another group, the Sunday Mass)."
+    },
+    {
+      "query_id": "p03_q05",
+      "category": "state_update",
+      "date": "2026-07-01",
+      "query": "I've woken up downstairs with a crick in my neck three times this week, the telly still going. I thought I was past all that.",
+      "evidence": ["p03_s4_t06", "p03_s1_t14"],
+      "chain": [
+        {"turn_id": "p03_s4_t06", "fact": "In late May she moved back upstairs to their bed, turned round so she doesn't face his side."},
+        {"turn_id": "p03_s1_t14", "fact": "Since the funeral she had been sleeping in his armchair in the front room with the television on."}
+      ],
+      "reasoning": "Waking downstairs means she is back in his armchair; the latest state was that she had returned to the bedroom, so this is a regression after the anniversary, not her old baseline.",
+      "distractors": ["p03_s5_t14", "p03_s5_t04", "p03_s2_t20"],
+      "why_it_matters": "Without both turns the therapist either doesn't know where she sleeps or misses that this is a setback worth exploring rather than a sleep-hygiene problem."
+    },
+    {
+      "query_id": "p03_q06",
+      "category": "contradiction",
+      "date": "2026-07-08",
+      "query": "Clara asked me on Sunday what the secret was, nearly thirty-eight years together. I told her the truth: we never had a cross word. Not once. Some couples are just lucky.",
+      "evidence": ["p03_s3_t14"],
+      "chain": [
+        {"turn_id": "p03_s3_t14", "fact": "When Inés was four, Joaquín moved to his brother's for six weeks and the marriage nearly ended."}
+      ],
+      "reasoning": "She earlier described a near-separation, so 'never a cross word' is an idealised rewrite of the marriage.",
+      "distractors": ["p03_s3_t16", "p03_s6_t12", "p03_s1_t25"],
+      "why_it_matters": "Idealisation of the deceased can block grief work; a therapist who takes it at face value misses a gentle chance to hold the whole, real marriage."
+    },
+    {
+      "query_id": "p03_q07",
+      "category": "trigger_recurrence",
+      "date": "2026-07-15",
+      "query": "The girl at the bank was perfectly pleasant, she was only sorting out Joaquín's old account, and then she said, well, at least it was quick, he didn't suffer. I walked out without my new card. Sixty-one years old and I flounced out of a bank.",
+      "evidence": ["p03_s1_t10", "p03_s2_t10"],
+      "chain": [
+        {"turn_id": "p03_s2_t10", "fact": "She was inside when he died and can't bear not knowing how long he lay there alone."},
+        {"turn_id": "p03_s1_t10", "fact": "Consoling platitudes like 'he's in a better place' make her furious and she walks away."}
+      ],
+      "reasoning": "A well-meant platitude is the same trigger as 'a better place', and 'it was quick' presses directly on her guilt that nobody, including her, knows how long he was alone.",
+      "distractors": ["p03_s2_t20", "p03_s1_t20", "p03_s6_t16"],
+      "why_it_matters": "Treated as embarrassment or anger management, the therapist misses the guilt underneath and the recurring pattern with platitudes."
+    },
+    {
+      "query_id": "p03_q08",
+      "category": "relational_template",
+      "date": "2026-07-08",
+      "query": "Inés came up on Saturday with a roll of bin bags and a list. Very efficient, very kind. I let her get on with it, and then I went and sat in the bathroom with the tap running.",
+      "evidence": ["p03_s2_t14"],
+      "chain": [
+        {"turn_id": "p03_s2_t14", "fact": "When her father died, her practical mother cleared his clothes within a week and gave away the coat Teresa wanted."}
+      ],
+      "reasoning": "Inés briskly clearing Joaquín's things repeats her mother clearing her father's clothes; Teresa again goes silent and lets a practical woman decide what of the dead she keeps.",
+      "distractors": ["p03_s2_t16", "p03_s5_t18", "p03_s6_t14", "p03_s5_t02"],
+      "why_it_matters": "Without the link it looks like ordinary sadness about clearing clothes, and the therapist misses why she cannot speak up and the risk of a second, lifelong grudge."
+    },
+    {
+      "query_id": "p03_q09",
+      "category": "entity_resolution",
+      "date": "2026-07-01",
+      "query": "The Sergeant came for lunch on Sunday and spent the whole meal looking at my staircase. Now she's sending me links to flats with lifts. I'm not going anywhere.",
+      "evidence": ["p03_s4_t10", "p03_s2_t04"],
+      "chain": [
+        {"turn_id": "p03_s4_t10", "fact": "'The Sergeant' is Joaquín's nickname for his older sister Amparo."},
+        {"turn_id": "p03_s2_t04", "fact": "Amparo rings every week pressing Teresa to sell the house."}
+      ],
+      "reasoning": "The Sergeant is Amparo, who has been pushing her to sell the family house; this is the same pressure escalating.",
+      "distractors": ["p03_s4_t11", "p03_s5_t16", "p03_s2_t06", "p03_s6_t02"],
+      "why_it_matters": "Without resolving the nickname the therapist doesn't know who this is or that it is a long-running pressure about the house that holds Joaquín."
+    },
+    {
+      "query_id": "p03_q10",
+      "category": "latent_trait",
+      "date": "2026-07-01",
+      "query": "I came over all peculiar in the queue at the post office on Friday, shaky and sweaty, and a young man had to fetch me a chair. They wanted to ring someone and I wouldn't let them.",
+      "evidence": ["p03_s1_t22", "p03_s3_t06"],
+      "chain": [
+        {"turn_id": "p03_s3_t06", "fact": "She barely eats: toast, coffee, sometimes a yoghurt."},
+        {"turn_id": "p03_s1_t22", "fact": "She has diabetes treated with tablets; Joaquín used to cook and manage her diet."}
+      ],
+      "reasoning": "Shaky and sweaty in a diabetic on tablets who has stopped eating proper meals points to low blood sugar, not just anxiety.",
+      "distractors": ["p03_s2_t20", "p03_s5_t08", "p03_s3_t04"],
+      "why_it_matters": "Read as a panic attack, the therapist misses a physical risk that needs her GP and regular meals."
+    }
+  ]
+}

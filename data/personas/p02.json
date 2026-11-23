@@ -1,0 +1,333 @@
+{
+  "persona_id": "p02",
+  "name": "Arash Karimi",
+  "case_formulation": "Arash Karimi, 31, he/him. Iranian-Canadian architect at Halden Roe (eight years); came to Canada at six. Mother Shirin is warm and over-involved: she phoned him every evening at nine through five years of university and quietly finished his school projects overnight so he never had to struggle; he loved her for it and never learned that his own imperfect work was survivable. Father, a civil engineer whose degree didn't count here, drove a cab at night for twenty years; quiet and largely absent ('I could count our real conversations on one hand'), with one treasured memory of him teaching ten-year-old Arash to draw a straight line with his old lead holder. As a child Arash smoothed his parents' late-night arguments ('the family diplomat'); as an adult he avoids conflict at almost any cost. Ex Lena ended their relationship at his birthday dinner the night he turned 29, calling him needy; afterwards he stopped eating and drove alone at night with the passive thought that not coming back wouldn't be the worst thing (past, resolved, no action). Girlfriend Noa, a nurse, is independent and direct; in March they agreed she would move in on June 1, and in April she asked to pause and renew her lease for a year. He said it was fine but privately fears she has decided he is too much. New design director Ingrid ('the Weather' to the juniors) is exacting; he responds to criticism by reworking everything through the night. Cooking slow Persian food is his most reliable way to settle and his own barometer (Noa worries when he stops). Drifting from his university friends, then reconnecting in session 6. Core beliefs: 'I'm not really capable on my own; my success has been propped up.' 'If I need too much, I'll be left.' Rules: 'Nothing leaves my hands until it's perfect.' 'Keep everyone calm; never cause conflict.' 'Don't ask for things.' Template: he expects care to look like his mother's (anticipating, checking in, stepping in) while hiding his needs because of the 'needy' wound, so a hands-off partner feels unsupportive.",
+  "sessions": [
+    {
+      "session_id": "p02_s1",
+      "date": "2026-02-02",
+      "turns": [
+        {"turn_id": "p02_s1_t01", "speaker": "therapist", "text": "Hi Arash, welcome. Take whichever chair you like. How was the drive over?"},
+        {"turn_id": "p02_s1_t02", "speaker": "client", "text": "Cold. The weather's been brutal, my car door was frozen shut this morning and I had to pour half my coffee on the handle. The lake's frozen solid by my place, there are people walking on it, which I think is insane. Sorry. Small talk. I'm good at small talk."},
+        {"turn_id": "p02_s1_t03", "speaker": "therapist", "text": "Small talk's fine. What brings you here?"},
+        {"turn_id": "p02_s1_t04", "speaker": "client", "text": "My girlfriend, Noa, suggested it. She's a nurse, she doesn't really do hints. She said, 'You need to talk to someone who isn't me about work.' Which was fair. I've been bringing it home every night."},
+        {"turn_id": "p02_s1_t05", "speaker": "therapist", "text": "What's been happening at work?"},
+        {"turn_id": "p02_s1_t06", "speaker": "client", "text": "I'm an architect, at Halden Roe, eight years now. In January we got a new design director, Ingrid Hale, from a big practice overseas. She's brilliant, genuinely. She's also the harshest person I've ever worked for. She doesn't raise her voice. She just goes quiet, looks at your drawing for a long time, and says 'no'. And the whole studio holds its breath."},
+        {"turn_id": "p02_s1_t07", "speaker": "therapist", "text": "How has that been for you?"},
+        {"turn_id": "p02_s1_t08", "speaker": "client", "text": "I check everything four or five times. I've always been a bit like that, school, uni. If one line on a sheet is wrong, the whole sheet is wrong. I know that's not true. My body doesn't seem to know it."},
+        {"turn_id": "p02_s1_t09", "speaker": "therapist", "text": "Tell me a bit about your life outside work."},
+        {"turn_id": "p02_s1_t10", "speaker": "client", "text": "I cook. That's my thing. Slow Persian food, ghormeh sabzi, fesenjan, the stuff that takes all afternoon. There's something about washing and chopping a mountain of parsley and fenugreek and coriander that switches my brain off. It's how I know I'm okay. Noa says she can tell my week by the fridge, and when I stop cooking, she starts worrying."},
+        {"turn_id": "p02_s1_t11", "speaker": "therapist", "text": "That sounds really grounding. Who else is in your life?"},
+        {"turn_id": "p02_s1_t12", "speaker": "client", "text": "My mum, Shirin. She's the warmest person I know. She was always there, for everything. When I went away to university she phoned me every single evening at nine, all five years. My roommates used to set a timer for it. She knew my exam dates before I did. It was a lot, maybe too much, if I'm honest. But I never once felt alone."},
+        {"turn_id": "p02_s1_t13", "speaker": "therapist", "text": "And your dad?"},
+        {"turn_id": "p02_s1_t14", "speaker": "client", "text": "My father's a quieter story. He was a civil engineer before we came over, when I was six, and here his degree didn't count, so he drove a cab. Nights, mostly, for about twenty years. He'd be asleep when I left for school and gone by the time I got home. I could count the real conversations we've had on one hand. He's retired now. He watches the news a lot."},
+        {"turn_id": "p02_s1_t15", "speaker": "therapist", "text": "That's a lot of absence for a kid to grow up with."},
+        {"turn_id": "p02_s1_t16", "speaker": "client", "text": "It's just how it was. Loads of immigrant families are like that. He was working for us. I don't hold it against him, honestly."},
+        {"turn_id": "p02_s1_t17", "speaker": "therapist", "text": "What about friends?"},
+        {"turn_id": "p02_s1_t18", "speaker": "client", "text": "There are the guys from uni, Kian, Marc and Dev. We had basketball every Sunday for years. I've missed the last, what, six? There's a group chat that's mostly memes, and I read it and don't reply. I don't really know when that started."},
+        {"turn_id": "p02_s1_t19", "speaker": "therapist", "text": "We can look at that. What would you like to get out of coming here?"},
+        {"turn_id": "p02_s1_t20", "speaker": "client", "text": "Sleep, mainly. And to stop dreading Monday mornings. I used to love this job. I used to be the guy who came in early because he wanted to."},
+        {"turn_id": "p02_s1_t21", "speaker": "therapist", "text": "Those sound like good goals. Is there anything else you'd want me to know early on?"},
+        {"turn_id": "p02_s1_t22", "speaker": "client", "text": "Probably that I'm a pushover. I'd rather eat glass than have someone annoyed with me. If there's tension in a room I'll say whatever makes it go away, even if it costs me a weekend or a few hundred bucks. Noa finds it baffling. She'd argue with a surgeon mid-operation."},
+        {"turn_id": "p02_s1_t23", "speaker": "therapist", "text": "That's really useful to know. Shall we meet again in two weeks?"},
+        {"turn_id": "p02_s1_t24", "speaker": "client", "text": "Yes. Thanks. This was less weird than I expected. I sort of thought there'd be a couch and a box of tissues."}
+      ]
+    },
+    {
+      "session_id": "p02_s2",
+      "date": "2026-02-16",
+      "turns": [
+        {"turn_id": "p02_s2_t01", "speaker": "therapist", "text": "Hi Arash. How have the last two weeks been?"},
+        {"turn_id": "p02_s2_t02", "speaker": "client", "text": "Long. Noa's on night shifts this block, seven on, so we're basically roommates who leave each other notes. She gets in at eight in the morning as I'm leaving. I made her a pot of soup and labelled it with the date, like she does at the hospital. She thought that was hilarious."},
+        {"turn_id": "p02_s2_t03", "speaker": "therapist", "text": "Sounds like you're finding ways to look after each other."},
+        {"turn_id": "p02_s2_t04", "speaker": "client", "text": "She mostly looks after herself. She's very self-sufficient. When she had the flu at Christmas she wouldn't let me bring her anything. She just said, 'I'm a nurse, I know what to do, go home.'"},
+        {"turn_id": "p02_s2_t05", "speaker": "therapist", "text": "How was that for you?"},
+        {"turn_id": "p02_s2_t06", "speaker": "client", "text": "Weird. I didn't know what to do with my hands. In my family when someone's sick, everyone descends with soup. Anyway. Work. Can I talk about work?"},
+        {"turn_id": "p02_s2_t07", "speaker": "therapist", "text": "Of course."},
+        {"turn_id": "p02_s2_t08", "speaker": "client", "text": "We had the Wednesday crit. Ingrid went through my library drawings with a red pen in front of the whole studio. Thirty-one marks. I counted, obviously. She wasn't cruel exactly, just thorough. I went back to my desk and stayed until four in the morning redrawing the entire set, including the sheets she never touched. I didn't eat. I didn't text Noa. By the morning she'd moved on to someone else's scheme."},
+        {"turn_id": "p02_s2_t09", "speaker": "therapist", "text": "Thirty-one marks, and then the whole night redrawing. What was going through your head?"},
+        {"turn_id": "p02_s2_t10", "speaker": "client", "text": "That if it wasn't perfect by the morning, she'd know. Know what, I couldn't tell you. That I'm not actually good. That I've just been lucky for eight years."},
+        {"turn_id": "p02_s2_t11", "speaker": "therapist", "text": "Lucky. Where do you think that word comes from?"},
+        {"turn_id": "p02_s2_t12", "speaker": "client", "text": "Oh, I know exactly where. Grade eight, I had to build a model of a cantilever bridge out of balsa. I got stuck, cried a bit over the glue and fell asleep on the couch. In the morning it was finished on the kitchen table. Perfect. My mum had stayed up till three doing it. That happened with basically every school project until I graduated. Teachers loved my work. I loved her for it. I'm only now wondering what I didn't get to learn."},
+        {"turn_id": "p02_s2_t13", "speaker": "therapist", "text": "That's quite a memory. What do you notice as you tell it?"},
+        {"turn_id": "p02_s2_t14", "speaker": "client", "text": "That I'm smiling. And that my stomach hurts. Both at the same time. Is that normal?"},
+        {"turn_id": "p02_s2_t15", "speaker": "therapist", "text": "Very normal. Mixed feelings often arrive together. How are things with Noa otherwise?"},
+        {"turn_id": "p02_s2_t16", "speaker": "client", "text": "Good. She brought up moving in together last week, sort of sideways, while we were doing dishes. 'My lease is up in June, just saying.' I said yes before she'd finished the sentence. She laughed and told me to think about it properly. I don't need to think about it."},
+        {"turn_id": "p02_s2_t17", "speaker": "therapist", "text": "You sound very sure."},
+        {"turn_id": "p02_s2_t18", "speaker": "client", "text": "I am. I'm sure about her. I'm less sure I'm easy to live with, but that's a different problem."},
+        {"turn_id": "p02_s2_t19", "speaker": "therapist", "text": "What makes you think you're not easy to live with?"},
+        {"turn_id": "p02_s2_t20", "speaker": "client", "text": "My last relationship. Lena. We were together a long time, and she ended it at a restaurant on the night I turned twenty-nine, between the main course and dessert. She said I was needy. That being with me felt like a second job. The waiter came over with a candle in a brownie right in the middle of her saying it."},
+        {"turn_id": "p02_s2_t21", "speaker": "therapist", "text": "That sounds painful, and very public."},
+        {"turn_id": "p02_s2_t22", "speaker": "client", "text": "It was. The waiter didn't know where to look, so he just put the brownie down and backed away. I drove home and sat in the car outside my building for about an hour because I couldn't face the stairs."},
+        {"turn_id": "p02_s2_t23", "speaker": "therapist", "text": "What do you make of what she said, looking back?"},
+        {"turn_id": "p02_s2_t24", "speaker": "client", "text": "Some days I think she was right, and some days I think she was just done and needed a reason. Probably both. I don't really want to dig into it today, if that's okay."},
+        {"turn_id": "p02_s2_t25", "speaker": "therapist", "text": "That's okay. We can come back to it when you're ready."},
+        {"turn_id": "p02_s2_t26", "speaker": "client", "text": "Thanks. Next time I'll bring something lighter. I'm making fesenjan on Saturday with saffron rice. Maybe I'll just bring you the recipe instead of feelings."}
+      ]
+    },
+    {
+      "session_id": "p02_s3",
+      "date": "2026-03-02",
+      "turns": [
+        {"turn_id": "p02_s3_t01", "speaker": "therapist", "text": "Hi Arash. How are you doing today?"},
+        {"turn_id": "p02_s3_t02", "speaker": "client", "text": "Frazzled. My laptop died on Thursday in the middle of a deadline and the IT help desk took two days to get back to me. Two days. I ended up redrawing a section by hand on trace paper at the desk in my second bedroom like it was 1995. Honestly it was kind of fun."},
+        {"turn_id": "p02_s3_t03", "speaker": "therapist", "text": "Sounds like a mixed experience."},
+        {"turn_id": "p02_s3_t04", "speaker": "client", "text": "The library's giving us trouble too. The structural engineer wants a steel support beam right through the middle of the reading room, where I've got a double-height void. I spent all week trying to make the beam disappear into the ceiling. It's that or redesign the whole atrium."},
+        {"turn_id": "p02_s3_t05", "speaker": "therapist", "text": "That sounds like a real design puzzle."},
+        {"turn_id": "p02_s3_t06", "speaker": "client", "text": "It is, and I actually like that kind of problem. It's the people part I'm bad at. Ingrid wants it solved 'elegantly' by Friday and won't say what elegant means."},
+        {"turn_id": "p02_s3_t07", "speaker": "therapist", "text": "What do you do when you don't know what she wants?"},
+        {"turn_id": "p02_s3_t08", "speaker": "client", "text": "Guess. Overdeliver. Do three versions so one of them has to be right. It's exhausting, but it's how I've always done it."},
+        {"turn_id": "p02_s3_t09", "speaker": "therapist", "text": "You said last time you've always been like this. I'm curious what home was like growing up."},
+        {"turn_id": "p02_s3_t10", "speaker": "client", "text": "Home was loud in a specific way. My parents argued in Farsi, late, after they thought I was asleep. Money, mostly, and my father's work. I'd get up and make tea for both of them and tell some story from school until they laughed. I was maybe ten. I was the family diplomat. I'm still pretty good at it."},
+        {"turn_id": "p02_s3_t11", "speaker": "therapist", "text": "That's a lot of responsibility for a ten-year-old."},
+        {"turn_id": "p02_s3_t12", "speaker": "client", "text": "I didn't see it like that at the time. It was just what happened after nine o'clock in our apartment. Some kids had piano lessons."},
+        {"turn_id": "p02_s3_t13", "speaker": "therapist", "text": "Where was your dad in those years, outside the arguments?"},
+        {"turn_id": "p02_s3_t14", "speaker": "client", "text": "Driving. Mostly gone. There's one night I remember, though. I was about ten and stuck on a drawing for school, and he sat down next to me at the kitchen table without saying anything. He had this heavy old lead holder from his engineering days, the kind you sharpen in a little spinning tin, and he showed me how to pull a straight line by rolling it as you go. Twenty minutes, maybe. Barely a word. I think about it a lot."},
+        {"turn_id": "p02_s3_t15", "speaker": "therapist", "text": "That sounds like a moment that mattered."},
+        {"turn_id": "p02_s3_t16", "speaker": "client", "text": "It did. It's maybe the reason I do this job. Don't tell him that. He'd be embarrassed. Or he wouldn't say anything, which is the same thing."},
+        {"turn_id": "p02_s3_t17", "speaker": "therapist", "text": "Last time you mentioned Lena and didn't want to go further. How are you feeling about that now?"},
+        {"turn_id": "p02_s3_t18", "speaker": "client", "text": "I can talk about the after, a bit. For a couple of months I basically stopped eating. Crackers over the sink. And I'd get in the car around midnight and drive out the escarpment road until the fuel light came on. I remember thinking, really calmly, that if I just didn't make it back it wouldn't be the worst thing. I never did anything. It passed. I'm only telling you because you asked."},
+        {"turn_id": "p02_s3_t19", "speaker": "therapist", "text": "Thank you for telling me. Are thoughts like that around at all now?"},
+        {"turn_id": "p02_s3_t20", "speaker": "client", "text": "No. No, that was a different time. I have Noa, I have work, even if work's a nightmare right now. I'd tell you."},
+        {"turn_id": "p02_s3_t21", "speaker": "therapist", "text": "I'm glad. Please do. How's the moving-in conversation going?"},
+        {"turn_id": "p02_s3_t22", "speaker": "client", "text": "Slowly, but nicely. Noa made a spreadsheet, of course. Rent, groceries, who cleans what. She colour-coded the bins. I find it weirdly romantic."},
+        {"turn_id": "p02_s3_t23", "speaker": "therapist", "text": "What's it like for you, sorting out the practical side?"},
+        {"turn_id": "p02_s3_t24", "speaker": "client", "text": "Mostly fun. We disagreed about whether a couch can be white. I lost. I'm fine with losing that one. She's also very against my collection of thirty mugs."},
+        {"turn_id": "p02_s3_t25", "speaker": "therapist", "text": "Sounds like a good start. Let's stop there for today."},
+        {"turn_id": "p02_s3_t26", "speaker": "client", "text": "Okay, thank you. I'm going to go stare at a beam for the rest of the afternoon and try to make it elegant."}
+      ]
+    },
+    {
+      "session_id": "p02_s4",
+      "date": "2026-03-16",
+      "turns": [
+        {"turn_id": "p02_s4_t01", "speaker": "therapist", "text": "Hi Arash. How's the last fortnight been?"},
+        {"turn_id": "p02_s4_t02", "speaker": "client", "text": "Busy in a good way. Noa's sister Talia got engaged properly, there's a date in August, and Noa's maid of honour, so our kitchen table is ninety percent wedding binders. Her dad cried for ten minutes on the phone. Talia asked me to design the seating plan because 'you're an architect'. I said that's not how that works and then did it anyway."},
+        {"turn_id": "p02_s4_t03", "speaker": "therapist", "text": "It sounds like you're becoming part of the family."},
+        {"turn_id": "p02_s4_t04", "speaker": "client", "text": "Yeah. And we've decided, properly. Noa's moving into my place on June first, when her lease ends. Spreadsheet approved. She's already keeping her bike in my hallway as a sort of advance party. I keep tripping over it and grinning."},
+        {"turn_id": "p02_s4_t05", "speaker": "therapist", "text": "That's a big milestone. How does it feel?"},
+        {"turn_id": "p02_s4_t06", "speaker": "client", "text": "Good. Scary-good. I keep thinking she'll see what I'm like at six in the morning and change her mind. But she's a nurse. She's seen worse than me before breakfast."},
+        {"turn_id": "p02_s4_t07", "speaker": "therapist", "text": "And work?"},
+        {"turn_id": "p02_s4_t08", "speaker": "client", "text": "Work is the Weather. That's what the juniors call Ingrid, never to her face. You come in, you check her expression, and you know what kind of day it's going to be. Sunny means she's nodded at your model. Overcast means she's walking the studio with her coffee. I've started checking it the way I check my phone."},
+        {"turn_id": "p02_s4_t09", "speaker": "therapist", "text": "That sounds like a lot of energy spent on watching her."},
+        {"turn_id": "p02_s4_t10", "speaker": "client", "text": "It is. On Friday she sent back the atrium scheme with one word: 'heavy'. I didn't redraw anything this time. I went home and made ghormeh sabzi, the full version, three bunches of everything, washed and chopped by hand. Four hours. By the time the dried limes went in I felt like a person again. I slept nine hours."},
+        {"turn_id": "p02_s4_t11", "speaker": "therapist", "text": "That's a very different response from the night you stayed until four."},
+        {"turn_id": "p02_s4_t12", "speaker": "client", "text": "I noticed that too. I didn't decide it, I just found myself at the market buying herbs. Noa came home from her shift and said the whole apartment smelled green."},
+        {"turn_id": "p02_s4_t13", "speaker": "therapist", "text": "What do you make of that?"},
+        {"turn_id": "p02_s4_t14", "speaker": "client", "text": "Probably that I should buy more fenugreek. Sorry, deflecting. Can I tell you about my father's birthday instead? It was a whole thing."},
+        {"turn_id": "p02_s4_t15", "speaker": "therapist", "text": "Sure, go ahead."},
+        {"turn_id": "p02_s4_t16", "speaker": "client", "text": "He turned sixty-five on Sunday. My mum made a huge meal, twenty people, and he sat at the end of the table and said maybe ten words all evening. When the cake came out he stared at the candles like they were a bill. Mum kept telling everyone how proud he is of me. He didn't say it himself. He never has."},
+        {"turn_id": "p02_s4_t17", "speaker": "therapist", "text": "How was that for you?"},
+        {"turn_id": "p02_s4_t18", "speaker": "client", "text": "Normal. That's the thing, it's normal. I made a speech, he nodded. I don't need more than that. I'm a grown man."},
+        {"turn_id": "p02_s4_t19", "speaker": "therapist", "text": "You said that quite quickly."},
+        {"turn_id": "p02_s4_t20", "speaker": "client", "text": "Did I? Probably. Can we talk about something else? Kian texted me directly, actually, first time in months. Asked if I'm alive. I said yes, busy, sorry. He sent a thumbs up."},
+        {"turn_id": "p02_s4_t21", "speaker": "therapist", "text": "How did that feel?"},
+        {"turn_id": "p02_s4_t22", "speaker": "client", "text": "Like I'd been caught. I used to be the one organising things. The Sunday games were my idea. Now I'm the guy who sends 'sorry, busy'."},
+        {"turn_id": "p02_s4_t23", "speaker": "therapist", "text": "It sounds like you miss them."},
+        {"turn_id": "p02_s4_t24", "speaker": "client", "text": "I do. I just don't know how to walk back in after this long without it being a big thing. Anyway. Let's see what the Weather does this week."}
+      ]
+    },
+    {
+      "session_id": "p02_s5",
+      "date": "2026-03-30",
+      "turns": [
+        {"turn_id": "p02_s5_t01", "speaker": "therapist", "text": "Hi Arash. How are things?"},
+        {"turn_id": "p02_s5_t02", "speaker": "client", "text": "Tense. The Millbrook pitch got moved up to the end of April, and I'm leading it, which is the biggest thing I've ever done here. The council wants a library that 'feels like a living room'. Ingrid wants it to feel like a cathedral. I'm stuck in the middle, building a model at midnight."},
+        {"turn_id": "p02_s5_t03", "speaker": "therapist", "text": "That's a big responsibility. How are you holding up?"},
+        {"turn_id": "p02_s5_t04", "speaker": "client", "text": "Not great. I had my quarterly review on Thursday. Ingrid said the scheme is 'competent but not at the level', and she's bringing in a senior from another office to 'help shape' it. I've been lying awake thinking I've finally been found out. That I was never actually any good, and now everyone's about to see it."},
+        {"turn_id": "p02_s5_t05", "speaker": "therapist", "text": "Found out. That's a heavy phrase."},
+        {"turn_id": "p02_s5_t06", "speaker": "client", "text": "It is. I know it's not rational. I've won things. People hire me. But there's a part of me that's been waiting for this since first-year studio."},
+        {"turn_id": "p02_s5_t07", "speaker": "therapist", "text": "Who's around to support you right now?"},
+        {"turn_id": "p02_s5_t08", "speaker": "client", "text": "Noa's switching to days next month. Right now we mostly communicate through the fridge whiteboard. Yesterday it said 'BUY MILK' with a drawing of a cow. It's very romantic."},
+        {"turn_id": "p02_s5_t09", "speaker": "therapist", "text": "And how are you sleeping?"},
+        {"turn_id": "p02_s5_t10", "speaker": "client", "text": "Four, five hours. I wake up at three with a list. I keep a pocket notebook by the bed now so I can write it down and stop rehearsing. Noa put her meditation app on my phone, but the man on it keeps telling me to notice my breath and I just notice the list."},
+        {"turn_id": "p02_s5_t11", "speaker": "therapist", "text": "What happens to the list in the morning?"},
+        {"turn_id": "p02_s5_t12", "speaker": "client", "text": "Half of it's nonsense by daylight. 'Check the stair nosings.' 'Email the council about benches.' 'Am I a fraud.' That last one never gets crossed off."},
+        {"turn_id": "p02_s5_t13", "speaker": "therapist", "text": "That last one sounds like it's been with you a while."},
+        {"turn_id": "p02_s5_t14", "speaker": "client", "text": "Since forever. Anyway. Talia's wedding stuff is a welcome distraction. I've done three versions of the seating plan. One of Noa's cousins can't sit near another of Noa's cousins, and nobody will tell me why."},
+        {"turn_id": "p02_s5_t15", "speaker": "therapist", "text": "Families have their own structural loads."},
+        {"turn_id": "p02_s5_t16", "speaker": "client", "text": "Ha. Load-bearing cousins. Speaking of which, the engineer finally agreed to hide the beam in a bulkhead, so the reading room keeps its void. A small win."},
+        {"turn_id": "p02_s5_t17", "speaker": "therapist", "text": "That's a real win. Did you tell Ingrid?"},
+        {"turn_id": "p02_s5_t18", "speaker": "client", "text": "Yes, in a two-line email. She replied 'fine'. From Ingrid, 'fine' is basically a parade. I nearly printed it out."},
+        {"turn_id": "p02_s5_t19", "speaker": "therapist", "text": "A parade. How did that feel?"},
+        {"turn_id": "p02_s5_t20", "speaker": "client", "text": "Good for about four minutes. Then I started wondering if 'fine' meant 'fine, whatever, you're off the project after the pitch'."},
+        {"turn_id": "p02_s5_t21", "speaker": "therapist", "text": "That's a big leap from one word."},
+        {"turn_id": "p02_s5_t22", "speaker": "client", "text": "I know. I can see myself doing it. I just can't stop. It's like watching yourself trip in slow motion and not being able to put your hands out."},
+        {"turn_id": "p02_s5_t23", "speaker": "therapist", "text": "Noticing it is a real start. Same time in two weeks?"},
+        {"turn_id": "p02_s5_t24", "speaker": "client", "text": "Yes. Wish me luck with the senior from the other office. His name's Paul and apparently he 'loves a challenge'. I think I'm the challenge."}
+      ]
+    },
+    {
+      "session_id": "p02_s6",
+      "date": "2026-04-13",
+      "turns": [
+        {"turn_id": "p02_s6_t01", "speaker": "therapist", "text": "Hi Arash. How have things been?"},
+        {"turn_id": "p02_s6_t02", "speaker": "client", "text": "Up and down. Paul's actually nice. He looked at the model and said, 'This is good, why are you apologising for it?' I didn't know I was apologising. Apparently I start every presentation with 'this is just a rough idea'."},
+        {"turn_id": "p02_s6_t03", "speaker": "therapist", "text": "What do you make of that?"},
+        {"turn_id": "p02_s6_t04", "speaker": "client", "text": "That I'm getting my excuses in first. If I say it's rough, nobody can be disappointed. My school reports used to say 'Arash is a perfectionist' like it was a compliment."},
+        {"turn_id": "p02_s6_t05", "speaker": "therapist", "text": "You said up and down. What's been down?"},
+        {"turn_id": "p02_s6_t06", "speaker": "client", "text": "Noa's asked to pause the move. Her mum's having surgery in the summer and she wants to stay close to her for a while, and she said, very kindly, that she'd like us to go a bit slower anyway. So she's renewing her lease for another year, and we'll 'revisit it in the new year'. I said that's totally fine."},
+        {"turn_id": "p02_s6_t07", "speaker": "therapist", "text": "Is it fine?"},
+        {"turn_id": "p02_s6_t08", "speaker": "client", "text": "Yes. No. It's reasonable. It's completely reasonable. I just keep hearing Lena in my head, the thing about me being a job. Like maybe Noa's worked it out too, and this is the polite version."},
+        {"turn_id": "p02_s6_t09", "speaker": "therapist", "text": "That sounds like an old fear finding a new place to land."},
+        {"turn_id": "p02_s6_t10", "speaker": "client", "text": "Maybe. I haven't said any of that to her. She'd say I'm catastrophising. She'd probably be right."},
+        {"turn_id": "p02_s6_t11", "speaker": "therapist", "text": "What would it be like to tell her some of it?"},
+        {"turn_id": "p02_s6_t12", "speaker": "client", "text": "Terrible. Fine. I don't know. I'll think about it. Can we talk about the pitch instead? It's in two weeks and I'm weirdly calm."},
+        {"turn_id": "p02_s6_t13", "speaker": "therapist", "text": "Sure. What's behind the calm?"},
+        {"turn_id": "p02_s6_t14", "speaker": "client", "text": "Paul, honestly. And the model's done. I photographed it in a light box yesterday and it looked like a real place, with people sitting in it. I bought the little figures at the hobby shop and put a tiny dog at one of the reading tables. There's no dog policy. Nobody will notice."},
+        {"turn_id": "p02_s6_t15", "speaker": "therapist", "text": "I like that. A little bit of you in there."},
+        {"turn_id": "p02_s6_t16", "speaker": "client", "text": "Noa said the same thing. She's back on nights from next week, so it'll be me and the model for a while. I've started talking to it. It's a good listener."},
+        {"turn_id": "p02_s6_t17", "speaker": "therapist", "text": "How are things with Kian and the others?"},
+        {"turn_id": "p02_s6_t18", "speaker": "client", "text": "I went to basketball last Sunday. It was Dev's birthday, so there was a cake in a gym bag, slightly crushed. I was terrible, I've lost all my legs. Marc's dad came to watch and heckled me by name. Nobody made it weird. We got shawarma after. I'm going again."},
+        {"turn_id": "p02_s6_t19", "speaker": "therapist", "text": "That sounds like it meant a lot."},
+        {"turn_id": "p02_s6_t20", "speaker": "client", "text": "It did. I don't know why I'd made it into such a big thing in my head. They hadn't even really noticed I'd gone, which was a relief and also slightly insulting."},
+        {"turn_id": "p02_s6_t21", "speaker": "therapist", "text": "Both can be true. Anything you want to plan for over the next few weeks?"},
+        {"turn_id": "p02_s6_t22", "speaker": "client", "text": "Getting through the pitch. Then Talia's engagement party, then wedding overdrive. Noa wants us to get away for a weekend somewhere quiet in the summer."},
+        {"turn_id": "p02_s6_t23", "speaker": "therapist", "text": "That sounds like a lot, with some good things in it too. See you in two weeks."},
+        {"turn_id": "p02_s6_t24", "speaker": "client", "text": "Two weeks. If we win the pitch I'm bringing you a slice of whatever cake the office buys. If we lose, I'm bringing the whole cake."}
+      ]
+    }
+  ],
+  "queries": [
+    {
+      "query_id": "p02_q01",
+      "category": "relational_template",
+      "date": "2026-04-30",
+      "query": "The Millbrook pitch was on Tuesday, the biggest thing I've ever led, and Noa didn't ask once how it went. She got in from her shift, ate standing at the counter and went to bed. When I brought it up the next day she said, 'You'd have told me if it went badly, you're a grown man.' I just don't feel like I get any help or support from her.",
+      "evidence": ["p02_s1_t12", "p02_s2_t12"],
+      "chain": [
+        {"turn_id": "p02_s1_t12", "fact": "His mother was always there, phoning every evening at nine through five years of university; 'maybe too much'."},
+        {"turn_id": "p02_s2_t12", "fact": "His mother finished his school projects overnight so he never had to struggle with them."}
+      ],
+      "reasoning": "His template for being cared for is a mother who checked in every day and quietly did things for him; Noa's direct, hands-off style reads to him as a lack of support even though she isn't withholding.",
+      "distractors": ["p02_s2_t02", "p02_s4_t02", "p02_s3_t04", "p02_s3_t02"],
+      "why_it_matters": "Without the link, the therapist takes 'she doesn't support me' at face value and works on the couple, missing the expectation of care he learned from his mother."
+    },
+    {
+      "query_id": "p02_q02",
+      "category": "trigger_recurrence",
+      "date": "2026-05-05",
+      "query": "Noa's sister and her fiancé came for dinner on Saturday and he said the rice was a bit hard in the middle, totally offhand. I laughed it off, but after they left I made it again three times, until the crust came out right. Noa found me scraping pans at half past one.",
+      "evidence": ["p02_s2_t08"],
+      "chain": [
+        {"turn_id": "p02_s2_t08", "fact": "After Ingrid marked his drawings in red in front of the studio, he stayed until 4 a.m. redrawing the whole set, even sheets she never touched."}
+      ],
+      "reasoning": "A small offhand criticism set off the same response as Ingrid's markup: redoing everything through the night until it is flawless, now in his kitchen.",
+      "distractors": ["p02_s4_t02", "p02_s2_t26", "p02_s3_t04"],
+      "why_it_matters": "Without it, this looks like a quirky cooking night rather than his perfectionism-under-criticism pattern spreading into the activity that usually calms him."
+    },
+    {
+      "query_id": "p02_q03",
+      "category": "symbolic_reference",
+      "date": "2026-05-01",
+      "query": "I was in an art supply shop at the weekend and saw one of those old clutch pencils with the knurled brass grip. I bought it for no reason and I've been carrying it around in my shirt pocket all week. I keep taking it out at my desk and just holding it.",
+      "evidence": ["p02_s3_t14"],
+      "chain": [
+        {"turn_id": "p02_s3_t14", "fact": "His one warm memory of his quiet, absent father is being shown how to pull a straight line with his father's old lead holder."}
+      ],
+      "reasoning": "A clutch pencil is the same tool as his father's lead holder; buying and holding it points to longing for the father he rarely had.",
+      "distractors": ["p02_s3_t02", "p02_s5_t10", "p02_s6_t14"],
+      "why_it_matters": "Without it, the pencil looks like an impulse buy and the grief about his father stays unspoken."
+    },
+    {
+      "query_id": "p02_q04",
+      "category": "temporal_anniversary",
+      "date": "2026-05-04",
+      "query": "My birthday's on the eighteenth and Noa asked what I want to do. I said nothing, let's just skip it this year, and she looked at me like I'd grown another head. I don't even know why I said that. I usually like birthdays.",
+      "evidence": ["p02_s2_t20"],
+      "chain": [
+        {"turn_id": "p02_s2_t20", "fact": "His ex Lena ended it at a restaurant the night he turned twenty-nine, calling him needy, as the birthday dessert arrived."}
+      ],
+      "reasoning": "His birthday is the anniversary of being dumped and called needy at his birthday dinner; wanting to skip it is avoidance of that memory, not a dislike of birthdays.",
+      "distractors": ["p02_s4_t14", "p02_s6_t18", "p02_s6_t06"],
+      "why_it_matters": "Without the anniversary, the therapist reads it as modesty or low mood and misses the old rejection it brings back."
+    },
+    {
+      "query_id": "p02_q05",
+      "category": "state_update",
+      "date": "2026-04-27",
+      "query": "I spent Saturday measuring the second bedroom for Noa's desk and ordered two sets of shelves. I want the room to be ready for her. It's going to be really good.",
+      "evidence": ["p02_s6_t06", "p02_s6_t08", "p02_s4_t04"],
+      "chain": [
+        {"turn_id": "p02_s6_t06", "fact": "In April Noa asked to pause moving in and is renewing her lease for another year; he said it was 'totally fine'."},
+        {"turn_id": "p02_s6_t08", "fact": "Privately he fears she has worked out he is too much, and he hasn't told her."},
+        {"turn_id": "p02_s4_t04", "fact": "In March they had agreed she would move into his place on June 1."}
+      ],
+      "reasoning": "The June move was replaced by a pause; preparing a room for her acts as if the old plan still stands and sidesteps the hurt he hasn't voiced.",
+      "distractors": ["p02_s3_t02", "p02_s3_t04", "p02_s2_t26"],
+      "why_it_matters": "A system holding the March plan would treat this as happy nesting and miss that the move was called off and he is avoiding it."
+    },
+    {
+      "query_id": "p02_q06",
+      "category": "risk_signal",
+      "date": "2026-05-07",
+      "query": "Honestly I'm fine, just slammed. I haven't turned the stove on in about two weeks, it's all takeout, and most evenings I take the long way home along the lake road, sometimes for an hour or so. It clears my head.",
+      "evidence": ["p02_s1_t10", "p02_s3_t18", "p02_s5_t04"],
+      "chain": [
+        {"turn_id": "p02_s1_t10", "fact": "Cooking is how he knows he's okay; Noa worries when he stops."},
+        {"turn_id": "p02_s3_t18", "fact": "After the breakup he stopped eating and drove alone at night with the passive thought that not making it back wouldn't be the worst thing."},
+        {"turn_id": "p02_s5_t04", "fact": "In March Ingrid's review left him feeling 'found out', never actually good."}
+      ],
+      "reasoning": "Stopping cooking and taking long solitary drives repeat the signs of his past episode of passive ideation, now under a major blow at work; 'I'm fine' calls for a gentle, direct check.",
+      "distractors": ["p02_s2_t22", "p02_s1_t02"],
+      "why_it_matters": "Read alone it is a busy man unwinding on the drive home; with the history it is a possible risk signal."
+    },
+    {
+      "query_id": "p02_q07",
+      "category": "entity_resolution",
+      "date": "2026-05-02",
+      "query": "The Weather's back from her conference on Monday and I've already rewritten the project narrative twice this weekend. I keep picturing her reading it.",
+      "evidence": ["p02_s4_t08", "p02_s2_t08"],
+      "chain": [
+        {"turn_id": "p02_s4_t08", "fact": "'The Weather' is the juniors' nickname for Ingrid, the design director."},
+        {"turn_id": "p02_s2_t08", "fact": "After Ingrid's critique he redrew everything through the night, even untouched sheets."}
+      ],
+      "reasoning": "The Weather is Ingrid; rewriting twice before she has read anything is his pre-emptive overwork pattern with her.",
+      "distractors": ["p02_s1_t02", "p02_s4_t24", "p02_s2_t12", "p02_s1_t20"],
+      "why_it_matters": "Without resolving the nickname, the system doesn't know who he is anxious about or that this is a known pattern with her."
+    },
+    {
+      "query_id": "p02_q08",
+      "category": "coping_resource",
+      "date": "2026-05-09",
+      "query": "I've tried everything this week. The meditation app, the gym at six, a long bath, an early night, and none of it touches the noise in my head. I'm just stuck in it.",
+      "evidence": ["p02_s4_t10", "p02_s1_t10"],
+      "chain": [
+        {"turn_id": "p02_s4_t10", "fact": "After Ingrid rejected his scheme he spent four hours making ghormeh sabzi by hand and felt like a person again."},
+        {"turn_id": "p02_s1_t10", "fact": "Washing and chopping herbs for slow Persian food switches his brain off."}
+      ],
+      "reasoning": "He lists everything he's tried, but not cooking, which has reliably settled him after hard days.",
+      "distractors": ["p02_s5_t10", "p02_s6_t18"],
+      "why_it_matters": "Without it, the therapist starts coping work from scratch instead of reactivating something that already works for him."
+    },
+    {
+      "query_id": "p02_q09",
+      "category": "contradiction",
+      "date": "2026-05-11",
+      "query": "Noa asked about my dad over dinner and I told her we've always been close, he's just not a talker. She gave me this look. I don't know why that's so hard to believe.",
+      "evidence": ["p02_s1_t14", "p02_s4_t16", "p02_s3_t14"],
+      "chain": [
+        {"turn_id": "p02_s1_t14", "fact": "His father drove nights for twenty years; he could count their real conversations on one hand."},
+        {"turn_id": "p02_s4_t16", "fact": "At his sixty-fifth birthday his father said about ten words; he has never told Arash he is proud of him."},
+        {"turn_id": "p02_s3_t14", "fact": "His one remembered moment of closeness was twenty minutes at the kitchen table with barely a word."}
+      ],
+      "reasoning": "'Always close' contradicts what he described: an absent, near-silent father, with closeness so rare that he treasures a single night.",
+      "distractors": ["p02_s4_t02", "p02_s6_t18", "p02_s6_t06"],
+      "why_it_matters": "Taking 'always close' at face value shuts down grief about the father he didn't get."
+    },
+    {
+      "query_id": "p02_q10",
+      "category": "latent_trait",
+      "date": "2026-05-06",
+      "query": "The contractor on the Wren Street job billed us for the wrong steel, and I've drafted the email to him nine times and haven't sent it. Noa says just phone the guy. It's been a week.",
+      "evidence": ["p02_s1_t22", "p02_s3_t10"],
+      "chain": [
+        {"turn_id": "p02_s1_t22", "fact": "He would rather eat glass than have someone annoyed with him and will pay to make tension go away."},
+        {"turn_id": "p02_s3_t10", "fact": "As a child he defused his parents' arguments with tea and stories, the 'family diplomat'."}
+      ],
+      "reasoning": "The unsent email isn't disorganisation; confronting the contractor means causing friction, which he has avoided since childhood.",
+      "distractors": ["p02_s3_t04", "p02_s5_t12", "p02_s5_t18"],
+      "why_it_matters": "Without it, the therapist treats this as procrastination or time management instead of conflict avoidance."
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "persona_id": "p06",
+  "name": "Marcus Bell",
+  "case_formulation": "Marcus Bell, 46, he/him, HVAC technician at Northline Heating and Air for eleven years (twenty-two in the trade). Alcohol use disorder, sober since 3 October 2024 (two-year coin between sessions 4 and 5), attends AA Tuesday, Thursday and Saturday; sponsor Walt, 71, a retired machinist with thirty-one years sober who calls Mondays and Thursdays and warns that the disease 'wants you by yourself'. Relapse pattern: an earlier eight-month sobriety in 2022 was lost by not returning his sponsor's calls, telling himself he was 'just being social', and sitting in the Anchor bar with the bowling league drinking soda until one night it was not soda. Worst binge: Thanksgiving 2023, Wednesday to Sunday; Denise took their son Jaylen (then 12) to her mother's that weekend and never moved back. Divorced after sixteen years; Denise, a dental hygienist, is engaged to Ray. Jaylen, 15, lives with Denise; contact was Sunday lunch only and Denise's rule since his DUI is that he does not drive Jaylen (licence back in spring 2026); in session 5 she agrees to one after-school pickup a week from November. Jaylen is guarded and watches his father the way Marcus once watched his own. Family of origin: his father drank unpredictably; good in the early mornings fishing on the water, someone else by afternoon. When his father got loud Marcus hid in the garage on a cooler behind the truck, sometimes half the night. His first beer was at 14 from his father's stash in that garage ('so this is what he gets out of it'); in fights with Denise he heard his father's voice in his own mouth and drank to shut it up, and he withdrew to the truck in the driveway. He spent his childhood trying to keep his father in a decent mood and still tries it on everyone. Dyslexia identified at 44 in treatment; his father called him thick; he hides it, and Walt reads the Big Book to him by phone. Core beliefs: 'I am thick/defective'; 'An angry man means danger: get small and hide'; 'If I keep him happy I'll be safe.' Current stressors: Tyler, a 29-year-old supervisor from dispatch, corrects him in front of the crew (the crew call Tyler 'the Kid'); bulging disc from lifting a condenser, refuses opioids (tore up the prescription), physical therapy; money (child support, transmission on a credit card). Coping: dawn fishing at Coulter Reservoir, the one place his head goes quiet, and later a fishing morning with Jaylen that was his best Sunday in two years. The shop crowd (Dale, Rico) drink heavily at a weekly card game at Dale's house and stopped inviting him; Rico is friendly. An aunt, Ruth, kept the whole family's belongings in her basement.",
+  "sessions": [
+    {
+      "session_id": "p06_s1",
+      "date": "2026-08-17",
+      "turns": [
+        {"turn_id": "p06_s1_t01", "speaker": "therapist", "text": "Come on in, Marcus. Grab whichever chair. How was the drive over?"},
+        {"turn_id": "p06_s1_t02", "speaker": "client", "text": "Fine. Came straight from a job, so apologies if I smell like a crawlspace. Rooftop unit at a dentist's office, ninety-six degrees up there. My sponsor's been on me to do this for about six months. Walt. He's seventy-one and he doesn't let things go."},
+        {"turn_id": "p06_s1_t03", "speaker": "therapist", "text": "Walt sounds persistent. What made now the right time?"},
+        {"turn_id": "p06_s1_t04", "speaker": "client", "text": "I hit two years in October. Walt says the second year's when guys get cocky. First year you're scared, second year you think you've got it handled. Plus my son. Jaylen. He's fifteen, he lives with his mom, Denise. Things are better than they were. They're not good."},
+        {"turn_id": "p06_s1_t05", "speaker": "therapist", "text": "Tell me a bit about Jaylen."},
+        {"turn_id": "p06_s1_t06", "speaker": "client", "text": "He's a good kid. Smart mouth, like me. Plays JV basketball, wants to be a physical therapist, which is funny given my back. I see him Sunday lunch, every week, that's the arrangement. I don't drive him anywhere. That's Denise's rule since the DUI, and honestly I'd have made the same rule. My license came back in the spring. The rule stayed."},
+        {"turn_id": "p06_s1_t07", "speaker": "therapist", "text": "And work? What do you do?"},
+        {"turn_id": "p06_s1_t08", "speaker": "client", "text": "HVAC. Northline Heating and Air, eleven years there, twenty-two in the trade. We got a new supervisor in May, Tyler, twenty-nine, came over from dispatch. Never brazed a joint in his life. Talks to me like I'm fresh out of trade school. Corrects my tickets in front of everybody at the morning huddle."},
+        {"turn_id": "p06_s1_t09", "speaker": "therapist", "text": "How do you handle that?"},
+        {"turn_id": "p06_s1_t10", "speaker": "client", "text": "Bite my tongue. Say 'yes sir' to a guy who was in diapers when I got my first license. Walt says resentment's the number one offender, that's straight out of the Big Book. I'm working on it. Mostly I'm working on not saying what I'm thinking."},
+        {"turn_id": "p06_s1_t11", "speaker": "therapist", "text": "You mentioned two years. Can you tell me about your drinking history?"},
+        {"turn_id": "p06_s1_t12", "speaker": "client", "text": "Twenty-some years of it. I had eight months back in '22, before everything blew up. Lost it the way guys do, I guess. Quit calling my sponsor back. Told myself I was just being social. Started sitting at the Anchor with the bowling league, drinking Cokes. Felt great about those Cokes. Then one Tuesday it wasn't a Coke."},
+        {"turn_id": "p06_s1_t13", "speaker": "therapist", "text": "What's the Anchor?"},
+        {"turn_id": "p06_s1_t14", "speaker": "client", "text": "Bar next to the bowling alley out on Route 9. It's a vape shop now. I drive past it every day on the way to the supply house and I still look. Not in a bad way. Like you'd look at an old girlfriend's house."},
+        {"turn_id": "p06_s1_t15", "speaker": "therapist", "text": "What was it like for you growing up?"},
+        {"turn_id": "p06_s1_t16", "speaker": "client", "text": "My old man drank. Not every night, which was the worst part, you never knew. When he got loud I'd go out to the garage and sit on the cooler behind his truck in the dark with the door down. Sometimes half the night. My mom would come get me once he'd passed out in his chair."},
+        {"turn_id": "p06_s1_t17", "speaker": "therapist", "text": "That sounds frightening for a kid."},
+        {"turn_id": "p06_s1_t18", "speaker": "client", "text": "It was what it was. Lot of guys had it worse. Funny thing, that garage is where I had my first beer. Fourteen. Took one out of his stash behind the water heater and drank it sitting on that same cooler. I remember thinking, oh. So this is what he gets out of it."},
+        {"turn_id": "p06_s1_t19", "speaker": "therapist", "text": "Tell me about Denise."},
+        {"turn_id": "p06_s1_t20", "speaker": "client", "text": "Married sixteen years. She's a dental hygienist. She's engaged now, to a guy named Ray, an electrician. He's decent. Jaylen likes him, which I have to be a grown-up about. She's fair with me. More than fair, considering."},
+        {"turn_id": "p06_s1_t21", "speaker": "therapist", "text": "What does your support look like right now?"},
+        {"turn_id": "p06_s1_t22", "speaker": "client", "text": "Walt. Meetings Tuesday and Thursday at the Lutheran church basement, the Saturday morning one when I can, and an online one Sunday nights if it's a bad week. Walt's a retired machinist, thirty-one years sober, calls me 'Bell' like a drill sergeant. And the guys at the meetings, who are mostly older than Walt."},
+        {"turn_id": "p06_s1_t23", "speaker": "therapist", "text": "If this goes well, what would be different?"},
+        {"turn_id": "p06_s1_t24", "speaker": "client", "text": "Jaylen trusting me. Not turning into my old man. And Walt says I need to look at what's under the drinking. I spent my whole childhood trying to be good enough to keep him in a decent mood. Didn't work. Doesn't stop me trying it on everybody else."},
+        {"turn_id": "p06_s1_t25", "speaker": "therapist", "text": "That's a clear place to start. We'll go at your pace."},
+        {"turn_id": "p06_s1_t26", "speaker": "client", "text": "Appreciate it. Same time in two weeks. I'll try to come from a job that doesn't smell like a crawlspace."}
+      ]
+    },
+    {
+      "session_id": "p06_s2",
+      "date": "2026-08-31",
+      "turns": [
+        {"turn_id": "p06_s2_t01", "speaker": "therapist", "text": "Good to see you, Marcus. How have the last two weeks been?"},
+        {"turn_id": "p06_s2_t02", "speaker": "client", "text": "Hottest stretch of the year. Every AC in the county quit at once. I did a fourteen-hour day Wednesday. And I tweaked my back hauling a condenser up a ladder on Monday, so I'm walking like my grandpa."},
+        {"turn_id": "p06_s2_t03", "speaker": "therapist", "text": "Ouch. What's the doctor said?"},
+        {"turn_id": "p06_s2_t04", "speaker": "client", "text": "Urgent care guy said probably a bulging disc and wrote me for oxycodone. I tore the script up in the parking lot. I've watched guys in the rooms go from beer to pills like changing lanes. Ibuprofen and a heating pad. It's fine."},
+        {"turn_id": "p06_s2_t05", "speaker": "therapist", "text": "That's a clear decision to make while you're in pain."},
+        {"turn_id": "p06_s2_t06", "speaker": "client", "text": "Wasn't hard. Being left out is harder. Dale and Rico and that crowd from work, they go at it. End of every week they pile over to Dale's for cards. Cooler of beer, bottle of something on the table, wives come pick them up after midnight. They used to invite me. They quit."},
+        {"turn_id": "p06_s2_t07", "speaker": "therapist", "text": "What's it like, being on the outside of that?"},
+        {"turn_id": "p06_s2_t08", "speaker": "client", "text": "Lonely, I guess, if you want the word. I'd never say that at the shop. I eat lunch in the van with sports radio on and tell myself I like the quiet. Some days I even do."},
+        {"turn_id": "p06_s2_t09", "speaker": "therapist", "text": "When it gets lonely like that, what helps?"},
+        {"turn_id": "p06_s2_t10", "speaker": "client", "text": "Fishing. I'm out at Coulter Reservoir by five some Saturdays. Nobody out there but me and a heron that hates me. I don't care if I catch anything. Thermos of coffee, rod in the holder. It's the only place my head shuts up."},
+        {"turn_id": "p06_s2_t11", "speaker": "therapist", "text": "Who taught you to fish?"},
+        {"turn_id": "p06_s2_t12", "speaker": "client", "text": "My old man, believe it or not. The good version of him only came out early, before noon, on the water. He'd let me bait the hooks and he'd hum old country songs off-key. By afternoon he was somebody else. So maybe I'm out there chasing the morning. Don't put that in your notes, it sounds like a greeting card."},
+        {"turn_id": "p06_s2_t13", "speaker": "therapist", "text": "It doesn't sound like a greeting card. It sounds like something that mattered."},
+        {"turn_id": "p06_s2_t14", "speaker": "client", "text": "Yeah, well. Anyway. Jaylen's got tryouts next week and he asked if I'd come watch. He asked me. Denise texted me the time like she was handing over launch codes."},
+        {"turn_id": "p06_s2_t15", "speaker": "therapist", "text": "That sounds like a big deal, him asking."},
+        {"turn_id": "p06_s2_t16", "speaker": "client", "text": "It is. He still calls me Marcus instead of Dad when he's mad at me, which kills me every time. Like I got demoted. I'll take it. Two years ago he wouldn't be in a room with me."},
+        {"turn_id": "p06_s2_t17", "speaker": "therapist", "text": "What happened, back then, between the two of you?"},
+        {"turn_id": "p06_s2_t18", "speaker": "client", "text": "A lot. The big one was Thanksgiving of '23. I started on the Wednesday and didn't come up for air till Sunday. Somewhere in there Denise put him in the car and drove to her mom's, and that was it. She never moved back. He was twelve. He saw enough."},
+        {"turn_id": "p06_s2_t19", "speaker": "therapist", "text": "That's a lot for both of you to carry."},
+        {"turn_id": "p06_s2_t20", "speaker": "client", "text": "Walt says I've made my amends. I did the step, I sat across from Denise at a diner and said my piece. But Jaylen didn't sign up for the step. He gets to be mad on his own schedule."},
+        {"turn_id": "p06_s2_t21", "speaker": "therapist", "text": "How's the step work going generally?"},
+        {"turn_id": "p06_s2_t22", "speaker": "client", "text": "Slow. I'm not a reader, never was. They stuck me in the slow class in fourth grade and I stayed stuck. Turns out a counselor at the treatment place figured out I'm dyslexic. Forty-four years old. Back then my old man just called me thick. Walt reads the Big Book out loud to me over the phone. Don't spread that around."},
+        {"turn_id": "p06_s2_t23", "speaker": "therapist", "text": "Thank you for telling me. That must have made school really hard."},
+        {"turn_id": "p06_s2_t24", "speaker": "client", "text": "I got by on charm and woodshop. Speaking of hard, money. Child support's nine hundred a month, which is fair, and the truck's making a noise like a blender full of bolts. I'm taking every overtime call I can get."},
+        {"turn_id": "p06_s2_t25", "speaker": "therapist", "text": "That's a lot of pressure at once. Let's keep an eye on how it's hitting your sleep and your back."},
+        {"turn_id": "p06_s2_t26", "speaker": "client", "text": "Will do. And I'll be at those tryouts, sitting up top where he can pretend he doesn't see me."}
+      ]
+    },
+    {
+      "session_id": "p06_s3",
+      "date": "2026-09-14",
+      "turns": [
+        {"turn_id": "p06_s3_t01", "speaker": "therapist", "text": "Hi Marcus. How did the tryouts go?"},
+        {"turn_id": "p06_s3_t02", "speaker": "client", "text": "He made JV. I sat up top like I said. He looked up once after a layup, real quick, like checking the weather. I'll take it. Friday we went to the football game after, him with his buddies, me with a hot dog."},
+        {"turn_id": "p06_s3_t03", "speaker": "therapist", "text": "That glance sounds like it meant a lot. How's work been?"},
+        {"turn_id": "p06_s3_t04", "speaker": "client", "text": "Tyler wrote me up. Said I took too long on a boiler job. It was a cracked heat exchanger, of course it took long, you don't rush a cracked heat exchanger unless you want a family breathing carbon monoxide. He did it in front of the morning huddle again. I said 'yep' and went to my first call."},
+        {"turn_id": "p06_s3_t05", "speaker": "therapist", "text": "How did you handle it, inside?"},
+        {"turn_id": "p06_s3_t06", "speaker": "client", "text": "Swallowed it. Same as always. Denise used to say that was my move. Any time we fought, I'd go sit out in the driveway in the truck with the engine off, sometimes till she'd gone to bed. She'd watch me through the blinds. Drove her nuts. Probably helped drive her out, that and the rest."},
+        {"turn_id": "p06_s3_t07", "speaker": "therapist", "text": "What was happening for you, out in the truck?"},
+        {"turn_id": "p06_s3_t08", "speaker": "client", "text": "You want the truth? Half the time when we fought, I'd hear my old man come out of my mouth. Same words, same tone. Then I'd go find the bottle to shut him up. Me up. Whoever. That's the ugly version."},
+        {"turn_id": "p06_s3_t09", "speaker": "therapist", "text": "That's not ugly. It's honest, and it makes a lot of sense."},
+        {"turn_id": "p06_s3_t10", "speaker": "client", "text": "Making sense doesn't make it okay. Anyway. Can we do something lighter? I watched a show Saturday where a guy cried over a bass. Grown man, sobbing on a boat. I respected it."},
+        {"turn_id": "p06_s3_t11", "speaker": "therapist", "text": "Sure. How's Walt?"},
+        {"turn_id": "p06_s3_t12", "speaker": "client", "text": "Walt calls Mondays and Thursdays, regular as a clock. He says the first thing he watches for with any guy is when they start getting hard to reach. Says the disease wants you by yourself, and it'll dress that up as you doing great."},
+        {"turn_id": "p06_s3_t13", "speaker": "therapist", "text": "How do you feel when he says things like that?"},
+        {"turn_id": "p06_s3_t14", "speaker": "client", "text": "Annoyed, about half the time. He's usually right, which is the annoying part. He got his thirty-one-year coin in June and made a speech that was mostly about his tomatoes."},
+        {"turn_id": "p06_s3_t15", "speaker": "therapist", "text": "You said Jaylen looked up at you. How else are things with him?"},
+        {"turn_id": "p06_s3_t16", "speaker": "client", "text": "Careful. He watches me sometimes the way I used to watch my old man pull in. How he parked, how hard the door shut, whether the radio was still on. You could tell from the door which one you were getting. I hate that I taught him that."},
+        {"turn_id": "p06_s3_t17", "speaker": "therapist", "text": "That's a painful thing to notice."},
+        {"turn_id": "p06_s3_t18", "speaker": "client", "text": "Yeah. Money's the other thing keeping me up. Transmission guy quoted thirty-two hundred. I've got eleven hundred. I've been eating a lot of eggs."},
+        {"turn_id": "p06_s3_t19", "speaker": "therapist", "text": "That's real stress. What are you doing with it?"},
+        {"turn_id": "p06_s3_t20", "speaker": "client", "text": "Overtime. Weekend calls. I'll be fine, I've been broker than this. At least now when I'm broke it's not because of what I spent at the Anchor."},
+        {"turn_id": "p06_s3_t21", "speaker": "therapist", "text": "How's the back?"},
+        {"turn_id": "p06_s3_t22", "speaker": "client", "text": "Bad mornings, decent afternoons. My doctor wants me to do physical therapy. Jaylen's been sending me videos of stretches, which is the most he's texted me since Easter."},
+        {"turn_id": "p06_s3_t23", "speaker": "therapist", "text": "That's a lovely way for him to reach out."},
+        {"turn_id": "p06_s3_t24", "speaker": "client", "text": "Yeah. I did the cat-cow thing on the living room floor like an idiot. Felt better, honestly. Don't tell the guys at the shop."}
+      ]
+    },
+    {
+      "session_id": "p06_s4",
+      "date": "2026-09-28",
+      "turns": [
+        {"turn_id": "p06_s4_t01", "speaker": "therapist", "text": "Hi Marcus. How are you doing?"},
+        {"turn_id": "p06_s4_t02", "speaker": "client", "text": "Not bad. Took Jaylen out to Coulter on Sunday instead of lunch. His idea, his mom dropped him off at six a.m. He caught a crappie the size of a dollar bill and acted like it was a marlin. Best Sunday I've had in two years. I forgot my back hurt until we were packing up."},
+        {"turn_id": "p06_s4_t03", "speaker": "therapist", "text": "That sounds like a really good morning."},
+        {"turn_id": "p06_s4_t04", "speaker": "client", "text": "It was. He talked to me. About some video game I didn't follow, and then about a girl, which I definitely didn't follow. I kept my mouth shut and nodded like a pro."},
+        {"turn_id": "p06_s4_t05", "speaker": "therapist", "text": "How's work?"},
+        {"turn_id": "p06_s4_t06", "speaker": "client", "text": "Same circus. Funny thing, the guys have started calling Tyler 'the Kid.' Not where he can hear. Rico started it after Tyler tried to explain to him how a heat pump works. Now it's just his name. 'The Kid wants you on the Halvorsen job.' I don't use it around him. Mostly."},
+        {"turn_id": "p06_s4_t07", "speaker": "therapist", "text": "Does the nickname help?"},
+        {"turn_id": "p06_s4_t08", "speaker": "client", "text": "A little. Makes him smaller in my head, which isn't very step-ten of me. Walt would say I'm feeding the resentment. Walt would be right."},
+        {"turn_id": "p06_s4_t09", "speaker": "therapist", "text": "How are you doing with the resentment more generally?"},
+        {"turn_id": "p06_s4_t10", "speaker": "client", "text": "Better at the shop. Worse at night. I lie there arguing with people who aren't in the room. Tyler, Denise's mom, a guy who cut me off on the bypass in 2009."},
+        {"turn_id": "p06_s4_t11", "speaker": "therapist", "text": "That sounds exhausting. How's the sleep?"},
+        {"turn_id": "p06_s4_t12", "speaker": "client", "text": "Five hours. Six if I'm lucky. The back wakes me up when I roll over. I won't take anything for it, so it's an ice pack and the recliner till I nod off, which is a great look for a forty-six-year-old man."},
+        {"turn_id": "p06_s4_t13", "speaker": "therapist", "text": "You're holding firm on not taking anything."},
+        {"turn_id": "p06_s4_t14", "speaker": "client", "text": "A guy from the Tuesday group got hooked on his wife's pills after a knee replacement. Lost four years. I'm not doing that. I'll walk like a crab first."},
+        {"turn_id": "p06_s4_t15", "speaker": "therapist", "text": "Anything shifting with Denise?"},
+        {"turn_id": "p06_s4_t16", "speaker": "client", "text": "Denise called me, on her own. Didn't need anything. Just said Jaylen came home Sunday in a good mood and wouldn't stop talking about me. That's the first time in three years she's called just to tell me something good."},
+        {"turn_id": "p06_s4_t17", "speaker": "therapist", "text": "How did that feel?"},
+        {"turn_id": "p06_s4_t18", "speaker": "client", "text": "I sat in the parking lot of the supply house for twenty minutes after. Not upset. I just didn't want to go in and have it be over."},
+        {"turn_id": "p06_s4_t19", "speaker": "therapist", "text": "That's a moment worth staying with."},
+        {"turn_id": "p06_s4_t20", "speaker": "client", "text": "Yeah. Rico saw me and asked if I was okay, and I said allergies. He said 'in September?' and walked off. Rico's alright."},
+        {"turn_id": "p06_s4_t21", "speaker": "therapist", "text": "Rico's one of the guys from the card game?"},
+        {"turn_id": "p06_s4_t22", "speaker": "client", "text": "Yeah. He's the one who still says hi. His kid's in the same JV program as Jaylen. Small world. He tried to teach me poker on break once, with sugar packets. I lost forty sugars and he never let me forget it."},
+        {"turn_id": "p06_s4_t23", "speaker": "therapist", "text": "That sounds like the start of something friendly."},
+        {"turn_id": "p06_s4_t24", "speaker": "client", "text": "Maybe. I'm not great at friends without a reason. Work gives you a reason. The rooms give you a reason. Otherwise I don't know what to do with my hands."}
+      ]
+    },
+    {
+      "session_id": "p06_s5",
+      "date": "2026-10-12",
+      "turns": [
+        {"turn_id": "p06_s5_t01", "speaker": "therapist", "text": "Hi Marcus. I hear congratulations are in order."},
+        {"turn_id": "p06_s5_t02", "speaker": "client", "text": "Two years on the third. Walt gave me the coin at the Saturday meeting and I had to say a few words. I said 'thanks' and 'one day at a time' and sat down. Walt said it was the best speech he's heard all year."},
+        {"turn_id": "p06_s5_t03", "speaker": "therapist", "text": "How did it feel?"},
+        {"turn_id": "p06_s5_t04", "speaker": "client", "text": "Weird. Proud, I guess. Also like, two years, and the world doesn't hand you anything for it. The transmission still costs what it costs."},
+        {"turn_id": "p06_s5_t05", "speaker": "therapist", "text": "Anything new with Jaylen?"},
+        {"turn_id": "p06_s5_t06", "speaker": "client", "text": "Yeah, actually. Denise says starting in November I can do the after-school run one afternoon a week, because Ray's working late. She said it like she was handing me a live grenade: 'He texts me when you leave, he texts me when you get there.' Fine by me. I'd make the same rule."},
+        {"turn_id": "p06_s5_t07", "speaker": "therapist", "text": "That's a real vote of confidence."},
+        {"turn_id": "p06_s5_t08", "speaker": "client", "text": "It is. I washed the truck. Twice. Vacuumed out the cab. Found a french fry from 2023 under the seat. I haven't said anything to Jaylen yet. Let him hear it from his mom."},
+        {"turn_id": "p06_s5_t09", "speaker": "therapist", "text": "How's the back?"},
+        {"turn_id": "p06_s5_t10", "speaker": "client", "text": "Physical therapy twice a week. The therapist's a twenty-four-year-old who calls me 'boss' and makes me lie on a foam roller. I hate it. It's working. Don't tell her."},
+        {"turn_id": "p06_s5_t11", "speaker": "therapist", "text": "And work, with Tyler?"},
+        {"turn_id": "p06_s5_t12", "speaker": "client", "text": "Quieter. Corporate's sending somebody to do a safety audit, so Tyler's busy making everybody's van look like a showroom. He left me alone all week. It was beautiful."},
+        {"turn_id": "p06_s5_t13", "speaker": "therapist", "text": "How are things with the guys at the shop?"},
+        {"turn_id": "p06_s5_t14", "speaker": "client", "text": "Better, weirdly. Dale heard about my coin, Rico must have said something. Then he asked if I'd look at his mother-in-law's furnace on the weekend. I guess that's how guys at the shop say they like you. You fix somebody's mother-in-law."},
+        {"turn_id": "p06_s5_t15", "speaker": "therapist", "text": "That sounds like you're being let in a bit."},
+        {"turn_id": "p06_s5_t16", "speaker": "client", "text": "Maybe. It's nice. Feels like the first week at a new job, everybody's polite and you're waiting to find out who steals lunches out of the fridge."},
+        {"turn_id": "p06_s5_t17", "speaker": "therapist", "text": "What about money?"},
+        {"turn_id": "p06_s5_t18", "speaker": "client", "text": "Got the transmission done. Put it on a card at twenty-four percent, which I know is dumb. But I can get to work, and Walt says a working truck is a recovery tool."},
+        {"turn_id": "p06_s5_t19", "speaker": "therapist", "text": "Getting to work matters."},
+        {"turn_id": "p06_s5_t20", "speaker": "client", "text": "Walt says a lot of things are recovery tools. His tomatoes are recovery tools. His cat is a recovery tool. I'm starting to think Walt just likes saying 'recovery tool.'"},
+        {"turn_id": "p06_s5_t21", "speaker": "therapist", "text": "We're about halfway through what we planned. How are you finding this?"},
+        {"turn_id": "p06_s5_t22", "speaker": "client", "text": "Better than I figured. I thought you'd make me hit a pillow. Mostly I just talk and you ask the one question I didn't want."},
+        {"turn_id": "p06_s5_t23", "speaker": "therapist", "text": "That's a pretty good description of the job."},
+        {"turn_id": "p06_s5_t24", "speaker": "client", "text": "Next time I might be late, I've got a seven a.m. at a bakery across town. If I show up smelling like cinnamon rolls, that's why."}
+      ]
+    },
+    {
+      "session_id": "p06_s6",
+      "date": "2026-10-26",
+      "turns": [
+        {"turn_id": "p06_s6_t01", "speaker": "therapist", "text": "Hi Marcus. You do smell a bit like cinnamon."},
+        {"turn_id": "p06_s6_t02", "speaker": "client", "text": "Told you. The owner gave me a box of day-olds and I'm a hero at the shop. Rico ate four before nine. Tyler had one and said 'not bad,' which from him is a parade."},
+        {"turn_id": "p06_s6_t03", "speaker": "therapist", "text": "How have the past two weeks been?"},
+        {"turn_id": "p06_s6_t04", "speaker": "client", "text": "Mixed. My aunt Ruth's moving into the assisted living place where my mom is. Same hallway, which is going to be a sitcom. My sister and I have to clear out Ruth's house. Forty years of stuff. The basement alone."},
+        {"turn_id": "p06_s6_t05", "speaker": "therapist", "text": "That's a lot of history to sort through."},
+        {"turn_id": "p06_s6_t06", "speaker": "client", "text": "Ruth kept everybody's junk, the whole family's. If you lost something in 1985, it's in Ruth's basement. My sister's got a whole system with colored tape. I'm the muscle."},
+        {"turn_id": "p06_s6_t07", "speaker": "therapist", "text": "How's Jaylen?"},
+        {"turn_id": "p06_s6_t08", "speaker": "client", "text": "Busy. Practice four days a week now. He's got a girlfriend, apparently. I found out because Denise let it slip. He'd die if he knew I knew. I'm sitting on it like a state secret."},
+        {"turn_id": "p06_s6_t09", "speaker": "therapist", "text": "How's work been?"},
+        {"turn_id": "p06_s6_t10", "speaker": "client", "text": "Good, mostly. Had a customer give me a whole pecan pie last week because I got her heat back on before her grandkids came. Ate half of it in the van. No regrets."},
+        {"turn_id": "p06_s6_t11", "speaker": "therapist", "text": "That sounds like a good day."},
+        {"turn_id": "p06_s6_t12", "speaker": "client", "text": "It was. You get a lot of thank-yous in October. First cold snap and everybody's furnace is an emergency. Old folks especially. I like the old folks, mostly. They tell you their whole life story while you're bleeding the radiators."},
+        {"turn_id": "p06_s6_t13", "speaker": "therapist", "text": "How's your mood been, with the days getting shorter?"},
+        {"turn_id": "p06_s6_t14", "speaker": "client", "text": "Fine. Dark at six now, which I don't love. I've been going to bed at nine like an old man. Walt says that's not a symptom, that's a lifestyle."},
+        {"turn_id": "p06_s6_t15", "speaker": "therapist", "text": "And the meetings?"},
+        {"turn_id": "p06_s6_t16", "speaker": "client", "text": "Tuesday and Thursday still. Saturday when I'm not on call. There's a new guy on Tuesdays who shakes so bad he can't hold the coffee. Reminds me why I go."},
+        {"turn_id": "p06_s6_t17", "speaker": "therapist", "text": "How's the back holding up?"},
+        {"turn_id": "p06_s6_t18", "speaker": "client", "text": "PT discharged me. Said I'm 'functional.' I asked if she could put that in writing for my ex-wife. She laughed. Still sore on cold mornings, but I can tie my boots."},
+        {"turn_id": "p06_s6_t19", "speaker": "therapist", "text": "That's real progress."},
+        {"turn_id": "p06_s6_t20", "speaker": "client", "text": "It is. Jaylen's team has a home game Friday and I'm going. I'm thinking about making a sign. He'd disown me. I might do it anyway."},
+        {"turn_id": "p06_s6_t21", "speaker": "therapist", "text": "What's coming up for you in the next few weeks?"},
+        {"turn_id": "p06_s6_t22", "speaker": "client", "text": "Clearing out Ruth's basement, mostly. My sister's made a schedule. And I've got a dentist appointment I've been dodging since 2019, which is ironic given who I was married to."},
+        {"turn_id": "p06_s6_t23", "speaker": "therapist", "text": "Sounds full. We'll meet again in a few weeks."},
+        {"turn_id": "p06_s6_t24", "speaker": "client", "text": "Sounds good. I'll probably show up smelling like Ruth's basement next time. Mothballs and old cigarettes."}
+      ]
+    }
+  ],
+  "queries": [
+    {
+      "query_id": "p06_q01",
+      "category": "risk_signal",
+      "date": "2026-11-09",
+      "query": "Honestly, things are good. The guys from the shop finally asked me in on their Friday poker night, and I've gone two weeks running. I actually feel like part of the crew. I'm giving the meetings a rest for a bit, since I'm in such a solid place.",
+      "evidence": ["p06_s2_t06", "p06_s1_t12", "p06_s3_t12"],
+      "chain": [
+        {"turn_id": "p06_s2_t06", "fact": "The work crowd (Dale, Rico) drink heavily at their weekly card game at Dale's: cooler of beer, a bottle on the table, wives drive them home."},
+        {"turn_id": "p06_s1_t12", "fact": "His 2022 relapse began with not calling his sponsor back, telling himself he was 'just being social', and sitting in a bar drinking soda."},
+        {"turn_id": "p06_s3_t12", "fact": "His sponsor warns that the first sign is a man getting hard to reach, and that the disease dresses isolation up as doing great."}
+      ],
+      "reasoning": "A heavy-drinking card night plus stepping back from meetings while feeling 'solid' matches the exact sequence of his last relapse and his sponsor's warning sign, even though the message sounds like progress.",
+      "distractors": ["p06_s4_t22", "p06_s1_t22", "p06_s6_t16", "p06_s5_t14"],
+      "why_it_matters": "Celebrated as social progress, the slide toward relapse goes unchallenged; a therapist with the history would gently name the pattern and ask about Walt and the meetings."
+    },
+    {
+      "query_id": "p06_q02",
+      "category": "contradiction",
+      "date": "2026-11-02",
+      "query": "Been chewing on all the stuff about my dad, and I think it's a dead end. The booze was never about him. I liked it, I'm an alcoholic, end of story.",
+      "evidence": ["p06_s1_t18", "p06_s3_t08"],
+      "chain": [
+        {"turn_id": "p06_s3_t08", "fact": "In fights with Denise he heard his father's voice in his own mouth and reached for the bottle to shut it up."},
+        {"turn_id": "p06_s1_t18", "fact": "His first beer at 14 came from his father's stash, drunk in the garage where he hid, thinking 'so this is what he gets out of it'."}
+      ],
+      "reasoning": "He himself tied his first drink and his drinking in conflict directly to his father; the new denial contradicts that and likely protects him from painful material.",
+      "distractors": ["p06_s2_t16", "p06_s1_t20", "p06_s6_t12"],
+      "why_it_matters": "Accepting the denial closes off the family-of-origin work his sponsor and he both said was needed, and misses the avoidance it signals."
+    },
+    {
+      "query_id": "p06_q03",
+      "category": "temporal_anniversary",
+      "date": "2026-11-16",
+      "query": "My sister's doing the turkey at her place again and she wants me and Jaylen both there. Denise actually said yes. So that's next week. Should be a nice day, right?",
+      "evidence": ["p06_s2_t18"],
+      "chain": [
+        {"turn_id": "p06_s2_t18", "fact": "Thanksgiving 2023 was his worst binge, Wednesday to Sunday; Denise left with Jaylen that weekend and never moved back."}
+      ],
+      "reasoning": "The turkey dinner is Thanksgiving, the anniversary of his worst binge and the end of his marriage, now with Jaylen present; it needs a relapse-prevention plan, not just reassurance.",
+      "distractors": ["p06_s6_t04", "p06_s6_t22", "p06_s1_t20", "p06_s2_t20"],
+      "why_it_matters": "Without the date link the therapist cheers a nice family day and misses a high-risk anniversary for both Marcus and Jaylen."
+    },
+    {
+      "query_id": "p06_q04",
+      "category": "entity_resolution",
+      "date": "2026-11-02",
+      "query": "The Kid pulled me aside on Friday and asked if I'd take the new apprentice under my wing. Said I'm the best tech he's got. I didn't know what to do with my face.",
+      "evidence": ["p06_s4_t06", "p06_s1_t08"],
+      "chain": [
+        {"turn_id": "p06_s4_t06", "fact": "'The Kid' is the crew's nickname for Tyler, his supervisor."},
+        {"turn_id": "p06_s1_t08", "fact": "Tyler, 29, corrects Marcus in front of everyone and talks to him like a trainee; Marcus feels disrespected."}
+      ],
+      "reasoning": "The Kid is Tyler, the young supervisor who had been belittling him; being asked to train the apprentice is respect from the very person he resented, which explains his confusion.",
+      "distractors": ["p06_s1_t06", "p06_s4_t22", "p06_s3_t02"],
+      "why_it_matters": "Without resolving the nickname the therapist misses a turning point in the disrespect and resentment thread."
+    },
+    {
+      "query_id": "p06_q05",
+      "category": "trigger_recurrence",
+      "date": "2026-11-09",
+      "query": "Had a customer go off on me Tuesday, older guy, red in the face, yelling about his bill right there in his kitchen. I didn't say a word. Then I sat in my van around the corner for an hour and a half and missed my next two calls.",
+      "evidence": ["p06_s1_t16", "p06_s3_t06"],
+      "chain": [
+        {"turn_id": "p06_s3_t06", "fact": "When he and Denise fought he went and sat in the truck in the driveway, sometimes until she went to bed."},
+        {"turn_id": "p06_s1_t16", "fact": "As a boy, when his drinking father got loud, he hid in the dark garage on a cooler behind the truck, sometimes half the night."}
+      ],
+      "reasoning": "An angry older man triggers the same freeze-and-hide response he used as a child in the garage and later in the truck during marital fights.",
+      "distractors": ["p06_s6_t10", "p06_s2_t08", "p06_s4_t18", "p06_s4_t02"],
+      "why_it_matters": "Treated as a customer-service problem, the old fear response and its cost at work go unrecognised."
+    },
+    {
+      "query_id": "p06_q06",
+      "category": "coping_resource",
+      "date": "2026-11-16",
+      "query": "My back's been wrecked all week, the water heater at the house just died, and I'm behind on the support payment. Nothing helps. I get home, sit in the recliner and stare at the wall till past midnight.",
+      "evidence": ["p06_s2_t10", "p06_s4_t02"],
+      "chain": [
+        {"turn_id": "p06_s2_t10", "fact": "Dawn fishing at Coulter Reservoir is the only place his head goes quiet."},
+        {"turn_id": "p06_s4_t02", "fact": "Taking Jaylen fishing at Coulter was his best Sunday in two years, and he forgot his back pain."}
+      ],
+      "reasoning": "Fishing reliably quietened his head and even eased the pain, and it is shared time with Jaylen; it is missing from his current evenings.",
+      "distractors": ["p06_s1_t18", "p06_s2_t24", "p06_s4_t12", "p06_s4_t16"],
+      "why_it_matters": "The therapist would otherwise search for new coping skills instead of reconnecting him with a proven one that also feeds his recovery and his bond with his son."
+    },
+    {
+      "query_id": "p06_q07",
+      "category": "state_update",
+      "date": "2026-11-09",
+      "query": "Picked Jaylen up after practice on Thursday and we went and got burgers, just the two of us. He had his music on the whole way and it was terrible, and I didn't say one word about it.",
+      "evidence": ["p06_s5_t06", "p06_s1_t06"],
+      "chain": [
+        {"turn_id": "p06_s5_t06", "fact": "From November Denise allows him one after-school pickup a week."},
+        {"turn_id": "p06_s1_t06", "fact": "Since his DUI, Denise's rule was that he never drives Jaylen; contact was Sunday lunch only."}
+      ],
+      "reasoning": "The no-driving rule has been relaxed; this is one of the first drives alone with Jaylen since the DUI, a concrete sign of restored trust.",
+      "distractors": ["p06_s6_t08", "p06_s2_t14", "p06_s1_t22"],
+      "why_it_matters": "Without the old rule and its change, the therapist hears a routine outing and misses a milestone in rebuilding trust."
+    },
+    {
+      "query_id": "p06_q08",
+      "category": "latent_trait",
+      "date": "2026-11-02",
+      "query": "They're making every tech do the new refrigerant certification online before the end of the year. I keep finding reasons not to start it. Told Tyler my laptop's busted. It isn't busted.",
+      "evidence": ["p06_s2_t22"],
+      "chain": [
+        {"turn_id": "p06_s2_t22", "fact": "He is dyslexic (identified at 44), was put in the slow class, called thick by his father, and hides that his sponsor reads to him."}
+      ],
+      "reasoning": "A reading-heavy online test touches his hidden dyslexia and old shame about being 'thick'; the excuses are avoidance of that shame, not laziness or defiance of Tyler.",
+      "distractors": ["p06_s3_t04", "p06_s1_t22", "p06_s5_t12"],
+      "why_it_matters": "Without it the therapist frames this as procrastination or conflict with Tyler, and misses that accommodations or help could solve it."
+    },
+    {
+      "query_id": "p06_q09",
+      "category": "symbolic_reference",
+      "date": "2026-11-16",
+      "query": "We finally cleared out my aunt's basement on Saturday. There was a green tackle box down there with my dad's initials scratched in the lid. It's been riding around on the passenger seat of my truck for a week. I can't open it and I can't throw it out.",
+      "evidence": ["p06_s2_t12"],
+      "chain": [
+        {"turn_id": "p06_s2_t12", "fact": "His father was only the 'good version' early in the morning on the water, fishing with him; by afternoon he was somebody else."}
+      ],
+      "reasoning": "The tackle box holds the only good memories of his father and the loss of that morning version; his paralysis reflects that ambivalence.",
+      "distractors": ["p06_s6_t04", "p06_s6_t22", "p06_s1_t22", "p06_s5_t08"],
+      "why_it_matters": "Without the link it sounds like a decluttering problem, and the therapist misses an opening into grief and mixed feelings about his father."
+    },
+    {
+      "query_id": "p06_q10",
+      "category": "relational_template",
+      "date": "2026-11-20",
+      "query": "There's an old guy on my route, Gil, who calls the shop asking for me by name. Some visits he's sweet as pie and sends me home with tomatoes, other times he rips into me over nothing. I've started swinging by on Sundays on my own time to check his furnace.",
+      "evidence": ["p06_s3_t16", "p06_s1_t24"],
+      "chain": [
+        {"turn_id": "p06_s3_t16", "fact": "As a boy he read his father's arrival for which version was coming home."},
+        {"turn_id": "p06_s1_t24", "fact": "He spent his childhood trying to keep his father in a decent mood and still tries it on everybody."}
+      ],
+      "reasoning": "Gil's warm-then-harsh unpredictability recreates his father, and Marcus is back to unpaid appeasing to earn the good version.",
+      "distractors": ["p06_s6_t12", "p06_s3_t14", "p06_s5_t14", "p06_s1_t06"],
+      "why_it_matters": "Seen as just going the extra mile for a customer, the old pattern of placating an unpredictable man, and its cost to his time and boundaries, goes unnoticed."
+    }
+  ]
+}

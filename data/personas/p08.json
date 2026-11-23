@@ -1,0 +1,330 @@
+{
+  "persona_id": "p08",
+  "name": "Tomás Reyes",
+  "case_formulation": "Tomás Reyes, 42, he/him, high-school band teacher at Westmere. Three years ago, in the second week of November and in heavy rain, he was driving home from a wedding gig and chose a shortcut on Harlan to save eight minutes; at an intersection a delivery truck ran its red light and hit the passenger side. His friend Ollie, bassist in their wedding band, broke his pelvis; Tomás has two damaged lumbar discs and chronic lower-back pain that worsens with sitting. Post-traumatic stress: avoids driving (two buses to work), startles at horns, brakes and sudden noises he doesn't see coming, can't hear the song that was playing ('Gull Weather' by the Halyards), remembers the blinker ticking at 120 like a click track, and replays a highway version of the drive most nights. Core belief: 'It was my fault; keeping everyone safe is my job.' Guilt keeps him from seeing Ollie. Anniversary reaction every year from the clock change to mid-December ('the dark weeks'). The first winter he drank four or five beers a night to sleep, then stopped and has been sober since; he and his wife Lucía agreed on no alcohol at home this season. His father, after losing a brother in a motorcycle crash, wouldn't let Tomás learn to drive until nineteen; Tomás swore not to repeat it, but his daughter Inés's learner's permit is pulling him into the same overprotection. Coping: playing his grandmother's upright piano softly at night settles his body, but Inés moved into the basement beside it and he stopped. Progress: from early October he practises driving laps with Lucía in an empty lot on Sunday mornings.",
+  "sessions": [
+    {
+      "session_id": "p08_s1",
+      "date": "2026-08-10",
+      "turns": [
+        {"turn_id": "p08_s1_t01", "speaker": "therapist", "text": "Hi Tomás, welcome. Make yourself comfortable. That armchair's better than it looks."},
+        {"turn_id": "p08_s1_t02", "speaker": "client", "text": "Thanks. I'll take the hard chair, actually, if that's alright. Better for my back. I've had a lower back problem for three years now, and soft chairs are the enemy. Anything over about forty minutes sitting and it locks up. I conduct standing, I teach standing, I'd sleep standing if I could figure it out."},
+        {"turn_id": "p08_s1_t03", "speaker": "therapist", "text": "Of course, whatever works for your back. What brings you in?"},
+        {"turn_id": "p08_s1_t04", "speaker": "client", "text": "My wife, mostly. Lucía. She's been after me for a while, and my doctor said the same thing at my physical, so it was two against one. I teach high school music at Westmere, band mostly, and I've got the rest of the summer, so I figured if I'm going to do this, now's the time, before band season eats my life."},
+        {"turn_id": "p08_s1_t05", "speaker": "therapist", "text": "What were they both noticing that made them push for it?"},
+        {"turn_id": "p08_s1_t06", "speaker": "client", "text": "That I'm jumpy. That I don't sleep. That I won't drive. Three years ago I was in an accident and I just haven't been the same, and I kept saying I'm fine, it's been years, and my wife said, 'You're not fine, you take two buses to work.' Which, fair. It's an hour ten each way. I've read a lot of books on those buses."},
+        {"turn_id": "p08_s1_t07", "speaker": "therapist", "text": "Would you be willing to tell me about the accident? As much or as little as you want."},
+        {"turn_id": "p08_s1_t08", "speaker": "client", "text": "Sure. It was the second week of November, three years ago. I was driving home from a wedding gig with my friend Ollie. It was pouring, the wipers on high and not keeping up. We were at an intersection, the light went green, I went, and a delivery truck came through its red on Ollie's side. I remember the brakes, this long scream of them, then a bang I felt in my teeth. Then I was sitting there with airbag dust everywhere. Ollie broke his pelvis. I hurt my back. That's about it."},
+        {"turn_id": "p08_s1_t09", "speaker": "therapist", "text": "Thank you for telling me. That sounds terrifying. I notice you told it very efficiently."},
+        {"turn_id": "p08_s1_t10", "speaker": "client", "text": "I've told it a lot. Insurance, police, the lawyer, the physio, Lucía's whole family at Christmas. It's like a set I've played too many times. I can get through it without really being in it, mostly."},
+        {"turn_id": "p08_s1_t11", "speaker": "therapist", "text": "That makes sense. Can you tell me a little about Ollie?"},
+        {"turn_id": "p08_s1_t12", "speaker": "client", "text": "Ollie's my oldest friend in town. He plays bass in our wedding band, the Sunday Best. We've been doing receptions together since our twenties. Big guy, laughs at his own jokes before he gets to the punchline. He was in the hospital for weeks and then a long time on a walker. We don't really, um. We text. It's fine."},
+        {"turn_id": "p08_s1_t13", "speaker": "therapist", "text": "'We text. It's fine.' Can you say more?"},
+        {"turn_id": "p08_s1_t14", "speaker": "client", "text": "Not much more right now. He's back at his day job part-time. The band's on hold. A guy from Marlow subs on bass when we do play, which is about twice a year. He's fine. He doesn't laugh at anything. Can we do the next question?"},
+        {"turn_id": "p08_s1_t15", "speaker": "therapist", "text": "Sure. You mentioned jumpiness and sleep. What does the jumpy part look like day to day?"},
+        {"turn_id": "p08_s1_t16", "speaker": "client", "text": "Loud stuff. Sudden stuff. I'm a band teacher, so that's a great career choice. I'm mostly fine with music noise, because I know it's coming. It's the stuff I don't see coming. There's a whole list. I'll give you the list another time."},
+        {"turn_id": "p08_s1_t17", "speaker": "therapist", "text": "We'll get to the list. And sleep?"},
+        {"turn_id": "p08_s1_t18", "speaker": "client", "text": "Four, five hours. I go to bed at eleven, I wake up around three most nights, and that's it, I'm up. I tried melatonin in the spring and it gave me dreams about tubas chasing me. Lucía's a saint about it. She sleeps through anything, which I envy deeply."},
+        {"turn_id": "p08_s1_t19", "speaker": "therapist", "text": "What's family life like right now?"},
+        {"turn_id": "p08_s1_t20", "speaker": "client", "text": "Good. Busy. Lucía teaches grade four across town. Our daughter Inés is sixteen and very sixteen, and our son Mateo is eleven and wants to be a professional skateboarder this week. And there's Pepa, the dog, who is scared of the vacuum and of storms. Our house is loud. I love it."},
+        {"turn_id": "p08_s1_t21", "speaker": "therapist", "text": "It sounds like a full house. What would you like to get out of our work together?"},
+        {"turn_id": "p08_s1_t22", "speaker": "client", "text": "Honestly? I'd like to be able to drive to work. I'd like to pick Mateo up from the skate park without asking Lucía. Small stuff. Normal-person stuff. And sleep more than five hours, if you've got a trick for that."},
+        {"turn_id": "p08_s1_t23", "speaker": "therapist", "text": "Those are very reasonable goals. We'll go at a pace that makes sense for you. Same time in two weeks?"},
+        {"turn_id": "p08_s1_t24", "speaker": "client", "text": "Same time. Thanks. This was less bad than I thought it would be. Don't take that the wrong way, it's a compliment."}
+      ]
+    },
+    {
+      "session_id": "p08_s2",
+      "date": "2026-08-24",
+      "turns": [
+        {"turn_id": "p08_s2_t01", "speaker": "therapist", "text": "Good to see you, Tomás. How have the last two weeks been?"},
+        {"turn_id": "p08_s2_t02", "speaker": "client", "text": "Pretty good. I've been doing band prep. Sorting the music library and the storage closet, which is a disaster. Someone filed the Holst in a red binder under 'H' for 'hard.' Summer's good for me. No commute, no bells, no hallway duty."},
+        {"turn_id": "p08_s2_t03", "speaker": "therapist", "text": "No bells. Does the school day get loud for you in a hard way?"},
+        {"turn_id": "p08_s2_t04", "speaker": "client", "text": "Sometimes. Like I said, it's the stuff I don't see coming. Last week I was walking home from the hardware store on Delmar and someone leaned on their horn at a light, and I was down on one knee on the sidewalk before I knew what happened. Same with brakes, a bus squealing, anything like that. My whole body goes before my brain does."},
+        {"turn_id": "p08_s2_t05", "speaker": "therapist", "text": "That sounds frightening, and exhausting to carry around. What happens afterwards?"},
+        {"turn_id": "p08_s2_t06", "speaker": "client", "text": "I stand up, brush off my jeans, make a joke if anyone saw. Then I'm wired for hours, like I've had six coffees. And annoyed, mostly at myself. I'm a grown man kneeling on Delmar Street because of a minivan."},
+        {"turn_id": "p08_s2_t07", "speaker": "therapist", "text": "That's your nervous system doing exactly what it learned to do that night. It isn't a character flaw."},
+        {"turn_id": "p08_s2_t08", "speaker": "client", "text": "Lucía says that too, more or less. She says it nicer. Well, no, she says it louder."},
+        {"turn_id": "p08_s2_t09", "speaker": "therapist", "text": "When you think back to that night now, is there a part that sticks with you most?"},
+        {"turn_id": "p08_s2_t10", "speaker": "client", "text": "Weird part. Before the light changed I was sitting there with the left blinker on, going tick, tick, tick, and I remember thinking it was almost exactly 120, like a click track. Musician brain. Ollie was whistling along to that Halyards song on the radio, 'Gull Weather.' Then green, and I went. Those few seconds are crystal clear. Everything after comes in pieces."},
+        {"turn_id": "p08_s2_t11", "speaker": "therapist", "text": "Those seconds sound very vivid. What happens when that song comes on now?"},
+        {"turn_id": "p08_s2_t12", "speaker": "client", "text": "I change it. Fast. Inés thinks I just hate the Halyards, which is fine, she thinks they're for old people anyway. The grocery store played it once and I left my cart in the cereal aisle. Lucía went back for it."},
+        {"turn_id": "p08_s2_t13", "speaker": "therapist", "text": "That's a lot of quick exits. It sounds like part of you is always scanning for the next one."},
+        {"turn_id": "p08_s2_t14", "speaker": "client", "text": "Yeah. And the thing nobody says out loud: I picked the way home. The normal way is the highway. I said, let's cut through on Harlan, it's eight minutes faster, I want to be home before Inés's curfew so I can see she got in. Eight minutes. Ollie said sure. He always says sure."},
+        {"turn_id": "p08_s2_t15", "speaker": "therapist", "text": "That's a heavy thing to carry. Eight minutes, and a choice that made sense at the time."},
+        {"turn_id": "p08_s2_t16", "speaker": "client", "text": "It made sense at the time. That's what everyone says. I'm not looking for anyone to fix that one. I just wanted it said in here once."},
+        {"turn_id": "p08_s2_t17", "speaker": "therapist", "text": "It's said. We can come back to it whenever you want. Can I ask what helps, when you're wired like that, or can't sleep?"},
+        {"turn_id": "p08_s2_t18", "speaker": "client", "text": "Piano. We've got an old upright in the basement that was my grandmother's, a little out of tune in the top octave. When I'm up at three, I go down and play with the soft pedal on so I don't wake anybody. Just chords, slow, nothing I'd ever perform. After maybe ten minutes my chest unclenches and I can go back up to bed. It's the one thing that reliably works."},
+        {"turn_id": "p08_s2_t19", "speaker": "therapist", "text": "Your grandmother's piano at three in the morning. That sounds important."},
+        {"turn_id": "p08_s2_t20", "speaker": "client", "text": "She'd like that, I think. She was a church organist. She used to say God doesn't care if you hit a wrong note, only the deacon does."},
+        {"turn_id": "p08_s2_t21", "speaker": "therapist", "text": "I like her already. How's the back been with all the sorting at school?"},
+        {"turn_id": "p08_s2_t22", "speaker": "client", "text": "Sore. I've got physio exercises, and I do them about half the time, which my physio can tell somehow. She's very stern. She says twice a day. I say I conduct, that's exercise. She does not accept that."},
+        {"turn_id": "p08_s2_t23", "speaker": "therapist", "text": "We'll leave the physio to her. For the next two weeks, maybe just notice those quick-exit moments. Notice, don't fix."},
+        {"turn_id": "p08_s2_t24", "speaker": "client", "text": "Notice the exits. Okay. I can do that. I'm good at homework, I assign enough of it."}
+      ]
+    },
+    {
+      "session_id": "p08_s3",
+      "date": "2026-09-07",
+      "turns": [
+        {"turn_id": "p08_s3_t01", "speaker": "therapist", "text": "Hi Tomás. School's back. How's it going?"},
+        {"turn_id": "p08_s3_t02", "speaker": "client", "text": "It's back. First week is all chaos and lost clarinets. I've got a new percussion kid, Desmond, a freshman, very talented, has never met a volume he didn't like. He's going to be great. He's also going to give me a heart attack."},
+        {"turn_id": "p08_s3_t03", "speaker": "therapist", "text": "How did the noticing go, the quick exits?"},
+        {"turn_id": "p08_s3_t04", "speaker": "client", "text": "I counted eleven in two weeks. Leaving the room when the news had a crash on it. Taking the long way around the grocery store parking lot. Changing the radio before a song could finish. Sitting with my back to the window at a restaurant so I couldn't see the street. Small stuff. Eleven pieces of small stuff."},
+        {"turn_id": "p08_s3_t05", "speaker": "therapist", "text": "Eleven. That's a lot of energy going into steering around things."},
+        {"turn_id": "p08_s3_t06", "speaker": "client", "text": "It is. And it'll get worse before it gets better, because autumn's coming. Every year since, from about when the clocks change until mid-December, I get bad. Lucía calls it the dark weeks. I sleep less, I snap at the kids, I get very interested in the weather forecast. Last year I was useless for about six weeks."},
+        {"turn_id": "p08_s3_t07", "speaker": "therapist", "text": "That's really useful to know, with autumn coming. Can we make a plan for that stretch when it gets closer?"},
+        {"turn_id": "p08_s3_t08", "speaker": "client", "text": "Yeah. I'd like that. The first year was the worst. That winter I was having four or five beers every night just to knock myself out. Lucía found the cans in the recycling, a lot of cans, and sat me down at the kitchen table. I stopped that March and I haven't had a drink since. I'm kind of proud of that one."},
+        {"turn_id": "p08_s3_t09", "speaker": "therapist", "text": "You should be proud. That's not a small thing."},
+        {"turn_id": "p08_s3_t10", "speaker": "client", "text": "Thanks. It wasn't pretty. I don't miss it, mostly. Back when we played receptions, I'd watch everyone with their drinks and feel like the designated driver for the whole room. Which, ha. Not a driver of anything now."},
+        {"turn_id": "p08_s3_t11", "speaker": "therapist", "text": "How are things with Ollie these days? You mentioned you text."},
+        {"turn_id": "p08_s3_t12", "speaker": "client", "text": "We text. He sends me stuff, memes, a picture of his physio's terrible motivational poster. I send back a thumbs-up. I haven't actually seen him since his second surgery, which was, God, two springs ago. Every time he says come by, I say this week's bad. I can't sit across from him. I'm the reason he can't do stairs."},
+        {"turn_id": "p08_s3_t13", "speaker": "therapist", "text": "'I'm the reason.' That's a lot to sit across from."},
+        {"turn_id": "p08_s3_t14", "speaker": "client", "text": "Yeah. Can we go somewhere else for a bit? Sorry. I'll come back to it, I promise. Just not today."},
+        {"turn_id": "p08_s3_t15", "speaker": "therapist", "text": "Of course. Where would you like to go?"},
+        {"turn_id": "p08_s3_t16", "speaker": "client", "text": "Kind of related. Inés gets her learner's permit this month and she wants me to teach her, because I taught her everything else. And I keep thinking about my dad. His younger brother died on a motorcycle when my dad was twenty, and my dad wouldn't let me take driver's ed until I was nineteen. All my friends were driving and I was getting rides from my mom. I swore I'd never be that father."},
+        {"turn_id": "p08_s3_t17", "speaker": "therapist", "text": "And now here's Inés, and you're feeling the pull of what your dad did."},
+        {"turn_id": "p08_s3_t18", "speaker": "client", "text": "Exactly. I've already said 'we'll see' to her twice. I hear it come out of my mouth in his voice. He's eighty and lives down south with my mom, and I still haven't totally forgiven him for being nineteen and getting dropped off at parties by my mother. And here I am."},
+        {"turn_id": "p08_s3_t19", "speaker": "therapist", "text": "It makes sense it would pull at you, given what you've been through. Noticing it is a start."},
+        {"turn_id": "p08_s3_t20", "speaker": "client", "text": "Sure. Anyway, lighter topic. Lucía has declared this the year of the rain barrel. She put two in the backyard for her tomatoes and checks the forecast for rain like it's the stock market. Mateo named one of them Gerald."},
+        {"turn_id": "p08_s3_t21", "speaker": "therapist", "text": "Gerald the rain barrel. I like Mateo already."},
+        {"turn_id": "p08_s3_t22", "speaker": "client", "text": "Everyone does. He's the easy one. Inés and I used to be easy. Lately she rolls her eyes when I talk, but she also asked me to help her prep her jazz audition, so I'm taking it as a mixed review."},
+        {"turn_id": "p08_s3_t23", "speaker": "therapist", "text": "Mixed reviews are still reviews. Let's stop there for today."},
+        {"turn_id": "p08_s3_t24", "speaker": "client", "text": "Okay. I'll try to actually do my physio exercises so I have something to brag about next time."}
+      ]
+    },
+    {
+      "session_id": "p08_s4",
+      "date": "2026-09-21",
+      "turns": [
+        {"turn_id": "p08_s4_t01", "speaker": "therapist", "text": "Hi Tomás. How have things been?"},
+        {"turn_id": "p08_s4_t02", "speaker": "client", "text": "Busy. Good busy, mostly. We're taking the band on a field trip to the symphony's student matinee next month, so I've been chasing permission slips and booking a school bus, which involves a form I'm pretty sure was designed as a punishment."},
+        {"turn_id": "p08_s4_t03", "speaker": "therapist", "text": "Paperwork as punishment. What else is going on?"},
+        {"turn_id": "p08_s4_t04", "speaker": "client", "text": "Inés got her learner's permit on Thursday. She passed the written test with one wrong, and she was so happy she cried in the parking lot of the licensing office. I took a picture of her holding it. I smiled for it. Then when we got home I sat in the upstairs bathroom with the fan on for a while."},
+        {"turn_id": "p08_s4_t05", "speaker": "therapist", "text": "What was happening for you in the bathroom with the fan on?"},
+        {"turn_id": "p08_s4_t06", "speaker": "client", "text": "I don't know. I kept picturing her at an intersection. Just that. Her hands on the wheel at ten and two like I'd teach her, and a light going green."},
+        {"turn_id": "p08_s4_t07", "speaker": "therapist", "text": "That's a hard picture to hold while you're also proud of her."},
+        {"turn_id": "p08_s4_t08", "speaker": "client", "text": "Both. Totally both. And then at night it's the other movie, the one I play most nights. I lie there and drive the highway version. Merge on at Pell Road, stay in the right lane, home by midnight, everyone fine. I've driven that version maybe a thousand times. It always works out."},
+        {"turn_id": "p08_s4_t09", "speaker": "therapist", "text": "That sounds like your mind trying to undo it, over and over."},
+        {"turn_id": "p08_s4_t10", "speaker": "client", "text": "Yeah. It's a good movie. Terrible ending, because I always wake up in the other one."},
+        {"turn_id": "p08_s4_t11", "speaker": "therapist", "text": "Last time you mentioned the piano as something that helps at night. Has that been around?"},
+        {"turn_id": "p08_s4_t12", "speaker": "client", "text": "Not lately. Inés moved her room down to the basement for, quote, privacy, which is fair, she's sixteen. But now the piano's right outside her door. So I haven't played in, what, three weeks? I'm not going to wake her up at three a.m. with my sad chords."},
+        {"turn_id": "p08_s4_t13", "speaker": "therapist", "text": "So the thing that helped got crowded out. That's worth noticing."},
+        {"turn_id": "p08_s4_t14", "speaker": "client", "text": "Maybe. It's fine, I'll figure something out. I downloaded that breathing app Lucía's sister swears by, the one with the little expanding circle. Mateo thinks it's a game. I do it on the bus. It's fine. It's a circle."},
+        {"turn_id": "p08_s4_t15", "speaker": "therapist", "text": "How's your back holding up now that you're on your feet all day again?"},
+        {"turn_id": "p08_s4_t16", "speaker": "client", "text": "Sore. My physio finally said the quiet part: the two discs that got squished aren't going back to how they were. This is a manage-it-forever thing. Which is fine, I knew. I teach standing and I stretch between classes like an old cat. The worst is anything where I'm stuck sitting."},
+        {"turn_id": "p08_s4_t17", "speaker": "therapist", "text": "Managing it forever is a lot to take in, even if part of you knew."},
+        {"turn_id": "p08_s4_t18", "speaker": "client", "text": "Yeah. Anyway. Band's good. My bass section is two kids, one who's always late and one who plays like she's angry at the instrument. I love her. And the freshman kids are doing scales with the metronome at sixty and hating me for it."},
+        {"turn_id": "p08_s4_t19", "speaker": "therapist", "text": "Sounds like a lively bunch. How's the rest of the department?"},
+        {"turn_id": "p08_s4_t20", "speaker": "client", "text": "Gail, my department head, is already on me about the winter concert. December tenth. She wants a big brass number, a holiday medley and a 'moment.' I don't know what a moment is. She also wants me on the hiring committee for the new choir teacher, because apparently I have free time."},
+        {"turn_id": "p08_s4_t21", "speaker": "therapist", "text": "A 'moment.' We'll see what you come up with."},
+        {"turn_id": "p08_s4_t22", "speaker": "client", "text": "Maybe I'll just have Desmond hit the gong at the end and call that a moment. He'd be thrilled. The audience would be less thrilled."},
+        {"turn_id": "p08_s4_t23", "speaker": "therapist", "text": "Let's pause there. See you in two weeks."},
+        {"turn_id": "p08_s4_t24", "speaker": "client", "text": "See you then. I'll report back on the gong situation, and on the circle, if it starts doing anything."}
+      ]
+    },
+    {
+      "session_id": "p08_s5",
+      "date": "2026-10-05",
+      "turns": [
+        {"turn_id": "p08_s5_t01", "speaker": "therapist", "text": "Hi Tomás. You look a bit different today. How are things?"},
+        {"turn_id": "p08_s5_t02", "speaker": "client", "text": "Different good, I think. I have a thing to report and I've been weirdly nervous to say it out loud, like it'll jinx it."},
+        {"turn_id": "p08_s5_t03", "speaker": "therapist", "text": "I'm listening."},
+        {"turn_id": "p08_s5_t04", "speaker": "client", "text": "Lucía and I have been going out Sunday mornings to the lot behind the old hardware store on Fenwick, the one that closed. It's empty. She drives us there, we switch seats, and I do laps. Two Sundays now. Very slow laps, like eight kilometres an hour. The second time I made it all the way around without stopping. I even used the turn signal, which, that was a whole thing."},
+        {"turn_id": "p08_s5_t05", "speaker": "therapist", "text": "Tomás, that's a big deal. How did it feel?"},
+        {"turn_id": "p08_s5_t06", "speaker": "client", "text": "Terrible, then fine, then terrible. My hands were soaked. But I did it. Lucía brought a thermos and clapped every time I came around, like I was a toddler on a tricycle. I didn't mind."},
+        {"turn_id": "p08_s5_t07", "speaker": "therapist", "text": "It sounds like she's a really good teammate in this."},
+        {"turn_id": "p08_s5_t08", "speaker": "client", "text": "She's the best. She also says she's been waiting three years to sit in the passenger seat and give opinions, so she's enjoying it on a personal level."},
+        {"turn_id": "p08_s5_t09", "speaker": "therapist", "text": "What did you notice in your body during the laps?"},
+        {"turn_id": "p08_s5_t10", "speaker": "client", "text": "Tight shoulders. Jaw. My back hated it, but my back hates everything. When a car went by out on Fenwick, the actual road, I stopped dead and waited until it was gone. But I didn't get out. Old me would've gotten out and walked home."},
+        {"turn_id": "p08_s5_t11", "speaker": "therapist", "text": "That's real progress. How's the rest of the family?"},
+        {"turn_id": "p08_s5_t12", "speaker": "client", "text": "Inés is doing her practice hours with Lucía, because obviously I can't teach her yet, and she's a little hurt about it. She thinks I don't want to. She doesn't know about the parking lot. I haven't told her."},
+        {"turn_id": "p08_s5_t13", "speaker": "therapist", "text": "What keeps you from telling her?"},
+        {"turn_id": "p08_s5_t14", "speaker": "client", "text": "If I tell her, it's real, and if I mess it up, she watches me mess it up. I'd rather show up one day and just drive her somewhere. Like a magic trick."},
+        {"turn_id": "p08_s5_t15", "speaker": "therapist", "text": "That makes sense. It might be worth thinking about what she's making of it in the meantime, though."},
+        {"turn_id": "p08_s5_t16", "speaker": "client", "text": "Noted. Other news: the symphony trip happened. Forty kids on a school bus downtown and back, and only one lost shoe. Desmond fell asleep on my shoulder on the way home, which, he's a freshman, I'll allow it."},
+        {"turn_id": "p08_s5_t17", "speaker": "therapist", "text": "Sounds like a good day."},
+        {"turn_id": "p08_s5_t18", "speaker": "client", "text": "It was. Oh, and Lucía and I had a sort of business meeting about the fall, because of the dark weeks. We agreed there's no alcohol in the house through the holidays, not even for guests. Her idea, but I agreed fast. It's easier when it just isn't there. Belt and suspenders."},
+        {"turn_id": "p08_s5_t19", "speaker": "therapist", "text": "That sounds like a thoughtful plan, getting ahead of it together."},
+        {"turn_id": "p08_s5_t20", "speaker": "client", "text": "She's a planner. I'm a 'we'll see' guy. We're a good mix. She also got Pepa a thunder vest, because the dog loses her mind in storms and hides in the tub. It's a little jacket that hugs her. I walk her around the block in it for practice. I may need one."},
+        {"turn_id": "p08_s5_t21", "speaker": "therapist", "text": "A thunder vest for you too. How have you been sleeping?"},
+        {"turn_id": "p08_s5_t22", "speaker": "client", "text": "Bad, but the normal bad. Up at three. I've been reading at the kitchen table. I'm on a very long book about the history of the trombone, which is exactly as exciting as it sounds."},
+        {"turn_id": "p08_s5_t23", "speaker": "therapist", "text": "We'll keep an eye on sleep as the weeks go on. Same time in two weeks?"},
+        {"turn_id": "p08_s5_t24", "speaker": "client", "text": "Same time. Maybe next time I'll have made it out to the street. Kidding. Mostly kidding."}
+      ]
+    },
+    {
+      "session_id": "p08_s6",
+      "date": "2026-10-19",
+      "turns": [
+        {"turn_id": "p08_s6_t01", "speaker": "therapist", "text": "Hi Tomás. How are you doing?"},
+        {"turn_id": "p08_s6_t02", "speaker": "client", "text": "Tired. Concert rehearsals started in earnest. We're doing 'Peace Like a River' as the slow number, and in sectionals the trumpets keep playing it like a march. I keep saying, it's a river, not a parade."},
+        {"turn_id": "p08_s6_t03", "speaker": "therapist", "text": "A river, not a parade. I like that."},
+        {"turn_id": "p08_s6_t04", "speaker": "client", "text": "I stole it from my old band director. Half of what I say in rehearsal is stolen. The other half is 'from the top.'"},
+        {"turn_id": "p08_s6_t05", "speaker": "therapist", "text": "How's Inés doing with her jazz audition?"},
+        {"turn_id": "p08_s6_t06", "speaker": "client", "text": "She got in! Second alto in the district jazz band. She practises in the basement every night. She asked me to come down and listen to her solo and I sat on the stairs for an hour. That was a good hour."},
+        {"turn_id": "p08_s6_t07", "speaker": "therapist", "text": "That sounds lovely."},
+        {"turn_id": "p08_s6_t08", "speaker": "client", "text": "It was. She has a better ear than I did at her age. Don't tell her I said that, it'll go straight to her head."},
+        {"turn_id": "p08_s6_t09", "speaker": "therapist", "text": "Your secret's safe. How's Ollie doing?"},
+        {"turn_id": "p08_s6_t10", "speaker": "client", "text": "Funny you ask. Ollie started a fantasy football league for the old band and roped me in. I know nothing about football. My team is called the Sousaphones and I'm in last place. He sends me trash talk every Monday. Honestly it's the most we've talked in a while, and it's all about a sport I don't even watch."},
+        {"turn_id": "p08_s6_t11", "speaker": "therapist", "text": "That sounds like a way to stay connected that doesn't ask too much of either of you."},
+        {"turn_id": "p08_s6_t12", "speaker": "client", "text": "Exactly. Football's safe. Nobody has to talk about anything real. I set my lineup on Sunday night and go."},
+        {"turn_id": "p08_s6_t13", "speaker": "therapist", "text": "How's the week been otherwise, with the jumpiness?"},
+        {"turn_id": "p08_s6_t14", "speaker": "client", "text": "Up and down. A garbage truck was backing up outside my classroom window on Tuesday, beeping forever, and that was fine, because I could see it. I made the kids count the beeps in four-four. The out-of-nowhere stuff is still the problem."},
+        {"turn_id": "p08_s6_t15", "speaker": "therapist", "text": "Making a lesson out of it. That's very you."},
+        {"turn_id": "p08_s6_t16", "speaker": "client", "text": "Everything's a lesson if you're desperate enough. Mateo started a band in our garage, by the way. Three eleven-year-olds, one song, it's about a lizard. They practise Saturdays, and I sit in the kitchen with earplugs and a cooler of juice boxes and a lot of pride."},
+        {"turn_id": "p08_s6_t17", "speaker": "therapist", "text": "A lizard song. What's the lizard up to?"},
+        {"turn_id": "p08_s6_t18", "speaker": "client", "text": "Nobody knows. That's part of the mystery. Anyway, Lucía wants to host the department potluck at our place in November, because Gail asked and Lucía can't say no to a potluck. I said fine. I'll make my one dish."},
+        {"turn_id": "p08_s6_t19", "speaker": "therapist", "text": "What's your one dish?"},
+        {"turn_id": "p08_s6_t20", "speaker": "client", "text": "My grandmother's arroz con pollo. It's the only thing I make that people ask for twice. Lucía makes everything else and lets me take the credit."},
+        {"turn_id": "p08_s6_t21", "speaker": "therapist", "text": "Good arrangement. Before we stop, it's mid-October. You told me the weeks ahead are usually hard. How are you feeling about that?"},
+        {"turn_id": "p08_s6_t22", "speaker": "client", "text": "Bracing. I can feel it coming, like a pressure change before weather. But there's more going on this year. The Sunday laps, the concert, Inés's jazz thing. I'm hoping it's different. I'm trying not to make promises."},
+        {"turn_id": "p08_s6_t23", "speaker": "therapist", "text": "That sounds wise. Next time, let's sit down and make a plan for the hard stretch together."},
+        {"turn_id": "p08_s6_t24", "speaker": "client", "text": "Sounds good. I'll bring my thunder vest. And maybe a list, since you like my lists."}
+      ]
+    }
+  ],
+  "queries": [
+    {
+      "query_id": "p08_q01",
+      "category": "state_update",
+      "date": "2026-11-09",
+      "query": "The early bus got cancelled Monday because of some driver shortage, and Lucía offered to drop me at school on her way. I said no and stood in the sleet for forty minutes waiting for the next one. Missed first period. I don't totally get why I did that.",
+      "evidence": ["p08_s5_t04", "p08_s1_t06"],
+      "chain": [
+        {"turn_id": "p08_s5_t04", "fact": "Latest: since early October he has been driving slow laps with Lucía in an empty lot on Sunday mornings."},
+        {"turn_id": "p08_s1_t06", "fact": "Before: he hasn't driven since the crash and takes two buses to work, over an hour each way."}
+      ],
+      "reasoning": "The latest state is that he rides with Lucía and practises driving with her, so refusing even a lift from her is a slide back toward the old avoidance, in the week of the crash anniversary.",
+      "distractors": ["p08_s5_t16", "p08_s4_t02", "p08_s3_t10", "p08_s1_t02"],
+      "why_it_matters": "With only the old fact the therapist sees a man who always takes the bus; with only the new one they miss that the avoidance is creeping back."
+    },
+    {
+      "query_id": "p08_q02",
+      "category": "temporal_anniversary",
+      "date": "2026-11-02",
+      "query": "We got the first real rain of the fall on Saturday, the hammering kind. I barely slept. I kept getting up to check the windows and the gutters, and Lucía says I was pacing like the dog does before a storm.",
+      "evidence": ["p08_s1_t08", "p08_s3_t06"],
+      "chain": [
+        {"turn_id": "p08_s3_t06", "fact": "Every year from the clock change until mid-December he gets bad; Lucía calls it the dark weeks."},
+        {"turn_id": "p08_s1_t08", "fact": "The crash happened in the second week of November, in pouring rain."}
+      ],
+      "reasoning": "Heavy rain in early November recreates the conditions of the crash at the start of his yearly anniversary slump.",
+      "distractors": ["p08_s3_t20", "p08_s5_t20", "p08_s1_t20", "p08_s6_t14"],
+      "why_it_matters": "Without the link it reads as ordinary insomnia or storm worry; the therapist misses that the anniversary stretch has started and the plan for it is needed now."
+    },
+    {
+      "query_id": "p08_q03",
+      "category": "trigger_recurrence",
+      "date": "2026-10-28",
+      "query": "In sectionals Tuesday one of the percussion kids knocked a cymbal stand over right behind me, and I ended up crouched on the floor with my hands over my head. In front of thirty teenagers. I laughed it off and said I'd dropped a pencil.",
+      "evidence": ["p08_s2_t04", "p08_s1_t08"],
+      "chain": [
+        {"turn_id": "p08_s2_t04", "fact": "A car horn on the street sent him to one knee on the sidewalk; brakes and squealing buses do the same."},
+        {"turn_id": "p08_s1_t08", "fact": "What he remembers of the crash is the long scream of the truck's brakes and then a bang."}
+      ],
+      "reasoning": "A sudden metallic crash he didn't see coming sets off the same startle as horns and brakes, which goes back to the sound of the collision.",
+      "distractors": ["p08_s3_t02", "p08_s6_t02", "p08_s4_t22", "p08_s6_t14"],
+      "why_it_matters": "The therapist might treat it as classroom stress or embarrassment and miss that a crash-related startle has now reached his own rehearsal room."
+    },
+    {
+      "query_id": "p08_q04",
+      "category": "symbolic_reference",
+      "date": "2026-10-30",
+      "query": "I put the old wind-up metronome in the storage closet. The kids use an app now. I told them the app is more precise, which is true, but that's not why.",
+      "evidence": ["p08_s2_t10"],
+      "chain": [
+        {"turn_id": "p08_s2_t10", "fact": "Waiting at the light that night, his blinker was ticking at almost exactly 120, like a click track, seconds before the impact."}
+      ],
+      "reasoning": "The metronome's steady tick echoes the blinker he was listening to in the last seconds before the crash.",
+      "distractors": ["p08_s4_t18", "p08_s4_t14", "p08_s2_t02", "p08_s2_t12"],
+      "why_it_matters": "Without the link it looks like a teaching-tool preference; the therapist misses a new avoidance spreading into his classroom."
+    },
+    {
+      "query_id": "p08_q05",
+      "category": "coping_resource",
+      "date": "2026-10-26",
+      "query": "Nothing touches it lately. I've done the breathing app, the melatonin, Lucía even bought one of those heavy blankets. I'm just lying there at two in the morning with my heart going.",
+      "evidence": ["p08_s2_t18", "p08_s4_t12"],
+      "chain": [
+        {"turn_id": "p08_s4_t12", "fact": "He stopped playing the piano when Inés moved into the basement beside it, so as not to wake her."},
+        {"turn_id": "p08_s2_t18", "fact": "Playing his grandmother's upright softly in the middle of the night is the one thing that reliably settles his body."}
+      ],
+      "reasoning": "The thing that worked was the night piano, and it stopped because of a room change, not because it failed; finding another way to play is the obvious lead.",
+      "distractors": ["p08_s4_t14", "p08_s1_t18", "p08_s3_t02"],
+      "why_it_matters": "The therapist would keep adding sleep techniques when the answer is getting him back to the piano, for example a keyboard with headphones."
+    },
+    {
+      "query_id": "p08_q06",
+      "category": "entity_resolution",
+      "date": "2026-11-04",
+      "query": "My old bass player sent me a video of himself walking his dog around the block, no cane. First time in three years. I watched it maybe ten times and haven't replied.",
+      "evidence": ["p08_s1_t12", "p08_s3_t12"],
+      "chain": [
+        {"turn_id": "p08_s1_t12", "fact": "Ollie, his oldest friend, plays bass in their wedding band and spent weeks in hospital and a long time on a walker after the crash."},
+        {"turn_id": "p08_s3_t12", "fact": "He hasn't seen Ollie since the second surgery and avoids him because he feels he's the reason Ollie can't do stairs."}
+      ],
+      "reasoning": "'My old bass player' is Ollie, the passenger who was hurt; the unanswered video is good news landing on Tomás's guilt and avoidance.",
+      "distractors": ["p08_s1_t14", "p08_s4_t18", "p08_s5_t20", "p08_s2_t12"],
+      "why_it_matters": "Without resolving who it is, the therapist hears a nice update from an old bandmate and misses the guilt that keeps Tomás from replying."
+    },
+    {
+      "query_id": "p08_q07",
+      "category": "contradiction",
+      "date": "2026-11-06",
+      "query": "Ollie and I are good, honestly. The truck ran the red, that's on the truck, not me. I don't sit around blaming myself for any of it. I never really have.",
+      "evidence": ["p08_s2_t14", "p08_s3_t12", "p08_s4_t08"],
+      "chain": [
+        {"turn_id": "p08_s2_t14", "fact": "He chose the Harlan shortcut to save eight minutes instead of the usual highway, and carries that choice."},
+        {"turn_id": "p08_s3_t12", "fact": "He avoids seeing Ollie because 'I'm the reason he can't do stairs.'"},
+        {"turn_id": "p08_s4_t08", "fact": "Most nights he replays the highway route in his head, the version where nothing happens."}
+      ],
+      "reasoning": "He has described blaming himself for the route, avoiding Ollie out of guilt and replaying the other route nightly, so 'I never have' contradicts what he's shared.",
+      "distractors": ["p08_s6_t10", "p08_s6_t14", "p08_s5_t08", "p08_s2_t02"],
+      "why_it_matters": "Taking the statement at face value closes off the guilt that keeps him away from Ollie and replaying the night."
+    },
+    {
+      "query_id": "p08_q08",
+      "category": "latent_trait",
+      "date": "2026-11-12",
+      "query": "I told the department head I can't chaperone the band festival trip to Calloway in March. Six hours each way on a coach. I said it's a family thing, which it isn't really.",
+      "evidence": ["p08_s1_t02", "p08_s4_t16"],
+      "chain": [
+        {"turn_id": "p08_s4_t16", "fact": "His physio says the two damaged discs won't recover; being stuck sitting is the worst."},
+        {"turn_id": "p08_s1_t02", "fact": "Since the crash, anything over about forty minutes sitting makes his lower back lock up."}
+      ],
+      "reasoning": "Six hours seated on a coach is far beyond what his injured back allows; he covers the chronic pain with a 'family thing'.",
+      "distractors": ["p08_s4_t20", "p08_s4_t02", "p08_s5_t16", "p08_s3_t08"],
+      "why_it_matters": "The therapist might read it as travel avoidance or pulling back from work and miss the chronic pain he doesn't like to admit."
+    },
+    {
+      "query_id": "p08_q09",
+      "category": "relational_template",
+      "date": "2026-10-31",
+      "query": "Inés called me 'suffocating' last night because I said she can't drive to Marlow with her friends until next summer. She slammed her door and I stood in the hallway feeling like the villain and also completely right.",
+      "evidence": ["p08_s3_t16", "p08_s4_t04"],
+      "chain": [
+        {"turn_id": "p08_s4_t04", "fact": "When Inés got her learner's permit he smiled for the photo, then hid in the bathroom."},
+        {"turn_id": "p08_s3_t16", "fact": "His father, after losing a brother in a motorcycle crash, wouldn't let Tomás learn to drive until nineteen; Tomás swore he'd never be that father."}
+      ],
+      "reasoning": "He is repeating his father's fear-driven restriction with his own daughter, the thing he swore he'd never do, now fuelled by his own crash.",
+      "distractors": ["p08_s1_t14", "p08_s2_t02", "p08_s4_t12"],
+      "why_it_matters": "It looks like ordinary parent-teen conflict; the therapist misses that he's re-enacting his father's overprotection and hates himself for it."
+    },
+    {
+      "query_id": "p08_q10",
+      "category": "risk_signal",
+      "date": "2026-11-16",
+      "query": "We hosted the department potluck at our place on Saturday and there was most of a cooler left over at the end. I've been finishing a couple in the garage after everyone's in bed. Honestly it's the best I've slept in weeks.",
+      "evidence": ["p08_s3_t08", "p08_s5_t18", "p08_s3_t06"],
+      "chain": [
+        {"turn_id": "p08_s3_t08", "fact": "The first winter after the crash he drank four or five beers a night to sleep; he stopped and hasn't drunk since."},
+        {"turn_id": "p08_s5_t18", "fact": "He and Lucía agreed to keep no alcohol in the house through the holidays because of the dark weeks."},
+        {"turn_id": "p08_s3_t06", "fact": "The stretch from the clock change to mid-December is his worst time every year."}
+      ],
+      "reasoning": "Drinking alone at night to sleep is the pattern he quit, it breaks the no-alcohol plan, and it's happening in the anniversary weeks.",
+      "distractors": ["p08_s6_t18", "p08_s6_t16", "p08_s1_t18"],
+      "why_it_matters": "It sounds like a nice party and a good night's sleep; without the history the therapist misses a relapse starting in his highest-risk weeks."
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "persona_id": "p05",
+  "name": "Priya Nair",
+  "case_formulation": "Priya Nair, 34, she/her, senior audit associate at an accounting firm (Pellow Grant), first-time mother of Anika, four months old at intake; from session 4 she mostly calls her 'Bean' (a nickname from the first scan). Partner Matt is a paramedic on rotating night shifts; his mother Linda raised four boys and offers childcare. Presentation: postpartum anxiety with obsessional features. Ego-dystonic intrusive images of harm coming to the baby (slipping under in the bath, going over the banister, tripping on the stairs) that she finds horrifying; they are not intent. Maintained by avoidance (will not bathe the baby on her own), checking (opens the breathing-monitor app about forty times a night) and reassurance seeking (night-time forums). The first intrusive image came in the first week home, at 3am, under a star/galaxy projector her cousin Meera sent; the projector has been in a drawer since. Earlier vulnerability: checking rituals at 15 (going home from the bus stop to touch the hair-straightener plug). Family: her mother had postnatal depression after brother Rohan was born and 'went to bed for a year' when Priya was six; the family never named it (Dad told the school it was a bad back); Priya was the little carer who took tea up every morning hoping to bring her downstairs. Father's first question after any result was who came first. Core beliefs: 'If I let my guard down something terrible will happen and it will be my fault'; 'Needing help or stopping means I am becoming Mum'; 'My worth is measurable performance.' Rules: be the one who copes, never name the problem, never complain. She does every night feed alone (formula since eight weeks; Matt sleeps with earplugs on nights off) and resents it but has never told him. An early miscarriage at about ten weeks two Octobers ago, the weekend Matt turned 33. One passive thought in May, on the landing, that Matt and Linda 'would be fine without me'; no intent; safety plan agreed in session 3. Medication: sertraline 50 mg started early August (session 3), raised to 100 mg at the end of August (session 5). Coping resources: pram walks along the river path to the weir; phone calls with cousin Meera, whose blunt humour gives her permission to struggle. Mothers' group (the Thursday group) feels competitive (Harriet); Jo, a mother of twins, is the one she likes. Returns to work three days a week in late September; Linda covers two days and Priya's mum one. Comparison triggers shame and over-effort (tummy-time cramming after group).",
+  "sessions": [
+    {
+      "session_id": "p05_s1",
+      "date": "2026-07-06",
+      "turns": [
+        {"turn_id": "p05_s1_t01", "speaker": "therapist", "text": "Come in, Priya, sit wherever you like. Did you find the building all right?"},
+        {"turn_id": "p05_s1_t02", "speaker": "client", "text": "Eventually. The sat nav took us round the one-way system twice. Matt's walking Anika round the car park in the pram so I could come in on my own. He's on nights this week, so he's awake anyway, sort of. Sorry, I'm a bit frazzled."},
+        {"turn_id": "p05_s1_t03", "speaker": "therapist", "text": "No need to apologise. What made you decide to come?"},
+        {"turn_id": "p05_s1_t04", "speaker": "client", "text": "The health visitor, mostly. She did a questionnaire at Anika's check. Anika's my daughter, she's four months on Thursday. And I scored quite high on the anxiety section. She was very kind about it. I'd sort of hoped I'd grow out of it, like she'd grow out of the newborn stage and I would too."},
+        {"turn_id": "p05_s1_t05", "speaker": "therapist", "text": "What does the anxiety look like, day to day?"},
+        {"turn_id": "p05_s1_t06", "speaker": "client", "text": "It's thoughts. Pictures, really, that land in my head out of nowhere. Something happening to her. Sometimes me being the one who causes it, by accident or... I would never. I want to be really clear about that. They make me feel sick. I'll be doing something completely normal, like making up a bottle, and there it is."},
+        {"turn_id": "p05_s1_t07", "speaker": "therapist", "text": "Thank you for telling me. That can take a lot to say out loud. Thoughts like these are really common after having a baby, and the fact that they horrify you matters. We'll come back to that."},
+        {"turn_id": "p05_s1_t08", "speaker": "client", "text": "I've read that. I've read everything. There's a forum I'm on at three in the morning where every post starts with 'please don't judge me.' It helps for about four minutes and then I go back to wondering if I'm the one person it doesn't apply to."},
+        {"turn_id": "p05_s1_t09", "speaker": "therapist", "text": "When a thought like that comes, what do you do?"},
+        {"turn_id": "p05_s1_t10", "speaker": "client", "text": "Avoid things, mostly. I don't do her bath on my own. Matt does it, or Linda if she's round. When he's on shift she gets a wipe-down with a flannel on a towel on the floor, and I tell myself babies don't need bathing every day, which is true, the health visitor said so. It's because the second I picture looking away, my brain shows me her slipping under."},
+        {"turn_id": "p05_s1_t11", "speaker": "therapist", "text": "Who's Linda?"},
+        {"turn_id": "p05_s1_t12", "speaker": "client", "text": "Matt's mum. She raised four boys in a two-bed terrace, so nothing fazes her. She'd have Anika full-time tomorrow if we asked; she's said so more than once. She's got a terrier called Biscuit who's terrified of the baby, which is the only thing that's made me laugh this month."},
+        {"turn_id": "p05_s1_t13", "speaker": "therapist", "text": "And your own family? Are they nearby?"},
+        {"turn_id": "p05_s1_t14", "speaker": "client", "text": "Forty minutes away, Mum and Dad. My brother Rohan's in the city. Mum's lovely with Anika, she knits constantly, we've got about nine cardigans. She had a rough time herself after Rohan was born. Went to bed for about a year, basically. I was six. Dad did everything, badly. A lot of fish fingers. Anyway, she's fine now. She does aqua aerobics."},
+        {"turn_id": "p05_s1_t15", "speaker": "therapist", "text": "That's a big thing to have been around at six."},
+        {"turn_id": "p05_s1_t16", "speaker": "client", "text": "Honestly, I barely remember it. It was ages ago. Can I... sorry, I've got a list on my phone of things I wanted to make sure I said, or I'll forget them. Sleep's on it. I'm averaging about four hours, and not in a row."},
+        {"turn_id": "p05_s1_t17", "speaker": "therapist", "text": "Of course. Tell me about sleep."},
+        {"turn_id": "p05_s1_t18", "speaker": "client", "text": "Matt's a paramedic on rotating shifts, so half the month I'm on my own at night. She's in her cot in our room. She wakes twice, sometimes three times, and after the last one I lie there doing sums in my head until the birds start. I've forgotten what it's like to wake up on my own instead of to a noise."},
+        {"turn_id": "p05_s1_t19", "speaker": "therapist", "text": "Before Anika, had you ever had anxiety like this?"},
+        {"turn_id": "p05_s1_t20", "speaker": "client", "text": "Not really. I'm an accountant, so I'm professionally careful, if that counts. There was a funny phase when I was fifteen, around my mocks, where I'd get halfway to the bus stop and turn round to go home and touch the plug on my hair straighteners. Mum called them my little rituals. It fizzled out by sixth form. Everyone's a bit odd at fifteen."},
+        {"turn_id": "p05_s1_t21", "speaker": "therapist", "text": "Tell me about the accounting. You're on leave at the moment?"},
+        {"turn_id": "p05_s1_t22", "speaker": "client", "text": "Maternity leave till the end of September. I'm a senior associate at Pellow Grant, audit mostly, manufacturing clients and a couple of charities. I like it, which sounds sad. There's a moment when everything ties out to the penny and it's the closest I get to calm. I was always that kid. If I came second in anything, Dad's first question was who came first. And we need the money. Statutory pay is a joke."},
+        {"turn_id": "p05_s1_t23", "speaker": "therapist", "text": "What would you like to be different, if our work together goes well?"},
+        {"turn_id": "p05_s1_t24", "speaker": "client", "text": "I want to stop feeling like I'm on guard duty against my own head. And I want to enjoy her. She does this thing where she grabs my nose and looks furious about it. I want to be in that, not watching it from behind glass."},
+        {"turn_id": "p05_s1_t25", "speaker": "therapist", "text": "That's a really clear place to start. What you're describing sounds a lot like the intrusive thoughts we often see with postnatal anxiety, and it responds well to treatment. I'd also like you to think about seeing your GP."},
+        {"turn_id": "p05_s1_t26", "speaker": "client", "text": "Okay. GP. I'll put it on the list. Matt will be on about his fifth lap of the car park by now. He'll have made friends with the attendant and found out all about his divorce."}
+      ]
+    },
+    {
+      "session_id": "p05_s2",
+      "date": "2026-07-20",
+      "turns": [
+        {"turn_id": "p05_s2_t01", "speaker": "therapist", "text": "Hi Priya. How have the last two weeks been?"},
+        {"turn_id": "p05_s2_t02", "speaker": "client", "text": "Hot. She's had her first cold, so it's been snot and the nasal aspirator, which is a disgusting invention. Matt and I have been watching a baking competition at three in the morning because it's the only thing on, and some man from the coast made a cathedral out of shortbread and I cried."},
+        {"turn_id": "p05_s2_t03", "speaker": "therapist", "text": "Shortbread cathedrals at three a.m. How's the rest of life been?"},
+        {"turn_id": "p05_s2_t04", "speaker": "client", "text": "I went back to the Thursday group. It's a mums-and-babies thing at St Aldric's hall, run by the health visitors. Six of us. It's meant to be support, but it's basically a league table with biscuits. Who's sleeping through, who's weaning, who's lost the baby weight."},
+        {"turn_id": "p05_s2_t05", "speaker": "therapist", "text": "A league table. How did this week's go?"},
+        {"turn_id": "p05_s2_t06", "speaker": "client", "text": "Harriet announced that Wilf's rolling both ways, and someone else's is already on purees, and Anika just lay there eating her sock. I went home and did tummy time for forty minutes while she screamed into the mat, like I was cramming for an exam. Then I felt horrible and fed her and we both had a cry."},
+        {"turn_id": "p05_s2_t07", "speaker": "therapist", "text": "That's a lot of pressure riding on one sock."},
+        {"turn_id": "p05_s2_t08", "speaker": "client", "text": "Ha. Jo's the only one I actually like. She's got twins and permanent sick on her shoulder, and she says outrageous things. Last week she offered to swap either twin for a lie-in. She doesn't do the milestones thing at all. I sit next to her and feel like I can breathe."},
+        {"turn_id": "p05_s2_t09", "speaker": "therapist", "text": "How are the nights going, with Matt's shifts?"},
+        {"turn_id": "p05_s2_t10", "speaker": "client", "text": "Every night feed is mine. Every one. She went onto formula at eight weeks, so in theory anyone could do it. On his nights off his body clock's all over the place, so he sleeps with earplugs in, which I get, I do get it. And then I'm sitting there at four with the bottle, hating him a little bit. Then he brings me a coffee at seven and I feel like a monster."},
+        {"turn_id": "p05_s2_t11", "speaker": "therapist", "text": "That sounds lonely, at four in the morning."},
+        {"turn_id": "p05_s2_t12", "speaker": "client", "text": "It's fine. He's doing CPR on somebody's grandad in a hallway while I'm warming a bottle, so I can't exactly compete. His team at the station are lovely. They sent a hamper when she was born, and they've got a group chat that's just photos of terrible parking."},
+        {"turn_id": "p05_s2_t13", "speaker": "therapist", "text": "Is there anything that helps, when it's bad?"},
+        {"turn_id": "p05_s2_t14", "speaker": "client", "text": "The pram. When it's really bad I put her in and go down the river path, past the rowing club to the weir and back. Forty minutes. She conks out on the cobbles and my head goes quiet. I don't know if it's the ducks or the moving or just being out of the flat."},
+        {"turn_id": "p05_s2_t15", "speaker": "therapist", "text": "That's worth holding on to. Out of the flat, moving, the weir."},
+        {"turn_id": "p05_s2_t16", "speaker": "client", "text": "Linda bought the pram, actually. It cost more than my first car. It has suspension. Matt says it handles better than the ambulance does."},
+        {"turn_id": "p05_s2_t17", "speaker": "therapist", "text": "How have the thoughts been this fortnight?"},
+        {"turn_id": "p05_s2_t18", "speaker": "client", "text": "About the same. I can tell you exactly when they started, though. First week home. Three in the morning, feeding her in the nursery under that projector Meera sent us, the one that throws a slowly turning galaxy over everything. And out of nowhere my head showed me her going over the banister. Just a flash. I put her down in the cot and sat on the carpet shaking. That projector's been in a drawer ever since."},
+        {"turn_id": "p05_s2_t19", "speaker": "therapist", "text": "That sounds frightening. And notice what you did: you put her down safely and moved away. These thoughts tend to stick hardest to the people who'd least want to act on them."},
+        {"turn_id": "p05_s2_t20", "speaker": "client", "text": "That's what the forum says. And then the three a.m. part of my brain goes, yes, but what if I'm the exception. So I open the monitor app. There's a sensor pad under her mattress that tracks her breathing, and I'd guess I open it forty times a night. Even with no alarm. Even when I can hear her snoring two feet away."},
+        {"turn_id": "p05_s2_t21", "speaker": "therapist", "text": "You mentioned your mum last time, and that hard year."},
+        {"turn_id": "p05_s2_t22", "speaker": "client", "text": "She's coming Saturday for a knitting handover. Funnily enough, that year, I used to take her a cup of tea every morning before school and stand by the bed until she said thank you. I thought if I got it exactly right she'd come downstairs. Anyway. She makes a brilliant dal now, so."},
+        {"turn_id": "p05_s2_t23", "speaker": "therapist", "text": "That's a lot of responsibility for a six-year-old."},
+        {"turn_id": "p05_s2_t24", "speaker": "client", "text": "Rohan doesn't remember any of it, lucky him, he was tiny. He's just got a job at a games studio making a game about a sad robot. He came round last week and held Anika like she was an unexploded bomb. My little brother. Twenty-eight years old."},
+        {"turn_id": "p05_s2_t25", "speaker": "therapist", "text": "Before next time: when a thought comes, try noticing it and labelling it, 'that's an intrusive thought', instead of searching for reassurance online. Just see how it goes."},
+        {"turn_id": "p05_s2_t26", "speaker": "client", "text": "No googling. Right. That's like asking me not to blink. I'll try. I'll write it down, that's the accountant in me. Give me a spreadsheet and I'll do anything."}
+      ]
+    },
+    {
+      "session_id": "p05_s3",
+      "date": "2026-08-03",
+      "turns": [
+        {"turn_id": "p05_s3_t01", "speaker": "therapist", "text": "Hello again. How are you doing?"},
+        {"turn_id": "p05_s3_t02", "speaker": "client", "text": "Some news, I suppose. I went to the GP on Tuesday like we said, and she's started me on sertraline. Fifty milligrams. She said it's fine with formula, obviously, and that it takes four to six weeks to do much. So far it mostly makes me feel like I've had three espressos on a ferry."},
+        {"turn_id": "p05_s3_t03", "speaker": "therapist", "text": "How do you feel about starting it?"},
+        {"turn_id": "p05_s3_t04", "speaker": "client", "text": "Mixed. Mum would be horrified, so I haven't told her. In our house nobody ever named anything. That year she was upstairs, Dad told the school and the neighbours she'd done her back in. I believed it until I was about twenty and my aunt let it slip at a wedding."},
+        {"turn_id": "p05_s3_t05", "speaker": "therapist", "text": "So taking a tablet, and calling it what it is, is quite a different thing for your family."},
+        {"turn_id": "p05_s3_t06", "speaker": "client", "text": "Very. Anyway. The surgery was an experience. Anika charmed the entire waiting room. A man with a bandaged hand asked if she was single, and I said no, she's focusing on her career."},
+        {"turn_id": "p05_s3_t07", "speaker": "therapist", "text": "How have the nights been?"},
+        {"turn_id": "p05_s3_t08", "speaker": "client", "text": "Same. He's picked up two extra nights for the boiler fund, and when he told me I said 'great' and went and stood in the kitchen for a bit. I didn't say anything about the feeds. I never do. If I start I'll say all of it, and then where are we."},
+        {"turn_id": "p05_s3_t09", "speaker": "therapist", "text": "What do you imagine would happen if you started?"},
+        {"turn_id": "p05_s3_t10", "speaker": "client", "text": "He'd be lovely about it. That's the worst part. He'd say 'why didn't you tell me' and do the next three nights, and then he'd be shattered on shift and someone would... I don't know. It just feels easier to be the one who copes."},
+        {"turn_id": "p05_s3_t11", "speaker": "therapist", "text": "Being the one who copes. That sounds like a role you've had for a long time."},
+        {"turn_id": "p05_s3_t12", "speaker": "client", "text": "Don't make me cry, I've got mascara on for the first time since March. Can I tell you about the group instead? Harriet's started 'self-care Sundays.' She gets her nails done while her husband 'has' Wilf for two hours. I'd honestly rather have a nap in a skip."},
+        {"turn_id": "p05_s3_t13", "speaker": "therapist", "text": "We can come back to it. Can I ask how the pregnancy itself was?"},
+        {"turn_id": "p05_s3_t14", "speaker": "client", "text": "Long. Nervous. We'd lost one before her, early, about ten weeks, two Octobers ago. The same weekend he turned thirty-three, actually. His whole family came round and I spent the evening upstairs saying I had a migraine. So with Anika I didn't buy a single thing until thirty weeks. Linda bought the cot in secret and hid it in her garage."},
+        {"turn_id": "p05_s3_t15", "speaker": "therapist", "text": "I'm so sorry. That's a real loss, even early."},
+        {"turn_id": "p05_s3_t16", "speaker": "client", "text": "It was early. Loads of people have one. The doctor said it's nature's way, which, fine. I think it's partly why I don't trust anything to just keep working on its own. Anyway, she's here. She's very here. She's learned to shriek."},
+        {"turn_id": "p05_s3_t17", "speaker": "therapist", "text": "When things are at their worst, at night, where does your mind go?"},
+        {"turn_id": "p05_s3_t18", "speaker": "client", "text": "Mostly the pictures. And the app. There was one night back in May, sitting on the landing, when I thought quite calmly that they'd be fine without me. Matt and Linda. Not that I'd ever do anything, I wouldn't. It was more like noticing a fact, like the weather. Then she cried and I got up."},
+        {"turn_id": "p05_s3_t19", "speaker": "therapist", "text": "Thank you for telling me that. I want to check gently: have thoughts like that been around more recently?"},
+        {"turn_id": "p05_s3_t20", "speaker": "client", "text": "No. Honestly. It was a bad week in May, the health visitor came round after, and it lifted. I'd tell you. I'm telling you now, aren't I? The baby ones are different, those I hate. That one just felt like maths."},
+        {"turn_id": "p05_s3_t21", "speaker": "therapist", "text": "I'm glad you told me. If it comes back, I'd like you to let me or your GP know straight away. Can we agree on that?"},
+        {"turn_id": "p05_s3_t22", "speaker": "client", "text": "Yes. Okay. Deal. Can I tell you a nice thing to balance it out? I rang my cousin Meera from the car on the way here. She's got two under five and she just goes, 'Yep, mine did that, it's grim, put the kettle on.' It's the most helpful thing anyone's said to me all month."},
+        {"turn_id": "p05_s3_t23", "speaker": "therapist", "text": "It sounds like Meera lets you not have it all figured out."},
+        {"turn_id": "p05_s3_t24", "speaker": "client", "text": "She does. She's the opposite of the Thursday group. Next session's the week of Anika's jabs, by the way, so if I turn up a wreck that's why. She screams like I've betrayed her personally."}
+      ]
+    },
+    {
+      "session_id": "p05_s4",
+      "date": "2026-08-17",
+      "turns": [
+        {"turn_id": "p05_s4_t01", "speaker": "therapist", "text": "Hi Priya. How did the jabs go?"},
+        {"turn_id": "p05_s4_t02", "speaker": "client", "text": "Fine. She was outraged for about ninety seconds and then fell asleep in the pharmacy queue. Oh, I should say, if I call her Bean, that's Anika. Her dad started it and now even my mum does it. It's from the first scan; she looked exactly like a kidney bean with a heartbeat."},
+        {"turn_id": "p05_s4_t03", "speaker": "therapist", "text": "Bean. I like that. How's the rest of the fortnight been?"},
+        {"turn_id": "p05_s4_t04", "speaker": "client", "text": "Work emailed. HR want a return-to-work meeting. They're saying the twenty-first of September, four days a week. I've asked for three. If I get three, Linda's going to do Tuesdays and Thursdays and Mum's doing Wednesdays."},
+        {"turn_id": "p05_s4_t05", "speaker": "therapist", "text": "How are you feeling about going back?"},
+        {"turn_id": "p05_s4_t06", "speaker": "client", "text": "Half thrilled, half sick. Thrilled to have a whole hour where nobody needs my body for anything. Sick because, what if she forgets me. What if I'm useless at it now. My brain's mostly lullabies and nappy sizes."},
+        {"turn_id": "p05_s4_t07", "speaker": "therapist", "text": "Both of those can be true. How's the noticing and labelling going?"},
+        {"turn_id": "p05_s4_t08", "speaker": "client", "text": "I've been doing it. My notes app has a page that just says 'thought, thought, thought, thought.' It's not exactly a reconciliation. But I've noticed they come more when I'm exhausted, and they're louder on the nights Matt's out."},
+        {"turn_id": "p05_s4_t09", "speaker": "therapist", "text": "That's a useful pattern to spot. How are things with Matt?"},
+        {"turn_id": "p05_s4_t10", "speaker": "client", "text": "Good, actually. We had a nice Sunday. We took Bean to his parents' and Linda did a roast and the boys played football in the garden like a pub team. I sat on the bench with Bean and Biscuit hid under it. It felt normal, which is the highest compliment I've got at the moment."},
+        {"turn_id": "p05_s4_t11", "speaker": "therapist", "text": "It sounds like there are good moments in there too."},
+        {"turn_id": "p05_s4_t12", "speaker": "client", "text": "There are. I forget to tell you those because I come in with my list of disasters. She laughed properly on Tuesday, a real belly laugh, at Matt pretending to sneeze. He did it eleven times. I've got it on video."},
+        {"turn_id": "p05_s4_t13", "speaker": "therapist", "text": "What's on the list of disasters this time?"},
+        {"turn_id": "p05_s4_t14", "speaker": "client", "text": "Bedtime's gone to pot. She's decided seven o'clock is a suggestion. And Harriet's started posting Wilf's 'wake windows' in the group chat as if anyone asked. I muted it. Then I unmuted it in case I missed something important, like a birthday."},
+        {"turn_id": "p05_s4_t15", "speaker": "therapist", "text": "And Jo? You said she's the one you like."},
+        {"turn_id": "p05_s4_t16", "speaker": "client", "text": "Jo's brilliant. She turned up last week with both twins in a double buggy the width of a car and said she'd been up since half three and had eaten a cold sausage for breakfast. Everyone laughed. Harriet looked like she'd been slapped."},
+        {"turn_id": "p05_s4_t17", "speaker": "therapist", "text": "Have the thoughts themselves changed at all?"},
+        {"turn_id": "p05_s4_t18", "speaker": "client", "text": "They're less sticky? Maybe. One came on the stairs on Thursday, the usual one, tripping with her, and I said 'thought' in my head like a lunatic and kept walking. I still held the rail so hard my knuckles went white."},
+        {"turn_id": "p05_s4_t19", "speaker": "therapist", "text": "That's exactly it. You let it be there and you kept going."},
+        {"turn_id": "p05_s4_t20", "speaker": "client", "text": "It didn't feel like a victory. It felt like walking past a dog that might bite. But I got to the bottom. Bean was delighted, she loves the stairs, she thinks they're a ride."},
+        {"turn_id": "p05_s4_t21", "speaker": "therapist", "text": "What's coming up before we next meet?"},
+        {"turn_id": "p05_s4_t22", "speaker": "client", "text": "Linda's birthday, so a big family lunch, all four boys and their partners. Matt's brother Sam is bringing his new girlfriend, who's apparently a 'wellness coach.' I'm going to be so polite it hurts."},
+        {"turn_id": "p05_s4_t23", "speaker": "therapist", "text": "So polite it hurts. Is that a familiar setting for you?"},
+        {"turn_id": "p05_s4_t24", "speaker": "client", "text": "Factory setting. I'll smile and pass the potatoes and then come home and clean the oven at eleven at night. Matt calls it my post-match analysis. He's not wrong."}
+      ]
+    },
+    {
+      "session_id": "p05_s5",
+      "date": "2026-08-31",
+      "turns": [
+        {"turn_id": "p05_s5_t01", "speaker": "therapist", "text": "Hi Priya. How are things?"},
+        {"turn_id": "p05_s5_t02", "speaker": "client", "text": "Chaotic. Bean's discovered her feet. She's in a green frog sleepsuit Mum knitted and she spends whole evenings trying to eat the frog's face. Matt calls it cannibalism. I've got about two hundred photos of it."},
+        {"turn_id": "p05_s5_t03", "speaker": "therapist", "text": "Two hundred photos. How have you been in yourself?"},
+        {"turn_id": "p05_s5_t04", "speaker": "client", "text": "Up and down. I went back to Dr Adeyemi on Friday because the first month was mostly nausea and not much else, and she's put me up to a hundred. She said fifty's a starter and I'd given it a fair go. So, new month, new number. I like a number."},
+        {"turn_id": "p05_s5_t05", "speaker": "therapist", "text": "And how's the planning for going back?"},
+        {"turn_id": "p05_s5_t06", "speaker": "client", "text": "They agreed to three days, Tuesday to Thursday, which I'm choosing to see as a win and not as them thinking I'm dead weight. My manager Graham said 'take all the time you need' in a voice that meant 'please don't.' There's a new trainee starting the same week, Toby, and I'm meant to be his buddy."},
+        {"turn_id": "p05_s5_t07", "speaker": "therapist", "text": "Buddying a new starter while you're starting again yourself. How does that sit with you?"},
+        {"turn_id": "p05_s5_t08", "speaker": "client", "text": "It's nice, actually. Somebody newer than me. Bean will be at Linda's two days and with Mum on Wednesdays, so I've done a laminated sheet of her routine for each house. I know. I know."},
+        {"turn_id": "p05_s5_t09", "speaker": "therapist", "text": "You said 'I know' like I might tell you off."},
+        {"turn_id": "p05_s5_t10", "speaker": "client", "text": "Matt laughed at the lamination. I said it's not anxiety, it's an audit trail. He said, 'Babe, you've laminated the nappy instructions.' Which, fair. But Linda thanked me, so."},
+        {"turn_id": "p05_s5_t11", "speaker": "therapist", "text": "How are the nights now?"},
+        {"turn_id": "p05_s5_t12", "speaker": "client", "text": "Bean's sleeping in longer stretches, so better. Matt's on a run of nights again. I've been lying awake anyway, out of habit. I stare at the ceiling and do the household budget in my head."},
+        {"turn_id": "p05_s5_t13", "speaker": "therapist", "text": "And the thoughts this fortnight?"},
+        {"turn_id": "p05_s5_t14", "speaker": "client", "text": "Quieter, maybe. Or I'm better at the 'thought' thing. There was one in the kitchen, chopping onions with her in the bouncer, and I did move the bouncer to the doorway. Which you'll say is avoidance."},
+        {"turn_id": "p05_s5_t15", "speaker": "therapist", "text": "I might. But I'd rather ask what you noticed."},
+        {"turn_id": "p05_s5_t16", "speaker": "client", "text": "That it didn't go away any faster because I moved her. It went at the same speed. That's annoying. It's like finding out your lucky pen doesn't actually do anything."},
+        {"turn_id": "p05_s5_t17", "speaker": "therapist", "text": "That's a really important thing to notice."},
+        {"turn_id": "p05_s5_t18", "speaker": "client", "text": "I'm putting it on the list. Oh, and I bought a desk lamp for going back, a nice brass one, because the office ones are like interrogation lights. Is that the kind of thing I'm supposed to do? Treat myself?"},
+        {"turn_id": "p05_s5_t19", "speaker": "therapist", "text": "It sounds like you're making a space that's yours. How's the group been?"},
+        {"turn_id": "p05_s5_t20", "speaker": "client", "text": "I've been once in three weeks. Harriet's moved on to who's going back to work and who's 'choosing to stay home,' said in a voice. Jo had the twins at a party, so I sat with a woman whose son bites."},
+        {"turn_id": "p05_s5_t21", "speaker": "therapist", "text": "How's Matt doing with all the changes?"},
+        {"turn_id": "p05_s5_t22", "speaker": "client", "text": "Good. Tired. He had a bad job last week, a crash on the bypass, and he came home and just held Bean on the sofa for an hour without talking. I didn't ask. I made toast. Toast is our love language."},
+        {"turn_id": "p05_s5_t23", "speaker": "therapist", "text": "That sounds like a tender moment."},
+        {"turn_id": "p05_s5_t24", "speaker": "client", "text": "It was. Next session I'll be a week from going back, so expect a spreadsheet of fears. I've already started one. It has tabs."}
+      ]
+    },
+    {
+      "session_id": "p05_s6",
+      "date": "2026-09-14",
+      "turns": [
+        {"turn_id": "p05_s6_t01", "speaker": "therapist", "text": "Hi Priya. One week to go?"},
+        {"turn_id": "p05_s6_t02", "speaker": "client", "text": "Eight days. I did a practice run of the commute with the pram so I'd know where the lifts are at the station, which is not a thing a normal person does. Bean loved the train. She stared at a man's beard for twenty minutes."},
+        {"turn_id": "p05_s6_t03", "speaker": "therapist", "text": "A successful reconnaissance. How are you feeling?"},
+        {"turn_id": "p05_s6_t04", "speaker": "client", "text": "Like the night before an exam I didn't revise for, which I never did, I always revised. The return-to-work meeting with HR is first thing on the Tuesday, it's mostly forms. Graham's sent a 'welcome back' email with eleven attachments."},
+        {"turn_id": "p05_s6_t05", "speaker": "therapist", "text": "Eleven attachments. What's the worst-case version in your head?"},
+        {"turn_id": "p05_s6_t06", "speaker": "client", "text": "That I'm slow. That my brain's gone soft and everyone can see it. That Toby's better than me by Christmas. That Bean cries all day at Linda's and Linda's too kind to tell me."},
+        {"turn_id": "p05_s6_t07", "speaker": "therapist", "text": "And the best case?"},
+        {"turn_id": "p05_s6_t08", "speaker": "client", "text": "That I sit at a desk and drink a hot coffee all the way to the bottom and nobody's sick on me. And that I'm good at something again, in a way you can actually measure."},
+        {"turn_id": "p05_s6_t09", "speaker": "therapist", "text": "Measuring. That matters to you."},
+        {"turn_id": "p05_s6_t10", "speaker": "client", "text": "It does. You can't audit being a mum. There's no number at the end that says 'well done, you didn't break her.' At least at work somebody signs it off."},
+        {"turn_id": "p05_s6_t11", "speaker": "therapist", "text": "How have things been at home this fortnight?"},
+        {"turn_id": "p05_s6_t12", "speaker": "client", "text": "Busy. Matt's mates had a barbecue, and someone had a ball pool in the garden for the toddlers, and Bean sat on a blanket eating a breadstick like a tiny queen. Linda kept saying 'she's fine, love' every time I looked over."},
+        {"turn_id": "p05_s6_t13", "speaker": "therapist", "text": "How's the sleep?"},
+        {"turn_id": "p05_s6_t14", "speaker": "client", "text": "Better than it was. Five hours some nights, which feels like a spa. I've stopped doing the budget on the ceiling. I've started doing work emails in my head instead, which is progress, sort of."},
+        {"turn_id": "p05_s6_t15", "speaker": "therapist", "text": "Have you spoken to Meera?"},
+        {"turn_id": "p05_s6_t16", "speaker": "client", "text": "She sends me voice notes on her school run, seven minutes long, mostly about her neighbour's extension. I listen to them while I'm doing bottles. It's like a podcast where I'm the only listener."},
+        {"turn_id": "p05_s6_t17", "speaker": "therapist", "text": "Anything you're dreading about the logistics?"},
+        {"turn_id": "p05_s6_t18", "speaker": "client", "text": "The leaving. The actual leaving her on Linda's doorstep on the Tuesday. Matt says he'll do the first drop-off so I don't have to. I said yes, which you'll be proud of."},
+        {"turn_id": "p05_s6_t19", "speaker": "therapist", "text": "I am. You let someone help."},
+        {"turn_id": "p05_s6_t20", "speaker": "client", "text": "Don't get used to it. Oh, and Harriet's organised a 'back to work brunch' for those of us going back. There'll be a slideshow. I'd honestly rather do a VAT return."},
+        {"turn_id": "p05_s6_t21", "speaker": "therapist", "text": "Will you go?"},
+        {"turn_id": "p05_s6_t22", "speaker": "client", "text": "Probably. Jo says she'll come if there are mimosas and nobody makes her stand up and share. Jo makes most things bearable, to be honest."},
+        {"turn_id": "p05_s6_t23", "speaker": "therapist", "text": "Let's meet again after your first couple of weeks back. Go gently with yourself."},
+        {"turn_id": "p05_s6_t24", "speaker": "client", "text": "I'll try. I've written 'go gently' on a sticky note. It's going on the new lamp. Matt says I'm the only person alive who can turn self-compassion into an action point."}
+      ]
+    }
+  ],
+  "queries": [
+    {
+      "query_id": "p05_q01",
+      "category": "latent_trait",
+      "date": "2026-10-05",
+      "query": "Second week back at the office. I've started going back to my desk after I've packed up, to make sure the client files are properly closed and nothing's gone out by mistake. Three or four trips some evenings, before I can make myself leave for the station.",
+      "evidence": ["p05_s2_t20", "p05_s1_t20"],
+      "chain": [
+        {"turn_id": "p05_s2_t20", "fact": "Opens the baby-monitor app about forty times a night even with no alarm: an active checking compulsion postpartum."},
+        {"turn_id": "p05_s1_t20", "fact": "At fifteen she had checking rituals, going home from the bus stop to touch the hair-straightener plug."}
+      ],
+      "reasoning": "Repeated returning to the desk is the same checking compulsion she uses with the monitor, now spreading to work, on top of a lifelong tendency to checking rituals seen at fifteen.",
+      "distractors": ["p05_s1_t22", "p05_s5_t18", "p05_s6_t02", "p05_s1_t16"],
+      "why_it_matters": "Without the link the therapist treats it as return-to-work nerves or perfectionism, instead of recognising the obsessional checking cycle generalising to a new setting."
+    },
+    {
+      "query_id": "p05_q02",
+      "category": "entity_resolution",
+      "date": "2026-09-28",
+      "query": "Bean went in the big pool at the leisure centre on Saturday for her first proper swim, and I was the one holding her in the water, not Matt. She kicked like a furious little frog. I cried in the changing room afterwards.",
+      "evidence": ["p05_s4_t02", "p05_s1_t10"],
+      "chain": [
+        {"turn_id": "p05_s4_t02", "fact": "'Bean' is the nickname for her daughter Anika."},
+        {"turn_id": "p05_s1_t10", "fact": "She avoids bathing Anika on her own because of intrusive images of her slipping under; Matt or Linda does baths."}
+      ],
+      "reasoning": "Bean is Anika, the baby she would not bathe alone for fear of the slipping-under image; holding her in the pool herself is a major exposure step, and the tears likely mark that.",
+      "distractors": ["p05_s5_t02", "p05_s6_t12", "p05_s2_t02"],
+      "why_it_matters": "If the system does not resolve Bean to Anika and the bath avoidance, the therapist hears a sweet anecdote and misses a big, hard-won win against her avoidance."
+    },
+    {
+      "query_id": "p05_q03",
+      "category": "state_update",
+      "date": "2026-10-12",
+      "query": "I've been weirdly muted for the last few weeks. Meera sent me a voice note on Sunday that would normally have had me crying with laughter, and I just thought, yes, that's funny, and carried on unloading the dishwasher. It's not sad exactly. It's like someone's turned the volume down.",
+      "evidence": ["p05_s5_t04", "p05_s3_t02"],
+      "chain": [
+        {"turn_id": "p05_s5_t04", "fact": "At the end of August her sertraline was increased from 50 mg to 100 mg."},
+        {"turn_id": "p05_s3_t02", "fact": "She started sertraline 50 mg in early August."}
+      ],
+      "reasoning": "The flattening began a few weeks after the dose was doubled; the current state is 100 mg, replacing the 50 mg starter dose, so emotional blunting from the higher dose is a live possibility to raise with her GP alongside low mood.",
+      "distractors": ["p05_s4_t14", "p05_s6_t16", "p05_s3_t12"],
+      "why_it_matters": "Without the medication history the therapist may read this only as depression and miss a possible dose-related side effect worth taking back to the GP."
+    },
+    {
+      "query_id": "p05_q04",
+      "category": "contradiction",
+      "date": "2026-10-05",
+      "query": "Matt and I are a great team at the moment, honestly. Everyone warns you the first year with a baby is brutal on couples, but we've barely had a cross word.",
+      "evidence": ["p05_s2_t10", "p05_s3_t08"],
+      "chain": [
+        {"turn_id": "p05_s3_t08", "fact": "When Matt took extra night shifts she said 'great' and has never told him about the night feeds."},
+        {"turn_id": "p05_s2_t10", "fact": "She does every night feed alone and sits at 4am 'hating him a little bit'."}
+      ],
+      "reasoning": "Earlier she described real resentment about doing every night feed alone and said she never voices it; 'barely a cross word' fits her rule of swallowing complaints, not an absence of strain.",
+      "distractors": ["p05_s2_t12", "p05_s4_t10", "p05_s3_t12"],
+      "why_it_matters": "Taking the statement at face value lets the hidden resentment and her 'be the one who copes' rule go unexamined."
+    },
+    {
+      "query_id": "p05_q05",
+      "category": "relational_template",
+      "date": "2026-10-12",
+      "query": "Jo from the Thursday group has gone completely quiet. Nearly a month, no replies, and when I ran into her husband outside the chemist he said she's 'just a bit run down.' I've left two lasagnes on her step and I keep drafting texts to her at 3am.",
+      "evidence": ["p05_s1_t14", "p05_s2_t22", "p05_s3_t04"],
+      "chain": [
+        {"turn_id": "p05_s3_t04", "fact": "Her family never named her mother's illness; Dad told the school it was a bad back."},
+        {"turn_id": "p05_s2_t22", "fact": "At six she took tea up to her mother every morning, hoping that getting it right would bring her downstairs."},
+        {"turn_id": "p05_s1_t14", "fact": "Her mother had depression after her brother's birth and went to bed for about a year."}
+      ],
+      "reasoning": "A new mother withdrawing while her husband covers with a vague explanation repeats her own mother's unnamed postnatal depression; Priya slips back into the child carer role, leaving offerings and trying to bring Jo back.",
+      "distractors": ["p05_s2_t08", "p05_s2_t04", "p05_s3_t12", "p05_s6_t22"],
+      "why_it_matters": "Without the template the therapist treats this as ordinary friendship worry and misses both the old caretaking role and the chance to name possible depression in Jo."
+    },
+    {
+      "query_id": "p05_q06",
+      "category": "coping_resource",
+      "date": "2026-09-28",
+      "query": "Nothing is helping. I've downloaded three breathing apps, I've had a bath with the fancy oil Linda got me, I've tried going to bed at nine. Since I went back I'm wired from the second I open my eyes.",
+      "evidence": ["p05_s2_t14", "p05_s3_t22"],
+      "chain": [
+        {"turn_id": "p05_s2_t14", "fact": "Pram walks along the river path to the weir make her head go quiet."},
+        {"turn_id": "p05_s3_t22", "fact": "Calls with her cousin Meera, who says 'mine did that, it's grim', are the most helpful thing anyone says."}
+      ],
+      "reasoning": "Two things reliably helped before: moving outdoors by the river and Meera's blunt permission to struggle. Back at work she has likely lost both, and neither is on her list.",
+      "distractors": ["p05_s1_t10", "p05_s2_t20", "p05_s4_t08"],
+      "why_it_matters": "The therapist would otherwise start from scratch with new techniques instead of helping her rebuild what already worked."
+    },
+    {
+      "query_id": "p05_q07",
+      "category": "symbolic_reference",
+      "date": "2026-09-28",
+      "query": "One of the new trainees has a little lamp on her desk that throws stars all over the ceiling, and on Wednesday I had to go and sit in the toilets for ten minutes with my heart going like mad. It's a lamp.",
+      "evidence": ["p05_s2_t18"],
+      "chain": [
+        {"turn_id": "p05_s2_t18", "fact": "Her first intrusive image came at 3am in the first week home, feeding Anika under a galaxy projector from Meera; the projector has been in a drawer since."}
+      ],
+      "reasoning": "The star lamp is the same kind of object she was sitting under when the first intrusive image arrived, so it cues that night rather than anything about work.",
+      "distractors": ["p05_s5_t18", "p05_s5_t06", "p05_s5_t12", "p05_s6_t24"],
+      "why_it_matters": "Without the link the panic looks random or like workplace stress, and the therapist misses a conditioned cue to work with in exposure."
+    },
+    {
+      "query_id": "p05_q08",
+      "category": "trigger_recurrence",
+      "date": "2026-10-05",
+      "query": "They put everyone's utilisation figures up on the big screen at the team meeting and I was third from the bottom. I stayed at my desk until nine the next two nights, and Matt had to do bedtime both times.",
+      "evidence": ["p05_s2_t06", "p05_s1_t22"],
+      "chain": [
+        {"turn_id": "p05_s2_t06", "fact": "After another mother's baby was ahead on milestones she went home and crammed tummy time for forty minutes while the baby screamed."},
+        {"turn_id": "p05_s1_t22", "fact": "Her father's first question after any result was who came first."}
+      ],
+      "reasoning": "Public ranking triggers the same shame and over-effort she showed after the mothers' group comparison, rooted in a father who measured her by who came first.",
+      "distractors": ["p05_s4_t14", "p05_s6_t04", "p05_s2_t12", "p05_s6_t08"],
+      "why_it_matters": "Treated as a workload or time-management issue, the comparison-shame pattern keeps driving her to exhaustion."
+    },
+    {
+      "query_id": "p05_q09",
+      "category": "risk_signal",
+      "date": "2026-10-12",
+      "query": "I've been putting together a proper folder for Linda: Bean's routine, her feeds, which cream for the rash, the GP's number, where the spare key lives. Colour-coded tabs and everything. Honestly, it's the most satisfying thing I've done in ages.",
+      "evidence": ["p05_s3_t18", "p05_s1_t12"],
+      "chain": [
+        {"turn_id": "p05_s3_t18", "fact": "In May she had a calm, passive thought that Matt and Linda would be fine without her (no intent; safety plan agreed)."},
+        {"turn_id": "p05_s1_t12", "fact": "Linda is highly capable and would take the baby full-time if asked."}
+      ],
+      "reasoning": "A handover folder can be ordinary childcare prep, but next to her earlier passive thought that Matt and Linda would manage without her, a full 'everything in one place' handover warrants a gentle check-in on those thoughts.",
+      "distractors": ["p05_s5_t08", "p05_s5_t24", "p05_s4_t04", "p05_s2_t10"],
+      "why_it_matters": "Missing the link means not asking about passive thoughts at a time of high strain after returning to work."
+    },
+    {
+      "query_id": "p05_q10",
+      "category": "temporal_anniversary",
+      "date": "2026-10-05",
+      "query": "It's Matt's birthday on Saturday. I've booked the Nepalese place he loves and his brother's driving up from the coast. I should be excited, and instead I've had a knot in my stomach since Thursday and I can't work out why.",
+      "evidence": ["p05_s3_t14"],
+      "chain": [
+        {"turn_id": "p05_s3_t14", "fact": "Two Octobers ago she lost an early pregnancy the same weekend Matt turned thirty-three, and spent his celebration upstairs pretending to have a migraine."}
+      ],
+      "reasoning": "Matt's birthday weekend is the anniversary of the miscarriage, which she has never linked to the date; the knot in her stomach is probably grief returning.",
+      "distractors": ["p05_s4_t22", "p05_s2_t02", "p05_s2_t24", "p05_s1_t14"],
+      "why_it_matters": "Without the anniversary the therapist explores social anxiety or work stress and misses unprocessed grief."
+    }
+  ]
+}

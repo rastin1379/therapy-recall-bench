@@ -1,0 +1,335 @@
+{
+  "persona_id": "p07",
+  "name": "Jun Park",
+  "case_formulation": "Jun Park, 20, they/them, second-year biology student living in residence. Parents run Mirae, a small Korean restaurant in Lindenport, and have worked seven days a week so Jun can become a doctor. Older sister Hana withdrew from law school last December, announcing it at the restaurant's staff dinner on the Sunday before Christmas; the parents now call her the family disappointment, and the father told Jun 'at least we still have one who won't let us down'. Core beliefs: 'I am only acceptable if I am flawless' and 'failure is permanent' (Hana as proof). Social anxiety centred on being watched and on visible blushing (neck and chest flush, nicknamed Strawberry); competence shuts down under observation, rooted in the mother checking homework with a red pen. Perfectionism and restriction: food must be earned by finishing work, no eating where others can watch, avoids the dining hall; a near-faint during last spring's finals; the mother praised their face getting 'small'. Escalating restriction is framed as productivity. Coping resource: drawing comics (Inspector Coo), which quiets their mind but was packed away as a waste of time; it helped again after an embarrassing run-through. Safe memory: Sunday mornings in the restaurant kitchen while their father made pajeon. Lab partner Theo is warm and keeps reaching out; Jun avoids him out of anxiety. Hana later gets a job at a legal aid clinic and moves out, which shakes Jun's belief that failure is permanent.",
+  "sessions": [
+    {
+      "session_id": "p07_s1",
+      "date": "2026-09-14",
+      "turns": [
+        {"turn_id": "p07_s1_t01", "speaker": "therapist", "text": "Hi Jun, come on in. Did you find us okay? The signs in this building are not great."},
+        {"turn_id": "p07_s1_t02", "speaker": "client", "text": "Mostly? I went up to the third floor first because the sign by the elevator says counselling, and it's actually a printer room. So I'm a little sweaty, sorry. Not the first impression I was going for."},
+        {"turn_id": "p07_s1_t03", "speaker": "therapist", "text": "No first impressions required in here. What brought you in this term?"},
+        {"turn_id": "p07_s1_t04", "speaker": "client", "text": "My RA kind of suggested it. She did a floor meeting the first week and said the counselling centre has short waitlists in September, and I've been, um, not amazing since last spring. So I figured I'd use it while it's free, before midterms eat everything."},
+        {"turn_id": "p07_s1_t05", "speaker": "therapist", "text": "Not amazing since last spring. What happened in the spring?"},
+        {"turn_id": "p07_s1_t06", "speaker": "client", "text": "I had a panic thing before a presentation in April. Intro ecology, five minutes, totally low stakes. I'd practised it maybe thirty times. Then in the hallway outside the room my heart was going so fast I thought something was medically wrong with me. I went in and did it and I think it was fine? Nobody said anything. But I replayed it for two nights straight and didn't really sleep."},
+        {"turn_id": "p07_s1_t07", "speaker": "therapist", "text": "Thirty run-throughs for a five-minute talk. That's a lot of preparation."},
+        {"turn_id": "p07_s1_t08", "speaker": "client", "text": "Is it? It doesn't feel like a lot from the inside. In my family a 96 gets 'what happened to the four.' That's a joke, but it's also not really a joke. My parents run a little Korean restaurant back in Lindenport called Mirae, and they've worked basically seven days a week since before I was born, so that I can be a doctor. So I don't really get to be casual about stuff."},
+        {"turn_id": "p07_s1_t09", "speaker": "therapist", "text": "That's a lot riding on you. Is it just you, or do you have siblings?"},
+        {"turn_id": "p07_s1_t10", "speaker": "client", "text": "My older sister, Hana. She's twenty-four. She was in law school and she left last year, so she's officially the family disappointment now. My mom actually said that, those exact words, on the phone to my aunt, and Hana was in the next room. So it's kind of all on me now. Which is fine."},
+        {"turn_id": "p07_s1_t11", "speaker": "therapist", "text": "'Which is fine.' You said that pretty quickly."},
+        {"turn_id": "p07_s1_t12", "speaker": "client", "text": "Ha. Yeah. I say that a lot. It mostly is fine. Can we do my roommate instead? Because that's the actual daily problem. Her name's Kayla, she's nice, genuinely, but she plays music off this speaker until one in the morning and has people over constantly, and I'm doing orgo with earplugs in and a towel shoved under the door."},
+        {"turn_id": "p07_s1_t13", "speaker": "therapist", "text": "Sure. That sounds exhausting. Have you said anything to her?"},
+        {"turn_id": "p07_s1_t14", "speaker": "client", "text": "God, no. I've drafted a text in my notes app maybe six times. I don't want to be the uptight roommate. She already calls me 'the monk' because I'm always at my desk, which I think is affectionate. The bass from her speaker makes my whole desk start shaking, so mostly I just go to the library until midnight."},
+        {"turn_id": "p07_s1_t15", "speaker": "therapist", "text": "So the library becomes the workaround. How are the basics going, sleep, eating, that kind of thing?"},
+        {"turn_id": "p07_s1_t16", "speaker": "client", "text": "Sleep's whatever. Eating's fine, I'm just strict with myself. Like, I have a rule that I don't eat until I've finished whatever I set for the morning, the problem set or the readings, because otherwise I haven't really earned it. It keeps me on track. It's a discipline thing, really."},
+        {"turn_id": "p07_s1_t17", "speaker": "therapist", "text": "Earned. That's an interesting word to put next to eating."},
+        {"turn_id": "p07_s1_t18", "speaker": "client", "text": "My dad says it about everything. You earn rest, you earn a day off. He hasn't had a day off in about twenty years, so. Anyway, it's not a big deal. I'm a bio major, I know what a body needs. I just like structure. Structure is basically my whole personality."},
+        {"turn_id": "p07_s1_t19", "speaker": "therapist", "text": "Okay. I'll hold onto that for now. What do you do when you're not working? What used to be fun?"},
+        {"turn_id": "p07_s1_t20", "speaker": "client", "text": "Fun. Um. In high school I drew comics. There was this whole series about a pigeon detective called Inspector Coo who solved crimes around a bus depot. I filled maybe nine sketchbooks. When I was drawing, my head went completely quiet, which, it is never quiet, so that was kind of the point. I don't really do that now."},
+        {"turn_id": "p07_s1_t21", "speaker": "therapist", "text": "A pigeon detective. Nine sketchbooks is a real body of work."},
+        {"turn_id": "p07_s1_t22", "speaker": "client", "text": "He had a tiny trench coat and a magnifying glass made out of a bottle cap. Hana used to read them on the bus to her LSAT course and send me notes on the plot holes, which is very her. She's annoyingly good at plot holes."},
+        {"turn_id": "p07_s1_t23", "speaker": "therapist", "text": "We're close to time. Is there anything you want me to know that we didn't get to?"},
+        {"turn_id": "p07_s1_t24", "speaker": "client", "text": "Um, maybe just that if you ever give me worksheets or whatever, I'll do them perfectly at home, but please don't make me do one in front of you. When I was little my mom would sit at my shoulder with a red pen while I did math drills in the back booth, and my pencil would just stop. I'd know the answer and I couldn't write it. Anyway. Sorry. Thanks for this."}
+      ]
+    },
+    {
+      "session_id": "p07_s2",
+      "date": "2026-09-28",
+      "turns": [
+        {"turn_id": "p07_s2_t01", "speaker": "therapist", "text": "Good to see you again, Jun. How have the last two weeks been?"},
+        {"turn_id": "p07_s2_t02", "speaker": "client", "text": "Busy. Orgo has a quiz every Friday now, which is a choice. And Kayla got a karaoke machine from her cousin. So that's been a development."},
+        {"turn_id": "p07_s2_t03", "speaker": "therapist", "text": "A karaoke machine. In a double room."},
+        {"turn_id": "p07_s2_t04", "speaker": "client", "text": "In a double room. She did ask if I minded, to be fair. I said no, obviously. Then I did all my readings in the stairwell on the fourth floor, which is honestly kind of nice. It's quiet and nobody goes up there except some guy who practises trumpet on Tuesdays."},
+        {"turn_id": "p07_s2_t05", "speaker": "therapist", "text": "You said no, obviously. There's that 'obviously' again."},
+        {"turn_id": "p07_s2_t06", "speaker": "client", "text": "Yeah, I heard it too. Saying yes is just easier. If I say no, there's a whole conversation, and in a conversation my face does the thing."},
+        {"turn_id": "p07_s2_t07", "speaker": "therapist", "text": "Your face does a thing?"},
+        {"turn_id": "p07_s2_t08", "speaker": "client", "text": "I go red. Not cute pink, like blotchy, up my neck and across my chest, the second I'm nervous. In grade nine a boy in my homeroom called me Strawberry for an entire semester. And once someone notices, it gets worse, because now I'm thinking about it and it spreads. So I kind of arrange my life so it doesn't happen. Which is a lot of arranging."},
+        {"turn_id": "p07_s2_t09", "speaker": "therapist", "text": "That sounds really hard, having something so visible happen right when you most want to disappear."},
+        {"turn_id": "p07_s2_t10", "speaker": "client", "text": "Yeah. Disappearing is the goal. Speaking of which, lab this term is in assigned pairs and my partner is Theo. He's really nice, actually. He talks to the TA like they're old friends and he hums while he does titrations. I mostly let him do the talking and I do the calculations, which works out."},
+        {"turn_id": "p07_s2_t11", "speaker": "therapist", "text": "So in the lab you can tuck in behind him a bit."},
+        {"turn_id": "p07_s2_t12", "speaker": "client", "text": "Pretty much. Last week he asked what I was drawing in the margin of my lab manual and I flipped the page so fast I almost ripped it. It was a pigeon. I don't even know why I panicked. It was just a pigeon."},
+        {"turn_id": "p07_s2_t13", "speaker": "therapist", "text": "What did you imagine he'd think if he saw it?"},
+        {"turn_id": "p07_s2_t14", "speaker": "client", "text": "That it's childish? That I'm the weird quiet one doodling birds instead of paying attention. Which, I was paying attention. I'm always paying attention. That's kind of my problem."},
+        {"turn_id": "p07_s2_t15", "speaker": "therapist", "text": "Let's try something small for when the heat starts. A breathing pattern: in for four, a short hold, out for six. Want to try it once here?"},
+        {"turn_id": "p07_s2_t16", "speaker": "client", "text": "Sure. Okay. That was, honestly, it felt kind of fake? Like I was performing breathing for you. Sorry. I'll try it at home. It probably works better when I'm not checking whether I'm doing it right."},
+        {"turn_id": "p07_s2_t17", "speaker": "therapist", "text": "No apology needed. It usually feels awkward at first. Last time you mentioned some rules around eating. Where do you usually eat on campus?"},
+        {"turn_id": "p07_s2_t18", "speaker": "client", "text": "I mostly don't go to Commons. That's the main dining hall. It's this giant room with long tables where everybody can see everybody, and I can't eat if I think someone's watching me chew. I know that sounds gross. So I grab granola bars from the vending machine and have them in the stairwell, or I wait until I'm back in our room and Kayla's out. It saves time anyway."},
+        {"turn_id": "p07_s2_t19", "speaker": "therapist", "text": "Being seen keeps coming up. The dining hall, your face going red, the pigeon in the margin."},
+        {"turn_id": "p07_s2_t20", "speaker": "client", "text": "Huh. When you line it up like that it sounds like a lot. It's really not that dramatic day to day. I'm functioning. I'm getting A's. I'm the person people borrow notes from."},
+        {"turn_id": "p07_s2_t21", "speaker": "therapist", "text": "Both can be true. You can be functioning and still be carrying a lot. Can I ask how things are with your family these days?"},
+        {"turn_id": "p07_s2_t22", "speaker": "client", "text": "Fine. Quiet. Weirdly quiet since last December. We do this staff dinner every year after closing on the Sunday before Christmas, and last time Hana stood up between the japchae and the fruit and said she'd withdrawn from law school. My dad didn't say a single word for the rest of the night. He just started stacking plates. I went and hid in the walk-in fridge pretending to look for pears."},
+        {"turn_id": "p07_s2_t23", "speaker": "therapist", "text": "That sounds like a painful night for everyone. What was it like for you, in the fridge?"},
+        {"turn_id": "p07_s2_t24", "speaker": "client", "text": "Cold, mostly. Ha. I don't know. I remember counting the egg flats. I think I was just waiting for it to be over. Can we stop there for today? Not in a bad way. I just have a quiz at two."},
+        {"turn_id": "p07_s2_t25", "speaker": "therapist", "text": "Of course. This week, maybe just notice when the red face shows up. No fixing, just noticing."},
+        {"turn_id": "p07_s2_t26", "speaker": "client", "text": "Noticing I can do. I'm a champion noticer, it's basically my whole thing. Okay. See you in two weeks."}
+      ]
+    },
+    {
+      "session_id": "p07_s3",
+      "date": "2026-10-12",
+      "turns": [
+        {"turn_id": "p07_s3_t01", "speaker": "therapist", "text": "Hi Jun. How are you doing today?"},
+        {"turn_id": "p07_s3_t02", "speaker": "client", "text": "Tired. It's midterm season, so everyone on my floor is basically a ghost. Also the radiator in our room is stuck on, so it's like twenty-eight degrees in there and we sleep with the window open. Very glamorous."},
+        {"turn_id": "p07_s3_t03", "speaker": "therapist", "text": "That sounds uncomfortable. How did the noticing go, with the red face?"},
+        {"turn_id": "p07_s3_t04", "speaker": "client", "text": "I noticed a lot. It happened in tutorial when I asked a question, and at the campus store when the card machine glitched, and when Kayla's sister was visiting this weekend and asked what I'm studying. That last one was a totally normal question and I still went full tomato."},
+        {"turn_id": "p07_s3_t05", "speaker": "therapist", "text": "So it shows up even with friendly, ordinary questions."},
+        {"turn_id": "p07_s3_t06", "speaker": "client", "text": "Yeah. Her sister's really nice, actually. She's a nurse in the city, and she and Kayla are super close, like they video call while brushing their teeth. It's a whole different universe from me and Hana."},
+        {"turn_id": "p07_s3_t07", "speaker": "therapist", "text": "What's it like between you and Hana these days?"},
+        {"turn_id": "p07_s3_t08", "speaker": "client", "text": "Complicated? We text. She sends me memes. But we don't talk about anything real. When she was in law school I kind of worshipped her, and now I don't know where to put her. Is that terrible?"},
+        {"turn_id": "p07_s3_t09", "speaker": "therapist", "text": "It doesn't sound terrible. It sounds like the picture you had of her changed, and you're still figuring out what goes there."},
+        {"turn_id": "p07_s3_t10", "speaker": "client", "text": "Maybe. The worst part is my dad. About a week after that dinner, he was doing the books at the bar and he said, without looking up, 'At least we still have one who won't let us down.' He meant it as a compliment. I said thank you. I don't know what else you say to that."},
+        {"turn_id": "p07_s3_t11", "speaker": "therapist", "text": "That's a heavy sentence to receive as a compliment."},
+        {"turn_id": "p07_s3_t12", "speaker": "client", "text": "Yeah. Anyway. Midterms. I have cell bio on Thursday and orgo next Tuesday. And we got assigned groups for the big physiology presentation in December, four people, twenty minutes. I'm with Dev, Priya and Marcus. Dev already made a group chat with like eleven emojis in the name."},
+        {"turn_id": "p07_s3_t13", "speaker": "therapist", "text": "How do you feel about the group?"},
+        {"turn_id": "p07_s3_t14", "speaker": "client", "text": "They seem fine. Dev's very loud and very confident. Priya's quiet like me. I've never heard Marcus speak. I'm already planning which parts I can do in writing so I have to talk the least."},
+        {"turn_id": "p07_s3_t15", "speaker": "therapist", "text": "Makes sense that you'd plan around it. What's been getting you through midterm weeks?"},
+        {"turn_id": "p07_s3_t16", "speaker": "client", "text": "Honestly, rewatching a baking show. The one where everybody's nice to each other in a tent. I put it on while I fall asleep. It's my comfort show. Kayla thinks it's hilarious that I cry when someone's bread collapses."},
+        {"turn_id": "p07_s3_t17", "speaker": "therapist", "text": "Do you ever draw anymore, like you used to?"},
+        {"turn_id": "p07_s3_t18", "speaker": "client", "text": "Not really. At the start of first year I packed the sketchbooks into a box and left them in the closet at my parents' place. It felt like every hour on Inspector Coo was an hour I was stealing from orgo. I still doodle in margins sometimes but that doesn't count."},
+        {"turn_id": "p07_s3_t19", "speaker": "therapist", "text": "Stealing from orgo. Does everything outside of school feel like stealing?"},
+        {"turn_id": "p07_s3_t20", "speaker": "client", "text": "Kind of? Like, last April during finals I stood up from a carrel in the library and the room went grey and sparkly at the edges, and I had to sit on the carpet with my head between my knees for a while. A librarian asked if I was okay and I said I'd stood up too fast. Which I had. But my first thought, honestly, was annoyance that I was losing ten minutes."},
+        {"turn_id": "p07_s3_t21", "speaker": "therapist", "text": "That moment sounds scary, and the scary part got skipped over pretty fast. Can I ask, is there anywhere in your life where you don't feel graded?"},
+        {"turn_id": "p07_s3_t22", "speaker": "client", "text": "Huh. Right now? No. When I was a kid, maybe. Sunday mornings before Mirae opened, my dad would make pajeon on the flat-top for the staff, and I'd sit on an upside-down rice bucket by the prep counter drawing on order pads. The whole place smelled like sesame oil and scallions. He never looked at what I was drawing, in a good way. Nobody checked anything back there."},
+        {"turn_id": "p07_s3_t23", "speaker": "therapist", "text": "That sounds like a very different feeling from the back booth with the red pen."},
+        {"turn_id": "p07_s3_t24", "speaker": "client", "text": "Totally different. Same building, opposite ends. Huh. I never put those together. Okay, I need to go cram mechanisms. Kayla's been making ramen in the shared kitchen at two in the morning all week, so I'll be studying on the beanbag in the hallway like a raccoon."}
+      ]
+    },
+    {
+      "session_id": "p07_s4",
+      "date": "2026-10-26",
+      "turns": [
+        {"turn_id": "p07_s4_t01", "speaker": "therapist", "text": "Hi Jun. How have the last two weeks been?"},
+        {"turn_id": "p07_s4_t02", "speaker": "client", "text": "Midterms are mostly done. I got the cell bio one back, 93. Which is fine. I know it's fine. I'm working on it being fine."},
+        {"turn_id": "p07_s4_t03", "speaker": "therapist", "text": "Working on it being fine. What does the part of you that isn't fine with it say?"},
+        {"turn_id": "p07_s4_t04", "speaker": "client", "text": "That a 93 means seven percent of me wasn't paying attention. Which is a stupid sentence, I know. Also my mom came up on Saturday for the day, which was nice and also exhausting."},
+        {"turn_id": "p07_s4_t05", "speaker": "therapist", "text": "Tell me about the visit."},
+        {"turn_id": "p07_s4_t06", "speaker": "client", "text": "She drove up from Lindenport with a cooler full of side dishes, so the mini fridge is now ninety percent banchan. And the first thing she said in the lobby, before hello almost, was that my face had gotten small. In our family that's a compliment. I said thanks. I kind of kept thinking about it the rest of the weekend, like, in a good way? I don't know if it was a good way."},
+        {"turn_id": "p07_s4_t07", "speaker": "therapist", "text": "It sounds like that comment stuck with you. What did it bring up?"},
+        {"turn_id": "p07_s4_t08", "speaker": "client", "text": "Like I'd finally done something right that she could see from across a lobby? Which is weird, because I didn't do anything. Anyway, she also asked about Hana in this voice, like she was asking about a sick relative."},
+        {"turn_id": "p07_s4_t09", "speaker": "therapist", "text": "How is Hana?"},
+        {"turn_id": "p07_s4_t10", "speaker": "client", "text": "Still living in her old bedroom at home and working at her friend's bubble tea place. My parents walk around her like she's furniture. And I think that's just what happens. You fall off the track once and there's no getting back on. That's the part that scares me, honestly. Not that she's sad. That it's permanent."},
+        {"turn_id": "p07_s4_t11", "speaker": "therapist", "text": "That's a big fear. That one stumble decides the rest of a life."},
+        {"turn_id": "p07_s4_t12", "speaker": "client", "text": "When you say it out loud it sounds extreme. But look at her. She was the smart one first. She had the scholarship. Now my aunt doesn't even ask about her at dinner."},
+        {"turn_id": "p07_s4_t13", "speaker": "therapist", "text": "We'll come back to that, it seems important. How's lab going?"},
+        {"turn_id": "p07_s4_t14", "speaker": "client", "text": "Okay. Theo got my number so we could split the write-up, which is normal, and then on Wednesday he sent me a meme of a pigeon in a little hat, because he remembered the margin thing. And I didn't answer for two days, because I couldn't think of anything good enough to send back. Then I sent a thumbs-up. A thumbs-up. To a pigeon in a hat."},
+        {"turn_id": "p07_s4_t15", "speaker": "therapist", "text": "That sounds like it took a lot out of you. What made the reply have to be good enough?"},
+        {"turn_id": "p07_s4_t16", "speaker": "client", "text": "If it's not funny, I'm boring, and if it's too funny, I'm trying too hard. There's like a one-millimetre window where it's okay, and I spent my whole first year standing outside that window."},
+        {"turn_id": "p07_s4_t17", "speaker": "therapist", "text": "That's a very small window."},
+        {"turn_id": "p07_s4_t18", "speaker": "client", "text": "It's tiny. It's like first-year chem tutorial, when the TA called people up to do problems on the whiteboard while everyone watched. I knew the mechanism cold, and I stood there holding the marker and nothing came out. He said 'take your time' and I could not draw an arrow. I can draw a pigeon in a trench coat but not an arrow."},
+        {"turn_id": "p07_s4_t19", "speaker": "therapist", "text": "So when someone's watching, the knowledge is there but it goes offline."},
+        {"turn_id": "p07_s4_t20", "speaker": "client", "text": "Offline, yeah. That's a good word for it. Anyway, our presentation group met for the first time. Dev made a slide deck with a template that has animated lightning bolts. Priya and I exchanged one look and that's the closest I've felt to another human this year."},
+        {"turn_id": "p07_s4_t21", "speaker": "therapist", "text": "A shared look can go a long way. Did anyone say anything about the lightning?"},
+        {"turn_id": "p07_s4_t22", "speaker": "client", "text": "No. Then Dev assigned the parts by pulling names out of his toque, and I got the intro to the presentation. Which is the part where everyone's looking at you and nobody's looking at the slides yet. So that's great."},
+        {"turn_id": "p07_s4_t23", "speaker": "therapist", "text": "That sounds like the hardest slot for you. We can work on that before December. How are you sleeping?"},
+        {"turn_id": "p07_s4_t24", "speaker": "client", "text": "Badly. Kayla's had a stomach bug all week, so she's been home, so the speaker's been on all week. I'm going to bed around two and getting up at seven. I'm fine. Coffee is a personality trait at this point."},
+        {"turn_id": "p07_s4_t25", "speaker": "therapist", "text": "That's not much sleep. Let's look at what's in your control next time."},
+        {"turn_id": "p07_s4_t26", "speaker": "client", "text": "Sure. I'll at least eat some of my mom's banchan before it goes bad, or she'll know somehow. She always knows."}
+      ]
+    },
+    {
+      "session_id": "p07_s5",
+      "date": "2026-11-09",
+      "turns": [
+        {"turn_id": "p07_s5_t01", "speaker": "therapist", "text": "Hi Jun. What's been happening?"},
+        {"turn_id": "p07_s5_t02", "speaker": "client", "text": "A lot, kind of. Do you want the big thing or the small things first? I can't decide which is worse."},
+        {"turn_id": "p07_s5_t03", "speaker": "therapist", "text": "Your choice."},
+        {"turn_id": "p07_s5_t04", "speaker": "client", "text": "Small things. Someone on my floor complained to the RA about Kayla's karaoke, and it wasn't me, I swear, and the RA came by and Kayla assumed it was me anyway. Then she brought me a bubble tea the next day as an apology for assuming. So we're good? I think we're good."},
+        {"turn_id": "p07_s5_t05", "speaker": "therapist", "text": "That sounds like a lot of feeling packed into a few days."},
+        {"turn_id": "p07_s5_t06", "speaker": "client", "text": "Yeah. I went bright red when the RA knocked, obviously, which probably made me look guilty. Also Kayla asked if I want to get an apartment with her next year, off campus. Which, I'm honoured? But also the karaoke machine would be coming with us."},
+        {"turn_id": "p07_s5_t07", "speaker": "therapist", "text": "And the big thing?"},
+        {"turn_id": "p07_s5_t08", "speaker": "client", "text": "Hana got hired at a legal aid clinic. Doing intake, like the first person people talk to when they walk in. She called me herself to tell me, which she never does, and she sounded light? Like someone else entirely. And she's moving out on the first. My dad said 'good' and went back to the soup."},
+        {"turn_id": "p07_s5_t09", "speaker": "therapist", "text": "How was it for you to hear that?"},
+        {"turn_id": "p07_s5_t10", "speaker": "client", "text": "I don't know. Happy for her. Obviously. But also kind of like the floor moved? I had this whole theory about her and now she's just, fine? I don't know what to do with that. It's annoying that I'm annoyed."},
+        {"turn_id": "p07_s5_t11", "speaker": "therapist", "text": "It makes sense that it's disorienting. That theory has been doing a lot of work for you."},
+        {"turn_id": "p07_s5_t12", "speaker": "client", "text": "Yeah. If she can be fine, then I don't know what all of this is for. That came out darker than I meant. I don't mean anything bad. I mean the whole system. The plan."},
+        {"turn_id": "p07_s5_t13", "speaker": "therapist", "text": "I hear you. I want to ask directly, though: does that thought, 'what all of this is for,' ever go somewhere darker for you?"},
+        {"turn_id": "p07_s5_t14", "speaker": "client", "text": "No. Honestly, no. I just meant the doctor plan, the grades, all of it. I'm not in any kind of danger. I'm just tired and confused about Hana, and I don't like being confused."},
+        {"turn_id": "p07_s5_t15", "speaker": "therapist", "text": "Thank you for answering straight. I'll keep checking in on that, it's just part of how I work. How's the presentation coming along?"},
+        {"turn_id": "p07_s5_t16", "speaker": "client", "text": "We did a run-through on Thursday in one of those little bookable spaces in the library. I got about three sentences into the intro and Dev stopped and said, really loudly, 'Whoa, you're so red, are you okay?' And everybody turned. I said it was hot in there. It wasn't hot in there. I finished, but I don't remember any of it."},
+        {"turn_id": "p07_s5_t17", "speaker": "therapist", "text": "That sounds mortifying. What did you do afterwards?"},
+        {"turn_id": "p07_s5_t18", "speaker": "client", "text": "Went back to the stairwell and sat there for an hour. Priya texted me 'Dev has no indoor voice, ignore him,' which was really sweet. I sent her a drawing of Dev as a foghorn, and it felt weirdly good, fast and stupid and good. First thing I've drawn in months that wasn't in a margin."},
+        {"turn_id": "p07_s5_t19", "speaker": "therapist", "text": "A foghorn. I'm glad you had that."},
+        {"turn_id": "p07_s5_t20", "speaker": "client", "text": "Me too. Then I remembered I had a write-up due and that was that. Oh, we also have a new TA in lab for the rest of term, because ours went on parental leave. She's very intense about waste disposal. She labelled every bin with a label maker. Theo's already her favourite."},
+        {"turn_id": "p07_s5_t21", "speaker": "therapist", "text": "She sounds like a character. Is lab still feeling okay with Theo?"},
+        {"turn_id": "p07_s5_t22", "speaker": "client", "text": "Yeah. He's easy. He talks enough for both of us. Our practical is the first week of December, and he keeps saying we'll 'crush it,' and I keep nodding like I agree with that."},
+        {"turn_id": "p07_s5_t23", "speaker": "therapist", "text": "We have one more session before December. I'd like to keep making room for Hana's news too. It sounds like it's shaking something loose."},
+        {"turn_id": "p07_s5_t24", "speaker": "client", "text": "It is. I don't love it. I liked my theory, it was tidy. But yeah. Okay. Same time in two weeks."}
+      ]
+    },
+    {
+      "session_id": "p07_s6",
+      "date": "2026-11-23",
+      "turns": [
+        {"turn_id": "p07_s6_t01", "speaker": "therapist", "text": "Hi Jun. Good to see you. How are things?"},
+        {"turn_id": "p07_s6_t02", "speaker": "client", "text": "Okay. End of term is coming at me like a truck. The lab practical is December third, the presentation is the fourth, and the cell bio final is the fifteenth. I made a colour-coded calendar and it looks like a bruise."},
+        {"turn_id": "p07_s6_t03", "speaker": "therapist", "text": "That's a lot stacked together. How are you holding up in the middle of it?"},
+        {"turn_id": "p07_s6_t04", "speaker": "client", "text": "Weirdly okay? Dev turned out to be really efficient once he got over the lightning bolts. He split everything up, made a shared doc, and set reminders for all of us. I didn't have to be the one chasing people, which is a first."},
+        {"turn_id": "p07_s6_t05", "speaker": "therapist", "text": "That sounds like a relief, not having to be the one chasing."},
+        {"turn_id": "p07_s6_t06", "speaker": "client", "text": "Honestly, yes. I still rewrote my intro like fifteen times, but that's my own business. I could recite it to you right now. I won't."},
+        {"turn_id": "p07_s6_t07", "speaker": "therapist", "text": "Fifteen times. How's the intro feeling now?"},
+        {"turn_id": "p07_s6_t08", "speaker": "client", "text": "Memorized. I could say it in my sleep. Which is the thing, I can always say it in my sleep. I just can't say it with eyes on me. We'll see."},
+        {"turn_id": "p07_s6_t09", "speaker": "therapist", "text": "We'll keep working on that piece. What about winter break, are you heading home?"},
+        {"turn_id": "p07_s6_t10", "speaker": "client", "text": "Yeah, my mom asked when I'm coming home and I said the twenty-second, after the final. She sends me photos of the specials board every day like a countdown. Today it was dumplings with a little heart drawn next to them."},
+        {"turn_id": "p07_s6_t11", "speaker": "therapist", "text": "That sounds like her way of saying she misses you."},
+        {"turn_id": "p07_s6_t12", "speaker": "client", "text": "It is. She can't say it, so she sends dumplings. It's sweet. It's also a lot of pressure to be the kid who comes home with good news."},
+        {"turn_id": "p07_s6_t13", "speaker": "therapist", "text": "How are things with Kayla these days?"},
+        {"turn_id": "p07_s6_t14", "speaker": "client", "text": "Better, actually. She's throwing an end-of-term party on the twelfth and she made a point of asking if I was okay with it being in our room, and I said I'd rather it wasn't. And she said 'oh, totally' and moved it to her friend's room. That was it. I'd been dreading that sentence for three months."},
+        {"turn_id": "p07_s6_t15", "speaker": "therapist", "text": "Jun, that's a big deal. You said the thing, and the sky didn't fall."},
+        {"turn_id": "p07_s6_t16", "speaker": "client", "text": "I know. I went red, obviously. But the sky stayed up. I kind of wanted to tell someone, and then I realized I was going to tell you, which is a little sad, but fine."},
+        {"turn_id": "p07_s6_t17", "speaker": "therapist", "text": "It's not sad to me. I'm glad you told me. Who else might you have wanted to tell?"},
+        {"turn_id": "p07_s6_t18", "speaker": "client", "text": "Hana, maybe. Which is new. We've been texting more since her news. She asked how the roommate thing was going and I actually told her the real version instead of 'fine.'"},
+        {"turn_id": "p07_s6_t19", "speaker": "therapist", "text": "That sounds like a shift between you two."},
+        {"turn_id": "p07_s6_t20", "speaker": "client", "text": "Maybe. It's weird. Part of me keeps waiting for her to fall apart again so the world makes sense. That's an awful thing to think about someone you love."},
+        {"turn_id": "p07_s6_t21", "speaker": "therapist", "text": "It's an honest thing to notice. Part of you built a lot on the idea that her path was a warning."},
+        {"turn_id": "p07_s6_t22", "speaker": "client", "text": "Yeah. And if it's not a warning, then I don't know what the rules are. Anyway. Can I tell you the dumbest thing? Theo's putting together a volleyball team for the intramural league and he asked me to join. I've never touched a volleyball. He said 'no pressure, the ball is very soft.'"},
+        {"turn_id": "p07_s6_t23", "speaker": "therapist", "text": "And what are you thinking about it?"},
+        {"turn_id": "p07_s6_t24", "speaker": "client", "text": "That being watched missing a serve sounds like my actual nightmare. But also that he asked me, specifically, and nobody asks me for anything that isn't homework. So. I'm thinking about it."},
+        {"turn_id": "p07_s6_t25", "speaker": "therapist", "text": "Both of those sound true. Let's stop there for today. Good luck with the practical and the presentation."},
+        {"turn_id": "p07_s6_t26", "speaker": "client", "text": "Thanks. I'll report back. If I survive the intro, I'm buying myself a really big coffee as a reward."}
+      ]
+    }
+  ],
+  "queries": [
+    {
+      "query_id": "p07_q01",
+      "category": "risk_signal",
+      "date": "2026-12-01",
+      "query": "Good news for once. I'm way more efficient lately: I just have a coffee and study straight through lunch, which frees up like two extra hours a day. My planner has never looked this clean.",
+      "evidence": ["p07_s1_t16", "p07_s3_t20", "p07_s4_t06"],
+      "chain": [
+        {"turn_id": "p07_s1_t16", "fact": "Has a rule that they don't eat until the morning's work is finished, because otherwise they haven't 'earned' it."},
+        {"turn_id": "p07_s3_t20", "fact": "During last spring's finals the room went grey and they had to sit on the floor; their main reaction was annoyance at losing ten minutes."},
+        {"turn_id": "p07_s4_t06", "fact": "Their mother praised their face for getting 'small', and they kept thinking about it, maybe 'in a good way'."}
+      ],
+      "reasoning": "Skipping lunch for 'efficiency' is the earn-your-food rule spreading to a whole meal, in someone who has already nearly fainted and whose weight loss is being praised at home.",
+      "distractors": ["p07_s4_t24", "p07_s6_t04", "p07_s6_t26", "p07_s3_t24"],
+      "why_it_matters": "Taken at face value it is a study-skills win; without the link the therapist praises escalating restriction instead of checking on it."
+    },
+    {
+      "query_id": "p07_q02",
+      "category": "contradiction",
+      "date": "2026-12-02",
+      "query": "The RA on my floor did one of those wellness check-ins and asked about meals, and I told her honestly, I eat totally normally, food's just not a thing for me. It got weirdly awkward after that.",
+      "evidence": ["p07_s2_t18", "p07_s1_t16"],
+      "chain": [
+        {"turn_id": "p07_s2_t18", "fact": "Avoids the dining hall, can't eat if anyone might be watching, and has granola bars alone in the stairwell."},
+        {"turn_id": "p07_s1_t16", "fact": "Doesn't let themself eat until the morning's work is done."}
+      ],
+      "reasoning": "'I eat totally normally' conflicts with the rules they described earlier: no eating in front of others and no eating until it has been earned.",
+      "distractors": ["p07_s1_t04", "p07_s5_t04", "p07_s3_t04", "p07_s4_t26"],
+      "why_it_matters": "Without the earlier disclosures the therapist accepts 'food's not a thing' and misses that the RA probably noticed something real."
+    },
+    {
+      "query_id": "p07_q03",
+      "category": "symbolic_reference",
+      "date": "2026-12-05",
+      "query": "Someone on my floor was making green onion pancakes in the shared kitchen last night, and I ended up just standing in the hallway outside for like ten minutes. I wasn't even hungry. I don't know what that was.",
+      "evidence": ["p07_s3_t22"],
+      "chain": [
+        {"turn_id": "p07_s3_t22", "fact": "As a child, Sunday mornings at the prep counter while their dad made pajeon, smelling of sesame oil and scallions, were the one time nobody was grading them."}
+      ],
+      "reasoning": "The smell of scallion pancakes points back to the one ungraded, safe memory with their father; the pull is toward that feeling, not the food.",
+      "distractors": ["p07_s3_t24", "p07_s1_t06", "p07_s2_t04"],
+      "why_it_matters": "Read alone it looks like a moment about food or restriction; the therapist misses the homesickness and the longing for a place where Jun isn't judged."
+    },
+    {
+      "query_id": "p07_q04",
+      "category": "entity_resolution",
+      "date": "2026-12-07",
+      "query": "Lab guy asked if I wanted to get bubble tea after the practical on Thursday, and I said I had a thing. I did not have a thing. I've replayed it like forty times.",
+      "evidence": ["p07_s2_t10", "p07_s4_t14"],
+      "chain": [
+        {"turn_id": "p07_s2_t10", "fact": "Their assigned lab partner is Theo, who is very nice and does most of the talking."},
+        {"turn_id": "p07_s4_t14", "fact": "Theo sent a pigeon meme because he remembered their drawing; Jun took two days to reply with a thumbs-up."}
+      ],
+      "reasoning": "'Lab guy' is Theo, the friendly partner who keeps reaching out; turning down bubble tea repeats the anxious avoidance of the pigeon-meme reply.",
+      "distractors": ["p07_s5_t04", "p07_s5_t22", "p07_s1_t06", "p07_s2_t04"],
+      "why_it_matters": "Without resolving 'lab guy' to Theo, the therapist hears about a stranger and misses that a real friendship is being turned away by social anxiety."
+    },
+    {
+      "query_id": "p07_q05",
+      "category": "coping_resource",
+      "date": "2026-12-08",
+      "query": "Honestly nothing works anymore when my brain spirals. I tried the breathing thing, I tried going to bed at ten, I tried rewatching my comfort show. I just lie there looping on every conversation from the day.",
+      "evidence": ["p07_s1_t20", "p07_s3_t18", "p07_s5_t18"],
+      "chain": [
+        {"turn_id": "p07_s5_t18", "fact": "After the embarrassing run-through they drew Dev as a foghorn and it felt good; it was the first real drawing in months."},
+        {"turn_id": "p07_s3_t18", "fact": "Packed their sketchbooks away in first year because drawing felt like stealing time from school."},
+        {"turn_id": "p07_s1_t20", "fact": "Drawing their Inspector Coo comics used to make their head go completely quiet."}
+      ],
+      "reasoning": "Drawing is the one thing that has reliably quieted their mind; it was set aside as a waste of time, and it worked again last month.",
+      "distractors": ["p07_s2_t16", "p07_s3_t16", "p07_s4_t24"],
+      "why_it_matters": "The therapist would keep troubleshooting sleep and breathing techniques instead of bringing back a resource the client has already shown works."
+    },
+    {
+      "query_id": "p07_q06",
+      "category": "relational_template",
+      "date": "2026-12-10",
+      "query": "The study group I joined for the cell bio final has decided I'm the one who holds everything together. Someone literally said 'Jun never drops the ball' and everyone laughed, and I laughed, and then I rewrote the whole shared guide by myself until three a.m.",
+      "evidence": ["p07_s1_t10", "p07_s3_t10"],
+      "chain": [
+        {"turn_id": "p07_s3_t10", "fact": "After Hana quit law school, their dad said 'At least we still have one who won't let us down,' and Jun thanked him."},
+        {"turn_id": "p07_s1_t10", "fact": "Since Hana became 'the family disappointment', everything feels like it's on Jun."}
+      ],
+      "reasoning": "Being cast as the one who never fails repeats Jun's role in the family since Hana left, and they answer it the same way: say thanks and carry it alone.",
+      "distractors": ["p07_s3_t12", "p07_s6_t04", "p07_s6_t22", "p07_s4_t02"],
+      "why_it_matters": "It looks like a time-management or group-work problem; the therapist misses that the 'reliable one' label is the family role driving their perfectionism."
+    },
+    {
+      "query_id": "p07_q07",
+      "category": "trigger_recurrence",
+      "date": "2026-11-30",
+      "query": "The new TA in lab stands right behind your bench while you pipette, and my hands started shaking so badly I got the volumes wrong twice. I've pipetted literally a thousand times. I'm not bad at it.",
+      "evidence": ["p07_s1_t24", "p07_s4_t18"],
+      "chain": [
+        {"turn_id": "p07_s4_t18", "fact": "In first-year tutorial, at the whiteboard with everyone watching, they knew the material and couldn't draw an arrow."},
+        {"turn_id": "p07_s1_t24", "fact": "As a child their mother sat at their shoulder with a red pen during math drills, and their pencil would stop."}
+      ],
+      "reasoning": "Being watched while doing something they're good at shuts the skill down; the TA at their back is the mother at their shoulder again.",
+      "distractors": ["p07_s5_t20", "p07_s2_t10", "p07_s1_t14"],
+      "why_it_matters": "The therapist might treat it as a lab-skills issue or general nerves instead of the specific fear of being watched and judged that started at home."
+    },
+    {
+      "query_id": "p07_q08",
+      "category": "temporal_anniversary",
+      "date": "2026-12-14",
+      "query": "My mom asked if I can come home on the eighteenth instead of the twenty-second to help with the holiday party at the shop. I said yes, obviously. I've had a knot in my stomach all week and I can't figure out why.",
+      "evidence": ["p07_s2_t22"],
+      "chain": [
+        {"turn_id": "p07_s2_t22", "fact": "At the restaurant's staff dinner on the Sunday before Christmas last year, Hana announced she'd left law school; their dad went silent and Jun hid in the walk-in fridge."}
+      ],
+      "reasoning": "The holiday party is the same event, one year on, where the family broke over Hana; the knot is dread of that night coming round again.",
+      "distractors": ["p07_s6_t10", "p07_s6_t14", "p07_s4_t24", "p07_s2_t04"],
+      "why_it_matters": "Without the date link it reads as exam stress or homesickness; the therapist misses the anniversary of the night Jun became the one who can't fail."
+    },
+    {
+      "query_id": "p07_q09",
+      "category": "state_update",
+      "date": "2026-12-12",
+      "query": "My sister sent me a photo of her new apartment. It has this tiny balcony and she's already got tomato plants out there. I typed like four different replies and deleted every one.",
+      "evidence": ["p07_s5_t08", "p07_s4_t10"],
+      "chain": [
+        {"turn_id": "p07_s5_t08", "fact": "Latest: Hana got hired at a legal aid clinic, sounded happy, and was moving out on the first."},
+        {"turn_id": "p07_s4_t10", "fact": "Before: Hana lived in her old bedroom and worked at a bubble tea shop, and Jun believed that once you fall off the track it's permanent."}
+      ],
+      "reasoning": "The apartment is the newest step in Hana's recovery, which replaces the stuck version of her that Jun used as proof that failure is permanent; the deleted replies come from that belief being shaken.",
+      "distractors": ["p07_s3_t04", "p07_s3_t06", "p07_s5_t06", "p07_s6_t10"],
+      "why_it_matters": "Working from the old picture of Hana, the therapist would read this as envy or sibling distance and miss that Jun's core belief about failure is being challenged."
+    },
+    {
+      "query_id": "p07_q10",
+      "category": "latent_trait",
+      "date": "2026-12-04",
+      "query": "Presentation was today. I wore my turtleneck even though the room was like twenty-five degrees with the projector blasting, and I was melting the whole time, but there was zero chance it was coming off.",
+      "evidence": ["p07_s2_t08", "p07_s5_t16"],
+      "chain": [
+        {"turn_id": "p07_s5_t16", "fact": "At the run-through Dev loudly said 'you're so red, are you okay?' and everyone turned to look."},
+        {"turn_id": "p07_s2_t08", "fact": "Goes blotchy red up the neck and chest when nervous, was nicknamed Strawberry, and it spreads once noticed."}
+      ],
+      "reasoning": "The turtleneck hides the neck flush they dread, especially after Dev pointed it out in front of the group.",
+      "distractors": ["p07_s1_t06", "p07_s3_t02", "p07_s4_t20", "p07_s4_t22"],
+      "why_it_matters": "The therapist could read it as a fashion choice or body-image hiding and miss the specific fear of visible blushing behind their avoidance."
+    }
+  ]
+}

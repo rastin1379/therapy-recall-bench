@@ -1,0 +1,336 @@
+{
+  "persona_id": "p04",
+  "name": "Dev Raman",
+  "case_formulation": "Dev (Devendra) Raman, 34, he/him, backend software engineer at Larkspur (patient-records software). ADHD diagnosed at 30 after his partner Mei pushed him to get assessed: poor task initiation, time blindness ('now and not now'), procrastination that flips into late-night hyperfocus on side projects (a bus-times app, a synth plugin) followed by crashes. Father, a retired civil engineer, read his school reports aloud at the dinner table ending with 'if you just applied yourself', checked his homework every Sunday with a red pen while standing behind his chair, exhaled audibly before every verdict, and skipped his graduation over a 2:1. As a boy Dev coped by switching off (lying under his desk for hours). Mother (Amma) covered for him and fixed things; partner Mei, a hospital pharmacist, now runs all the household bills and admin. Older sister Kavya, a cardiologist, is the favoured achiever. Core belief: 'I'm lazy and a fraud, and any criticism proves it.' Rules: hide, look busy, always be visibly present, never be caught not knowing. Trigger pattern: evaluation of his work (code review, check-ins) leads to shame and shutdown or avoidance. He was let go from his previous job at Kestrel on Friday 26 July 2024 and spent his first year at Larkspur always last out of the building. Manager Ruth is fair and arranged his accommodations (written tickets, headphones); by late June he privately calls her 'the Captain'. Started a long-acting stimulant in early May 2026, it clearly helped, stopped it in mid-June because of appetite loss and insomnia. Bouldering with colleague Priya quieted his mind in May; his membership lapsed by late June. In June he becomes buddy to an intern, Tobi, and notices he hears his father's harsh version of feedback first. Father has a knee replacement in July; father's health is not clinically relevant.",
+  "sessions": [
+    {
+      "session_id": "p04_s1",
+      "date": "2026-04-28",
+      "turns": [
+        {"turn_id": "p04_s1_t01", "speaker": "therapist", "text": "Hi Dev, welcome. Make yourself comfortable. What made you decide to come in?"},
+        {"turn_id": "p04_s1_t02", "speaker": "client", "text": "Honestly? Mei, my partner, booked it and sent me the confirmation with three exclamation marks. Which is fair, I've been saying I'd do this for about a year. I'm a software engineer, I'm thirty-four, and I'm very good at my job about forty percent of the time. The other sixty I'm hiding."},
+        {"turn_id": "p04_s1_t03", "speaker": "therapist", "text": "Hiding how?"},
+        {"turn_id": "p04_s1_t04", "speaker": "client", "text": "Looking busy. Tabs open. I'll have a ticket that should take two hours and I'll circle it for three days, then do it at one in the morning in a kind of fever, and it'll be good, and I'll still feel like a fraud. Rinse and repeat."},
+        {"turn_id": "p04_s1_t05", "speaker": "therapist", "text": "Where do you work?"},
+        {"turn_id": "p04_s1_t06", "speaker": "client", "text": "Larkspur. We make patient-records software for clinics, I'm on the backend team. My manager, Ruth, is honestly the best manager I've had. When I asked if requests could come as written tickets instead of people turning up at my desk, she just said sure, and made it team policy so I wasn't the odd one out. She fought for my headphones budget. Which means I'm terrified of letting her down, obviously."},
+        {"turn_id": "p04_s1_t07", "speaker": "therapist", "text": "So she's been on your side, and that raises the stakes."},
+        {"turn_id": "p04_s1_t08", "speaker": "client", "text": "Exactly. With a bad manager I'd at least have someone to blame. Anyway. It's a good job, good people. I just keep waiting for someone to notice I'm making it up as I go along."},
+        {"turn_id": "p04_s1_t09", "speaker": "therapist", "text": "What would they notice, do you think?"},
+        {"turn_id": "p04_s1_t10", "speaker": "client", "text": "That I'm not a real adult? Like, at home, Mei does all the bills. Council tax, the energy people, the water, everything. The one year I was in charge we got a final demand, and she quietly took it all over and never mentioned it again. She has a system. I have vibes."},
+        {"turn_id": "p04_s1_t11", "speaker": "therapist", "text": "(smiles) Vibes. How does it feel that she carries all that?"},
+        {"turn_id": "p04_s1_t12", "speaker": "client", "text": "Relief, mostly. Some guilt. She works shifts at the hospital pharmacy, she's knackered, and she still does my admin. I'd be lost without her. I'd be living in a tent made of unopened envelopes."},
+        {"turn_id": "p04_s1_t13", "speaker": "therapist", "text": "You mentioned feeling like a fraud. Where do you think that comes from?"},
+        {"turn_id": "p04_s1_t14", "speaker": "client", "text": "Oh, we're doing childhood already? Okay. My father's a civil engineer, bridges, a very exact man. School reports came home twice a year and he'd read them out at the dinner table, line by line, like evidence in a trial. 'Devendra is bright, but.' There was always a but. Then he'd put the report down and say, if you just applied yourself. Every single time."},
+        {"turn_id": "p04_s1_t15", "speaker": "therapist", "text": "Every single time."},
+        {"turn_id": "p04_s1_t16", "speaker": "client", "text": "Like a catchphrase. Kavya, my sister, got hers read out too, but hers didn't have a 'but' in them. She's a cardiologist now, so. Anyway, he's retired. He does sudoku and writes letters to the council about potholes. He's fine. We're fine."},
+        {"turn_id": "p04_s1_t17", "speaker": "therapist", "text": "We're fine. I noticed that came out quite quickly."},
+        {"turn_id": "p04_s1_t18", "speaker": "client", "text": "(laughs) Did it? I've had thirty-four years of practice. Can we talk about something else for a bit? I cycled here and a delivery van nearly took me out, so my heart's still going."},
+        {"turn_id": "p04_s1_t19", "speaker": "therapist", "text": "Of course. What would be most useful to focus on, day to day?"},
+        {"turn_id": "p04_s1_t20", "speaker": "client", "text": "The procrastination, probably. I got diagnosed with ADHD at thirty, after Mei found my keys in the fridge for the second time and made me book an assessment. So I've got the vocabulary now. Executive dysfunction, task initiation, all of it. Having the words didn't make it go away. Before that I just thought I was lazy and clever, in that order."},
+        {"turn_id": "p04_s1_t21", "speaker": "therapist", "text": "Lazy and clever. That sounds like a verdict you got from somewhere."},
+        {"turn_id": "p04_s1_t22", "speaker": "client", "text": "Yeah, okay, I heard it. Point taken. I'm also up till two most nights on side projects. Right now it's an app that tells you whether the number fourteen bus is lying about being five minutes away. Nobody asked for it. I love it."},
+        {"turn_id": "p04_s1_t23", "speaker": "therapist", "text": "We'll come back to all of that. Same time in two weeks?"},
+        {"turn_id": "p04_s1_t24", "speaker": "client", "text": "Yes. I'll put it in my calendar, and then Mei will put it in hers, which is the one that actually counts."}
+      ]
+    },
+    {
+      "session_id": "p04_s2",
+      "date": "2026-05-12",
+      "turns": [
+        {"turn_id": "p04_s2_t01", "speaker": "therapist", "text": "Good to see you, Dev. How have the last two weeks been?"},
+        {"turn_id": "p04_s2_t02", "speaker": "client", "text": "Eventful. I started medication, finally. The GP sorted the shared-care paperwork and I'm on a stimulant, the long-acting kind, lowest dose to begin with. Eight days in. The first morning I cleaned the oven, which is apparently a cliché. Too early to tell anything."},
+        {"turn_id": "p04_s2_t03", "speaker": "therapist", "text": "How are you finding it so far?"},
+        {"turn_id": "p04_s2_t04", "speaker": "client", "text": "Weird. Good weird, I think. My mouth's dry all the time and I'm drinking a lot of water. Mei's put a sticky note on the fridge that says EAT LUNCH, DEVENDRA. She only uses my full name in capitals."},
+        {"turn_id": "p04_s2_t05", "speaker": "therapist", "text": "She's looking out for you."},
+        {"turn_id": "p04_s2_t06", "speaker": "client", "text": "She is. Meanwhile my dad's knee is finally getting done, he's on the list for July. He's furious about it, like the knee's being insubordinate. Amma's driving him to every appointment and texting me updates with a lot of prayer-hands emojis."},
+        {"turn_id": "p04_s2_t07", "speaker": "therapist", "text": "How do you feel about his surgery?"},
+        {"turn_id": "p04_s2_t08", "speaker": "client", "text": "Fine? He'll be fine. It's strange picturing him in a hospital gown, though. He was always so upright. Sundays he'd go through my homework at the kitchen table with a red pen, standing behind my chair, ticking and crossing and not saying a word. I can still hear the nib. Anyway. He's sixty-eight. Bodies go."},
+        {"turn_id": "p04_s2_t09", "speaker": "therapist", "text": "You can still hear it."},
+        {"turn_id": "p04_s2_t10", "speaker": "client", "text": "Funny what sticks. After report nights I used to go up to my room and lie on the carpet under my desk. Not crying, not even sulking. Just switched off, sometimes for hours. Amma would leave a plate outside the door and knock once."},
+        {"turn_id": "p04_s2_t11", "speaker": "therapist", "text": "Switched off. A way of getting through it."},
+        {"turn_id": "p04_s2_t12", "speaker": "client", "text": "I guess. Amma was the one who made things okay, generally. She signed permission slips I'd forgotten, found my PE kit, finished a volcano project at midnight once so it'd be there in the morning. Dad never knew half of it. She was basically my handler."},
+        {"turn_id": "p04_s2_t13", "speaker": "therapist", "text": "Your handler. That's quite a job description."},
+        {"turn_id": "p04_s2_t14", "speaker": "client", "text": "She'd still do it now if I let her. Before Larkspur I was at Kestrel, a logistics startup, and when they let me go, two years ago this July, the twenty-sixth, a Friday, Amma was the first person I rang. Security walked me out with a cardboard box like in a film. I didn't tell my father for four months."},
+        {"turn_id": "p04_s2_t15", "speaker": "therapist", "text": "Four months is a long time to hold something like that."},
+        {"turn_id": "p04_s2_t16", "speaker": "client", "text": "I had Amma, so it wasn't nothing. Anyway. I've been very productive in other areas. On Sunday I wrote a nine-hundred-word review of a ramen place on the neighbourhood food site instead of doing a ticket. With subheadings. The broth deserved it."},
+        {"turn_id": "p04_s2_t17", "speaker": "therapist", "text": "(laughs) The broth deserved it. Do you notice when the switch to side tasks happens?"},
+        {"turn_id": "p04_s2_t18", "speaker": "client", "text": "Always right before the real thing. It's like my brain sees the task and goes, have you considered ramen? And I go, well, I have now."},
+        {"turn_id": "p04_s2_t19", "speaker": "therapist", "text": "What happens in your body just before you switch?"},
+        {"turn_id": "p04_s2_t20", "speaker": "client", "text": "A sort of fizz in my chest. Like dread, but caffeinated. Priya at work keeps telling me to come bouldering with her, she says it's 'dread for your hands instead'. I said maybe. I'm a maybe person."},
+        {"turn_id": "p04_s2_t21", "speaker": "therapist", "text": "Maybe is a start. What would turn it into a yes?"},
+        {"turn_id": "p04_s2_t22", "speaker": "client", "text": "Someone physically collecting me from the flat so I can't bail. Which she has threatened to do. She's very persistent for someone so small."},
+        {"turn_id": "p04_s2_t23", "speaker": "therapist", "text": "She sounds like a good friend. Let's stop there. Notice the fizz this week, if you can."},
+        {"turn_id": "p04_s2_t24", "speaker": "client", "text": "Homework. Great. (laughs) No, I'll try. I'll write it in a note on my phone that I will never open again."}
+      ]
+    },
+    {
+      "session_id": "p04_s3",
+      "date": "2026-05-26",
+      "turns": [
+        {"turn_id": "p04_s3_t01", "speaker": "therapist", "text": "Hi Dev. How's the fortnight been?"},
+        {"turn_id": "p04_s3_t02", "speaker": "client", "text": "Okay, plot twist, I've been climbing. Priya actually turned up at my door and drove me to the bouldering place by the canal. I've been three times since. I'm terrible at it. But for an hour my brain is completely quiet. You can't think about anything when you're hanging off a wall by your fingertips. And I sleep like a stone after."},
+        {"turn_id": "p04_s3_t03", "speaker": "therapist", "text": "Completely quiet. That's not nothing."},
+        {"turn_id": "p04_s3_t04", "speaker": "client", "text": "It's really not. And the meds are kind of wild. It's like someone turned the radio down in the next room. I wrote a design doc start to finish in one sitting on Thursday. I nearly cried. I also forgot to eat until seven at night, so, swings and roundabouts."},
+        {"turn_id": "p04_s3_t05", "speaker": "therapist", "text": "Two things helping at the same time."},
+        {"turn_id": "p04_s3_t06", "speaker": "client", "text": "Don't jinx it. (laughs) Mei's pleased. She says I'm less of a weather system. We had her parents over for dinner on Saturday and I didn't disappear into my phone once."},
+        {"turn_id": "p04_s3_t07", "speaker": "therapist", "text": "What was that like?"},
+        {"turn_id": "p04_s3_t08", "speaker": "client", "text": "Her dad asked about work and I actually answered in full sentences. Usually I go vague, because I'm scared of the follow-up question. Her parents are lovely. They're retired teachers, they live for follow-up questions."},
+        {"turn_id": "p04_s3_t09", "speaker": "therapist", "text": "And how are things at work?"},
+        {"turn_id": "p04_s3_t10", "speaker": "client", "text": "Better. I'm doing more code reviews for other people, which I actually love. It's like a puzzle where I'm not the one being solved. Ruth suggested a timer thing, twenty-five minutes on, five off. I lasted a day. The alarm went, I snoozed it and kept reading about lighthouses."},
+        {"turn_id": "p04_s3_t11", "speaker": "therapist", "text": "The timer didn't stick."},
+        {"turn_id": "p04_s3_t12", "speaker": "client", "text": "Nothing that relies on future-me sticks. Mei says I live in two tenses, now and not now, and not-now doesn't really exist. I'll set a reminder, and when it goes off I genuinely think, who is this for? Some stranger's problem."},
+        {"turn_id": "p04_s3_t13", "speaker": "therapist", "text": "Some stranger's problem. That's a vivid way to put it."},
+        {"turn_id": "p04_s3_t14", "speaker": "client", "text": "My sister Kavya's the total opposite. She's got her kids' birthday parties planned to 2030. I love her, but family holidays with her are like a military operation. There's a laminated itinerary."},
+        {"turn_id": "p04_s3_t15", "speaker": "therapist", "text": "How are you feeling about your dad's operation?"},
+        {"turn_id": "p04_s3_t16", "speaker": "client", "text": "It's in July. He's being stoic about it, very him. I'll go and sit with him, obviously. Even though he didn't come to my graduation. I got a two-one and he said he'd have come for a first. Amma and Kavya came and took about a hundred photos. He said well done on the phone that night, like a receptionist."},
+        {"turn_id": "p04_s3_t17", "speaker": "therapist", "text": "Like a receptionist. That must have stung."},
+        {"turn_id": "p04_s3_t18", "speaker": "client", "text": "It's fine. It was twelve years ago. (pause) Okay, it's not totally fine. Can we talk about something lighter? I've been building a synth plugin at night. It makes everything sound like it's underwater."},
+        {"turn_id": "p04_s3_t19", "speaker": "therapist", "text": "What draws you to it?"},
+        {"turn_id": "p04_s3_t20", "speaker": "client", "text": "Nobody's waiting for it. No deadline, no one to disappoint. I can be bad at it in private. I was up till half three on Friday with it and it was the best night of my week."},
+        {"turn_id": "p04_s3_t21", "speaker": "therapist", "text": "Being bad at something in private sounds like a relief."},
+        {"turn_id": "p04_s3_t22", "speaker": "client", "text": "Total relief. Mei says it's the only hobby I've ever finished, except I haven't finished it, so she's being generous."},
+        {"turn_id": "p04_s3_t23", "speaker": "therapist", "text": "We're near time. How's sleep been since the medication?"},
+        {"turn_id": "p04_s3_t24", "speaker": "client", "text": "Fine so far. A bit wired till midnight, but I'm a night owl anyway, so honestly, who can tell."},
+        {"turn_id": "p04_s3_t25", "speaker": "therapist", "text": "Let's keep an eye on it. See you in two weeks."},
+        {"turn_id": "p04_s3_t26", "speaker": "client", "text": "See you. I'll bring a plugin demo. You'll hate it, it's mostly whale noises and static."}
+      ]
+    },
+    {
+      "session_id": "p04_s4",
+      "date": "2026-06-09",
+      "turns": [
+        {"turn_id": "p04_s4_t01", "speaker": "therapist", "text": "Hi Dev. How are you doing?"},
+        {"turn_id": "p04_s4_t02", "speaker": "client", "text": "Tired, in a good way? Also, we've got a new intern on the team, Tobi, and Ruth's asked me to be his buddy, which is terrifying. He's twenty-two and very earnest and he writes down things I say. Nobody should be writing down things I say."},
+        {"turn_id": "p04_s4_t03", "speaker": "therapist", "text": "What feels terrifying about it?"},
+        {"turn_id": "p04_s4_t04", "speaker": "client", "text": "What if I'm the bad example? He'll copy my habits. He'll start doing his tickets at one in the morning and think that's just what engineers do."},
+        {"turn_id": "p04_s4_t05", "speaker": "therapist", "text": "What would you want him to take from you?"},
+        {"turn_id": "p04_s4_t06", "speaker": "client", "text": "That it's okay not to know things. Which I don't believe myself, so that'll be very convincing."},
+        {"turn_id": "p04_s4_t07", "speaker": "therapist", "text": "You might teach it before you believe it. Where did you learn that not knowing wasn't okay?"},
+        {"turn_id": "p04_s4_t08", "speaker": "client", "text": "The usual place. The words weren't even the worst bit, though. It was before the words. He'd hold the report and breathe out through his nose, this long slow exhale, and lay it face down next to his plate. Then you knew. Kavya says she still can't stand it when people do that in meetings."},
+        {"turn_id": "p04_s4_t09", "speaker": "therapist", "text": "The exhale before the verdict."},
+        {"turn_id": "p04_s4_t10", "speaker": "client", "text": "Yeah. I can do a pretty good impression. I won't. (laughs) Mei's had a migraine since Friday, by the way, so I've been on dark-room duty. Bringing her toast and not talking. I'm good at not talking."},
+        {"turn_id": "p04_s4_t11", "speaker": "therapist", "text": "You're good at looking after her."},
+        {"turn_id": "p04_s4_t12", "speaker": "client", "text": "When it's concrete. Toast, water, curtains. The abstract stuff she does. I got us tickets to a gig in August, that's my contribution to the summer."},
+        {"turn_id": "p04_s4_t13", "speaker": "therapist", "text": "How are your working hours at the moment?"},
+        {"turn_id": "p04_s4_t14", "speaker": "client", "text": "Reasonable, for me. When I first started at Larkspur I was the last one out of the building for about a year. No one asked me to. I just had this idea that if I was always visibly there, they couldn't do a Kestrel on me again. The cleaners knew my name and my coffee order."},
+        {"turn_id": "p04_s4_t15", "speaker": "therapist", "text": "So they couldn't do it to you again."},
+        {"turn_id": "p04_s4_t16", "speaker": "client", "text": "Mei used to bring dinner to my desk, like a zookeeper. Now I'm mostly home by six, which she counts as a personal victory. She's put it on the calendar."},
+        {"turn_id": "p04_s4_t17", "speaker": "therapist", "text": "It sounds like something has eased."},
+        {"turn_id": "p04_s4_t18", "speaker": "client", "text": "Some things. Dad's blood pressure is up before the surgery, so they might postpone, and he's taking it out on Amma by reorganising the garage. That's his stress mode. Moving heavy things in silence."},
+        {"turn_id": "p04_s4_t19", "speaker": "therapist", "text": "Moving heavy things in silence. Does that sound at all familiar?"},
+        {"turn_id": "p04_s4_t20", "speaker": "client", "text": "(laughs) Rude. Accurate, but rude. Mei says I'm my father's son when I spend three hours tidying the cables behind the TV instead of having a conversation."},
+        {"turn_id": "p04_s4_t21", "speaker": "therapist", "text": "What conversation were you avoiding?"},
+        {"turn_id": "p04_s4_t22", "speaker": "client", "text": "Whether we do Diwali at Kavya's or with her parents. It's months away. I said let's decide later. She said that's what you always say, which is also accurate and also rude."},
+        {"turn_id": "p04_s4_t23", "speaker": "therapist", "text": "We'll keep an eye on the avoiding. Anything else before we stop?"},
+        {"turn_id": "p04_s4_t24", "speaker": "client", "text": "Tobi's first code review is Thursday. I'm reviewing his, I mean, not the other way round. Pray for him."},
+        {"turn_id": "p04_s4_t25", "speaker": "therapist", "text": "I suspect you'll be kinder than you fear."},
+        {"turn_id": "p04_s4_t26", "speaker": "client", "text": "I'll try. I'll be nicer to him than I am to myself, anyway, which is a low bar, but it's a bar."}
+      ]
+    },
+    {
+      "session_id": "p04_s5",
+      "date": "2026-06-23",
+      "turns": [
+        {"turn_id": "p04_s5_t01", "speaker": "therapist", "text": "Hi Dev. How have things been?"},
+        {"turn_id": "p04_s5_t02", "speaker": "client", "text": "So, I stopped the meds. About ten days ago. I wasn't hungry till nine at night, I'd lost weight I didn't have to lose, and I was lying awake till three with my heart going. The GP said we could try a different one or a lower dose, and I said let me have a break first. So I'm on a break."},
+        {"turn_id": "p04_s5_t03", "speaker": "therapist", "text": "That sounds like a reasonable call given the side effects. How do you feel about it?"},
+        {"turn_id": "p04_s5_t04", "speaker": "client", "text": "Like I failed the medication exam. Which I know isn't a thing. Mei says I didn't fail anything, the pill failed me. She's very pro-me."},
+        {"turn_id": "p04_s5_t05", "speaker": "therapist", "text": "She is. How's the rest of life?"},
+        {"turn_id": "p04_s5_t06", "speaker": "client", "text": "Bit flat. I haven't been to the wall in about a month. My membership ran out, and I keep meaning to renew it, and then it's eleven at night and I'm on the sofa. Priya's stopped asking, which is somehow worse than her asking."},
+        {"turn_id": "p04_s5_t07", "speaker": "therapist", "text": "It sounds like two supports have dropped away at once."},
+        {"turn_id": "p04_s5_t08", "speaker": "client", "text": "When you say it like that. Work's okay, at least. The Captain's been on holiday, so it's been calm. Sorry, the Captain is Ruth, my manager. Priya and I started calling her that because she says 'all hands' on every call and she steers a meeting like a ship through rocks. Affectionately. Mostly affectionately."},
+        {"turn_id": "p04_s5_t09", "speaker": "therapist", "text": "(smiles) Mostly affectionately."},
+        {"turn_id": "p04_s5_t10", "speaker": "client", "text": "She'd probably find it funny. She's got a sense of humour under the clipboard. Anyway, Tobi's code review went fine. I wrote everything as questions, not statements. He thanked me. Then I went home and lay down for an hour, it took that much out of me."},
+        {"turn_id": "p04_s5_t11", "speaker": "therapist", "text": "Being gentle cost you something."},
+        {"turn_id": "p04_s5_t12", "speaker": "client", "text": "It's like translating. I hear the harsh version first, in my head, word for word, and then I rewrite it into the human version before it goes out. It takes ages. I don't think most people have to do that."},
+        {"turn_id": "p04_s5_t13", "speaker": "therapist", "text": "Whose voice is the harsh version?"},
+        {"turn_id": "p04_s5_t14", "speaker": "client", "text": "You know whose. (pause) Speaking of. Dad's surgery is booked for the fourteenth of July. Kavya's taking the first two weeks, I'm doing the weekend after that. Amma's made a rota. It's laminated."},
+        {"turn_id": "p04_s5_t15", "speaker": "therapist", "text": "How do you feel about doing your part?"},
+        {"turn_id": "p04_s5_t16", "speaker": "client", "text": "Fine. Practical. I'll take my laptop in case I get bored, which I will. Amma will feed me every forty minutes. I'll come back three kilos heavier, which after the meds is probably the plan."},
+        {"turn_id": "p04_s5_t17", "speaker": "therapist", "text": "(smiles) That sounds like Amma."},
+        {"turn_id": "p04_s5_t18", "speaker": "client", "text": "Very Amma. Meanwhile I've gone a bit feral at night. Off the meds, the side projects are back with a vengeance. On Saturday I was up till four rewriting the bus app in a different language, for no reason at all. Mei found me at dawn and said I looked haunted."},
+        {"turn_id": "p04_s5_t19", "speaker": "therapist", "text": "What are those late nights like?"},
+        {"turn_id": "p04_s5_t20", "speaker": "client", "text": "Honestly? Great while it's happening. Then terrible. Sunday was a write-off. I couldn't do anything, I just lay on the sofa feeling like burnt toast."},
+        {"turn_id": "p04_s5_t21", "speaker": "therapist", "text": "A crash after the high."},
+        {"turn_id": "p04_s5_t22", "speaker": "client", "text": "Yeah. Mei calls it my hangover without the fun part. She's not wrong. She's rarely wrong, it's very annoying."},
+        {"turn_id": "p04_s5_t23", "speaker": "therapist", "text": "Can we think about the next fortnight? What's one small thing within reach?"},
+        {"turn_id": "p04_s5_t24", "speaker": "client", "text": "Renewing the membership. I know. I know. I'll do it tonight. (pause) I probably won't do it tonight."},
+        {"turn_id": "p04_s5_t25", "speaker": "therapist", "text": "Probably won't is honest. We'll see where you are in two weeks."},
+        {"turn_id": "p04_s5_t26", "speaker": "client", "text": "Thanks. Sorry I was a bit flat today. Next time I'll bring jokes, or at least the whale noises."}
+      ]
+    },
+    {
+      "session_id": "p04_s6",
+      "date": "2026-07-07",
+      "turns": [
+        {"turn_id": "p04_s6_t01", "speaker": "therapist", "text": "Hi Dev. How's the last fortnight been?"},
+        {"turn_id": "p04_s6_t02", "speaker": "client", "text": "Quiet, mostly. The Captain's been off at some half-year planning thing for a week, so nobody's been steering and the team's sort of drifted. I've been working nine till six like a functional person. Mostly."},
+        {"turn_id": "p04_s6_t03", "speaker": "therapist", "text": "Nine till six. How has that felt?"},
+        {"turn_id": "p04_s6_t04", "speaker": "client", "text": "Strange. Like wearing someone else's shoes. Good shoes, but I keep checking they're still on."},
+        {"turn_id": "p04_s6_t05", "speaker": "therapist", "text": "What else has been going on?"},
+        {"turn_id": "p04_s6_t06", "speaker": "client", "text": "Mei's sister had a baby, so Mei's flying out to stay with them for a bit later in the summer. I'm really happy for them. I bought the baby a onesie with a cassette tape on it. Mei says it's for me, not the baby."},
+        {"turn_id": "p04_s6_t07", "speaker": "therapist", "text": "(laughs) What else did Mei say?"},
+        {"turn_id": "p04_s6_t08", "speaker": "client", "text": "That I need to get a spare key cut before she goes, because last time she went away I locked myself out twice. Which, fair. I've written KEY on my hand. It's already fading."},
+        {"turn_id": "p04_s6_t09", "speaker": "therapist", "text": "How are things with your dad, with the surgery coming up?"},
+        {"turn_id": "p04_s6_t10", "speaker": "client", "text": "It's next week. Dad rang me, which he never does, to ask if I could look at his printer. That's how he asks for company. We spent an hour on a printer that turned out to be unplugged."},
+        {"turn_id": "p04_s6_t11", "speaker": "therapist", "text": "That's quite a tender way of asking."},
+        {"turn_id": "p04_s6_t12", "speaker": "client", "text": "Yeah. He's sixty-eight. He's scared, I think, though he'd never say it. I didn't know what to do with that, so I fixed the printer. Well, I plugged it in."},
+        {"turn_id": "p04_s6_t13", "speaker": "therapist", "text": "How's your energy been, a few weeks on from stopping the medication?"},
+        {"turn_id": "p04_s6_t14", "speaker": "client", "text": "Lumpy. Some good days. Some days I'm all tabs and no output. I've gone back to the ramen site, I'm reviewing places at one in the morning again. Eleven noodle shops this month. I'm their top contributor."},
+        {"turn_id": "p04_s6_t15", "speaker": "therapist", "text": "(smiles) Top contributor. What usually comes just before the reviewing starts?"},
+        {"turn_id": "p04_s6_t16", "speaker": "client", "text": "Something at work I'm avoiding. Right now it's a database migration that's been mine for a month. Every time I start it I find something else to tidy. Yesterday I changed my desktop wallpaper to a plain colour. That took forty minutes."},
+        {"turn_id": "p04_s6_t17", "speaker": "therapist", "text": "What feels risky about the migration?"},
+        {"turn_id": "p04_s6_t18", "speaker": "client", "text": "If I get it wrong it's very public. Everyone sees the alerts go off. Everyone knows whose name is on it."},
+        {"turn_id": "p04_s6_t19", "speaker": "therapist", "text": "Everyone sees. Being seen getting it wrong."},
+        {"turn_id": "p04_s6_t20", "speaker": "client", "text": "Yeah. I know where that comes from, I don't need to go there today. Can I tell you about the bus app instead? It has eleven users now. One of them left a five-star rating that just says 'finally'."},
+        {"turn_id": "p04_s6_t21", "speaker": "therapist", "text": "Eleven users. That's lovely."},
+        {"turn_id": "p04_s6_t22", "speaker": "client", "text": "It's the most validated I've felt in months. From a stranger. About a bus. I'm choosing not to examine that."},
+        {"turn_id": "p04_s6_t23", "speaker": "therapist", "text": "Let's hold onto it anyway. Same time in two weeks?"},
+        {"turn_id": "p04_s6_t24", "speaker": "client", "text": "Yes. I'll try to have a less lumpy fortnight. No promises about the noodle reviews."}
+      ]
+    }
+  ],
+  "queries": [
+    {
+      "query_id": "p04_q01",
+      "category": "trigger_recurrence",
+      "date": "2026-07-21",
+      "query": "Priya left about fifteen notes on my code review on Tuesday. All fair, honestly, nothing nasty. I shut the laptop and didn't open it again until Thursday, and told the team I had a migraine.",
+      "evidence": ["p04_s1_t14", "p04_s2_t10"],
+      "chain": [
+        {"turn_id": "p04_s2_t10", "fact": "After his father's verdicts he would switch off for hours, lying under his desk."},
+        {"turn_id": "p04_s1_t14", "fact": "His father read his school reports aloud at the dinner table: 'if you just applied yourself'."}
+      ],
+      "reasoning": "Fair written feedback on his work is the same trigger as the dinner-table reports, and shutting the laptop for two days is the adult version of switching off under the desk.",
+      "distractors": ["p04_s2_t16", "p04_s3_t10", "p04_s4_t10", "p04_s5_t16"],
+      "why_it_matters": "Treated as procrastination or a time-management slip, the therapist misses the shame response to evaluation that drives it."
+    },
+    {
+      "query_id": "p04_q02",
+      "category": "entity_resolution",
+      "date": "2026-07-28",
+      "query": "The Captain's put a 'quick chat about the half-year' in my calendar for Thursday, no agenda. I've already drafted my resignation in my head three times.",
+      "evidence": ["p04_s5_t08", "p04_s1_t06"],
+      "chain": [
+        {"turn_id": "p04_s5_t08", "fact": "'The Captain' is his private nickname for his manager Ruth."},
+        {"turn_id": "p04_s1_t06", "fact": "Ruth is the best manager he has had; she set up his accommodations and backs him."}
+      ],
+      "reasoning": "The Captain is Ruth, whose track record is supportive, so the leap to resignation comes from his shame template, not from anything she has done.",
+      "distractors": ["p04_s6_t02", "p04_s1_t24", "p04_s3_t04", "p04_s4_t16"],
+      "why_it_matters": "Without resolving the nickname the therapist can't test his catastrophic prediction against the evidence that this manager is on his side."
+    },
+    {
+      "query_id": "p04_q03",
+      "category": "coping_resource",
+      "date": "2026-07-14",
+      "query": "Honestly, nothing works. I've tried the timer thing, the apps, cold showers, journaling, all of it. My head is just loud all the time and I'm sick of it.",
+      "evidence": ["p04_s3_t02", "p04_s5_t06"],
+      "chain": [
+        {"turn_id": "p04_s5_t06", "fact": "He stopped bouldering about a month before late June; the membership lapsed."},
+        {"turn_id": "p04_s3_t02", "fact": "Bouldering made his mind completely quiet and helped him sleep."}
+      ],
+      "reasoning": "Something did work: climbing quieted his mind, and it lapsed around the time things got worse, so 'nothing works' leaves out a proven resource.",
+      "distractors": ["p04_s3_t10", "p04_s1_t22", "p04_s5_t18", "p04_s6_t20"],
+      "why_it_matters": "The therapist might add yet another technique instead of helping him get back to the one activity that clearly helped."
+    },
+    {
+      "query_id": "p04_q04",
+      "category": "state_update",
+      "date": "2026-07-28",
+      "query": "My focus has been shocking. On Monday I sat down to do a two-hour ticket, and four hours later I'd reorganised all my config files and read the entire history of submarines. Is this just who I am?",
+      "evidence": ["p04_s5_t02", "p04_s3_t04", "p04_s2_t02"],
+      "chain": [
+        {"turn_id": "p04_s5_t02", "fact": "He stopped the stimulant in mid-June because of appetite loss and insomnia."},
+        {"turn_id": "p04_s3_t04", "fact": "On the medication his attention improved markedly (wrote a design doc in one sitting)."},
+        {"turn_id": "p04_s2_t02", "fact": "He started a long-acting stimulant in early May."}
+      ],
+      "reasoning": "His current state is off medication after a trial that worked but had side effects, so the drop in attention is expected and the GP's offer of another option is relevant.",
+      "distractors": ["p04_s1_t04", "p04_s4_t12", "p04_s3_t10", "p04_s4_t18"],
+      "why_it_matters": "Without the latest medication state the therapist might assume he is still medicated, or treat this as a character flaw instead of prompting a return to the GP."
+    },
+    {
+      "query_id": "p04_q05",
+      "category": "relational_template",
+      "date": "2026-07-28",
+      "query": "Mei's at her sister's in another city for two weeks, and I've just realised I don't know which account the rent comes out of. She left me a spreadsheet with colour coding. I feel weirdly abandoned, which is ridiculous.",
+      "evidence": ["p04_s1_t10", "p04_s2_t12"],
+      "chain": [
+        {"turn_id": "p04_s1_t10", "fact": "Mei handles all the household bills and admin."},
+        {"turn_id": "p04_s2_t12", "fact": "As a boy his mother quietly fixed things for him and covered for him: 'my handler'."}
+      ],
+      "reasoning": "Mei has taken the role his mother had, the quiet fixer who shields him; with her gone he is exposed, which explains the outsized abandonment.",
+      "distractors": ["p04_s6_t06", "p04_s3_t14", "p04_s6_t16", "p04_s1_t24"],
+      "why_it_matters": "Without the template the therapist treats it as a practical money problem or simple missing her, and misses the dependency pattern and the shame of being found out."
+    },
+    {
+      "query_id": "p04_q06",
+      "category": "latent_trait",
+      "date": "2026-07-14",
+      "query": "My cousin Nikhil's engagement party was on Saturday and I completely missed it. Hand on heart, I thought it was the weekend after. Now my aunt's telling everyone I think I'm too good for the family.",
+      "evidence": ["p04_s1_t20", "p04_s3_t12"],
+      "chain": [
+        {"turn_id": "p04_s3_t12", "fact": "He experiences time as 'now and not now'; future events barely exist for him."},
+        {"turn_id": "p04_s1_t20", "fact": "He was diagnosed with ADHD at 30."}
+      ],
+      "reasoning": "Missing a date is ADHD time blindness, not disrespect for the family.",
+      "distractors": ["p04_s3_t14", "p04_s3_t06", "p04_s6_t08", "p04_s1_t18"],
+      "why_it_matters": "Without the link the therapist explores family conflict or his values instead of practical external supports for dates and the shame of being judged."
+    },
+    {
+      "query_id": "p04_q07",
+      "category": "contradiction",
+      "date": "2026-08-04",
+      "query": "I spent the weekend at my parents' helping out after Dad's knee op. We had dinner together, just the three of us, and honestly I think I've been unfair to him in here. He was never hard on me. He just had high standards, like any dad.",
+      "evidence": ["p04_s1_t14", "p04_s2_t08", "p04_s3_t16"],
+      "chain": [
+        {"turn_id": "p04_s3_t16", "fact": "His father skipped his graduation because he got a 2:1."},
+        {"turn_id": "p04_s2_t08", "fact": "His father went over his homework with a red pen every Sunday, standing behind his chair."},
+        {"turn_id": "p04_s1_t14", "fact": "His father read his school reports aloud at dinner: 'if you just applied yourself'."}
+      ],
+      "reasoning": "He described a father who publicly criticised him, policed his homework and skipped his graduation; 'never hard on me' conflicts with all of it.",
+      "distractors": ["p04_s2_t06", "p04_s5_t14", "p04_s4_t18", "p04_s3_t06"],
+      "why_it_matters": "Taken at face value, the therapist loses the formulation; the softening after seeing his father vulnerable is worth exploring, not accepting as a correction."
+    },
+    {
+      "query_id": "p04_q08",
+      "category": "temporal_anniversary",
+      "date": "2026-07-21",
+      "query": "I've been weird all week. I keep checking that my badge still opens the side door when I come in, and I've been staying till nine so nobody can say anything. Mei thinks I'm being paranoid.",
+      "evidence": ["p04_s2_t14", "p04_s4_t14"],
+      "chain": [
+        {"turn_id": "p04_s2_t14", "fact": "He was let go from Kestrel and walked out by security on 26 July two years ago."},
+        {"turn_id": "p04_s4_t14", "fact": "Afterwards he was always last out of the building so they couldn't 'do a Kestrel' on him again."}
+      ],
+      "reasoning": "It is the week before the anniversary of being walked out of Kestrel; the badge-checking and staying late are the same protective overwork he used after it.",
+      "distractors": ["p04_s6_t02", "p04_s6_t04", "p04_s3_t20", "p04_s2_t10"],
+      "why_it_matters": "Without the date link the therapist explores general paranoia or workload instead of naming an anniversary reaction."
+    },
+    {
+      "query_id": "p04_q09",
+      "category": "symbolic_reference",
+      "date": "2026-07-14",
+      "query": "We've got a new linter at work that puts angry scarlet squiggles under every mistake as you type, and I swear I want to throw my laptop out of the window. Priya loves it.",
+      "evidence": ["p04_s2_t08"],
+      "chain": [
+        {"turn_id": "p04_s2_t08", "fact": "As a boy his father marked his homework with a red pen every Sunday, standing behind his chair."}
+      ],
+      "reasoning": "Red marks appearing over his work as he writes, with someone watching, recreate the father's red pen behind his chair.",
+      "distractors": ["p04_s5_t16", "p04_s3_t02", "p04_s2_t20"],
+      "why_it_matters": "Without the link it is a gripe about tooling, and the therapist misses an everyday cue that keeps restarting his shame."
+    },
+    {
+      "query_id": "p04_q10",
+      "category": "relational_template",
+      "date": "2026-07-28",
+      "query": "Tobi asked me to look over his branch yesterday, and I caught myself doing this big huff before I'd even opened it. He went bright pink. I've been replaying it all day.",
+      "evidence": ["p04_s4_t08", "p04_s5_t12"],
+      "chain": [
+        {"turn_id": "p04_s5_t12", "fact": "When giving feedback he hears the harsh version first and has to rewrite it."},
+        {"turn_id": "p04_s4_t08", "fact": "His father's long exhale before a verdict was the worst part of being judged."}
+      ],
+      "reasoning": "With the intern he is now in his father's role, and the huff before looking is his father's exhale; the harsh inner voice leaked out before he could translate it.",
+      "distractors": ["p04_s4_t02", "p04_s5_t10", "p04_s4_t24"],
+      "why_it_matters": "Without the link the therapist treats it as a minor mentoring slip and misses both the inherited pattern and why it shook him."
+    }
+  ]
+}
